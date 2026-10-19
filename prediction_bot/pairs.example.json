@@ -1,0 +1,10 @@
+[
+  {
+    "label": "EJEMPLO — rellenar con un par verificado a mano",
+    "pm_yes": "<token_id YES de Polymarket>",
+    "pm_no": "<token_id NO de Polymarket>",
+    "kalshi": "<TICKER de Kalshi>",
+    "pm_fee": {"rate": 0, "exponent": 1},
+    "rules_notes": "Fuente, hora de corte y casos de cancelación revisados en ambos venues"
+  }
+]

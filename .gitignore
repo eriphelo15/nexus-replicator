@@ -1,0 +1,4 @@
+__pycache__/
+.env
+prediction_bot/weather/data/
+prediction_bot/rewards/*.json
