@@ -1,0 +1,17 @@
+# Cuenta "Bilberry" (Polymarket, temperatura): ¿sigue funcionando? (20-oct-2026)
+
+Revisión mínima de sus 10.000 últimas operaciones públicas (23-sep → 19-oct), con el resultado
+real de cada mercado. Margen = ganancia / dinero invertido, **antes de comisiones (~1,6 %)**.
+
+| Periodo | Operaciones | Ganancia | Invertido | Margen |
+|---|---|---|---|---|
+| 23–30 sep | 5.818 | +16.193 $ | 262.997 $ | 6,2 % |
+| 1–10 oct | 2.888 | +1.405 $ | 190.065 $ | 0,7 % (negativo tras comisiones) |
+| 11–19 oct | 904 | +895 $ | 16.469 $ | 5,4 % (muestra pequeña) |
+
+- La ventaja de septiembre se hundió a principios de octubre y la cuenta redujo su volumen ~10 veces.
+- Por tramos de precio el resultado cambia de signo de un periodo a otro: mucho ruido.
+- Sus compras se reparten igual a todas horas; no se ve que se concentren tras la publicación
+  de nuevas previsiones, así que no se puede confirmar el método del tuit con estos datos.
+
+Conclusión: hubo un hueco real en septiembre, pero ya no es fiable. No merece la pena copiarlo.
