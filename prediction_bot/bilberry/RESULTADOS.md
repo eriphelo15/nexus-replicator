@@ -32,3 +32,19 @@ La variante ≥1 °C es la mejor de 3 probadas; con 142 apuestas puede ser casua
 
 Conclusión: la versión "lenta" no gana. Si Bilberry gana, su ventaja estaría en la velocidad
 (comprar a los pocos minutos de salir la nueva ejecución del modelo), que esta prueba no reproduce.
+
+## 26-oct: cómo opera Bilberry (40 días, 19.438 operaciones)
+
+- Compra **una vez por hora**: el 97 % de las compras entre hh:10 y hh:12 UTC (mediana hh:10:50).
+- Gana sobre todo cerca del día: 0–12 h antes +9,3 %, durante el día +8,7 %, 24–36 h antes +1,5 %.
+- Gana más comprando favoritos (60–90 c: +8–9 %) que tramos baratos (5–20 c: −0,5 %).
+- Vende posiciones antes de resolverse cuando cambia la información (ventas +10 % frente a mantener).
+
+## 26-oct: prueba "durante el día" solo con observaciones (nowcast.py)
+
+- La máxima medida en el aeropuerto (METAR, archivo IEM) coincide con el tramo ganador en el **99 %**
+  de 2.663 mercados → la fuente de datos es la correcta.
+- Sin previsiones, el modelo (subida típica de días anteriores) **pierde**: −8,7 % por apuesta.
+  El mercado ya sabe más que la climatología. Solo al final del día (18–24 h) gana, con muy pocas
+  operaciones (13; +45 %).
+- Conclusión: hace falta combinar observaciones con previsiones horarias recientes (siguiente paso).
