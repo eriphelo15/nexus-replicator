@@ -48,3 +48,18 @@ Conclusión: la versión "lenta" no gana. Si Bilberry gana, su ventaja estaría 
   El mercado ya sabe más que la climatología. Solo al final del día (18–24 h) gana, con muy pocas
   operaciones (13; +45 %).
 - Conclusión: hace falta combinar observaciones con previsiones horarias recientes (siguiente paso).
+
+## 27-oct: prueba combinada (METAR + 7 modelos con 1–2 días de retraso) — combinado.py
+
+1. Primer resultado (+20 % por apuesta) era **falso**: al crearse un mercado Polymarket muestra precios
+   de relleno (0,34 / 0,20 / 0,50) sin nadie operando. Corregido: solo se usan precios cuando la suma de
+   todos los tramos ronda 1 y el precio ya se ha movido.
+2. Corregido: en conjunto **pierde** (−5 % a −10 % por apuesta, deslizamiento 2 c).
+3. Las **mínimas durante el día** ganan en la simulación (+26–41 %, todas las semanas, 43 de 47 ciudades,
+   aguanta deslizamiento de 4 c) **pero no son ejecutables**: libros reales del 27-oct → diferencia
+   mediana compra/venta 43 c y volumen mediano 7 $. El precio histórico es un punto medio ficticio.
+4. Máximas (donde hay liquidez: diferencia 2–3 c, ~78 $ a menos de 3 c): pierden con previsiones de
+   1–2 días de retraso; solo "durante el día y precio ≥ 20 c" sale algo positivo (+5–7 %, marginal).
+
+Siguiente: reconstruir las previsiones tal como se publicaban cada 6 h (API de ejecuciones individuales
+de Open-Meteo, GFS + ECMWF, 25 ciudades, 4 semanas) para igualar la frescura de datos de Bilberry.

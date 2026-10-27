@@ -57,6 +57,10 @@ def get(url, intentos=5, **kw):
             r = requests.get(url, timeout=120, **kw)
             if r.status_code == 200:
                 return r
+            if r.status_code == 429 and "open-meteo" in url:   # límite por hora/día: esperar y reintentar
+                print("límite Open-Meteo:", r.text[:80], flush=True)
+                time.sleep(900)
+                continue
         except requests.RequestException:
             pass
         time.sleep(2 * (i + 1))
@@ -155,5 +159,44 @@ def mercados():
     print(len(viejos) + len(nuevos), "eventos")
 
 
+
+def ejecuciones(dias=28, ciudades=25):
+    """Cada ejecución de GFS y ECMWF (00/06/12/18 UTC) tal como se publicó: data/ejecuciones.json."""
+    est = json.loads((DATA / "estaciones.json").read_text())
+    trades = [json.loads(l) for l in open(DATA / "bilberry_trades.jsonl")]
+    vol = {}
+    for t in trades:
+        m = re.match(r"highest-temperature-in-(.+)-on-", t["eventSlug"])
+        if m and m[1] in est:
+            vol[m[1]] = vol.get(m[1], 0) + t["usdcSize"]
+    elegidas = sorted(vol, key=lambda c: -vol[c])[:ciudades]
+    path = DATA / "ejecuciones.json"
+    out = json.loads(path.read_text()) if path.exists() else {"ciudades": elegidas, "runs": {}}
+    elegidas = out["ciudades"]
+    fin = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
+    runs = [fin - timedelta(hours=6 * i) for i in range(1, dias * 4 + 1)]
+    for r in runs:
+        k = r.strftime("%Y-%m-%dT%H:%M")
+        if k in out["runs"]:
+            continue
+        for unidad in ("fahrenheit", "celsius"):
+            cs = [c for c in elegidas if est[c]["f"] == (unidad == "fahrenheit")]
+            if not cs:
+                continue
+            resp = get("https://single-runs-api.open-meteo.com/v1/forecast", intentos=40, params={
+                "latitude": ",".join(str(est[c]["lat"]) for c in cs), "longitude": ",".join(str(est[c]["lon"]) for c in cs),
+                "models": "gfs_seamless,ecmwf_ifs025", "run": k, "hourly": "temperature_2m",
+                "temperature_unit": unidad, "forecast_days": 3, "timezone": "GMT"})
+            if not resp:
+                print("fallo", k, unidad); path.write_text(json.dumps(out)); return
+            datos = resp.json()
+            datos = datos if isinstance(datos, list) else [datos]
+            for c, d in zip(cs, datos):
+                out["runs"].setdefault(k, {})[c] = {m: d["hourly"].get(f"temperature_2m_{m}") for m in ("gfs_seamless", "ecmwf_ifs025")} | {"t0": d["hourly"]["time"][0]}
+        print(k, "ok", flush=True)
+        path.write_text(json.dumps(out))
+        time.sleep(1)
+
+
 if __name__ == "__main__":
-    {"estaciones": estaciones, "metar": metar, "previsiones": previsiones, "mercados": mercados}[sys.argv[1]]()
+    {"estaciones": estaciones, "metar": metar, "previsiones": previsiones, "mercados": mercados, "ejecuciones": ejecuciones}[sys.argv[1]]()
