@@ -25,6 +25,8 @@ APUESTA, COMISION = 25.0, 0.017
 DESLIZ = float(sys.argv[2]) if len(sys.argv) > 2 else 0.02
 VENTANA, MIN_POOL, SUAVIZADO = 30, 12, 0.6
 SUMA = (0.9, 1.15)
+import os
+RETRASO_PRECIO = int(os.environ.get("RETRASO_PRECIO", "0"))
 H = 3600
 
 
@@ -106,7 +108,7 @@ def residuos(ciu, signo):
     return out
 
 
-def simular(ciudades, mercados, margen=0.10, ventas=False, pmin=0.03, pmax=0.97):
+def simular(ciudades, mercados, margen=0.10, ventas=False, pmin=0.03, pmax=0.97, registro=None):
     pools = {}
     ops = []
     for m in mercados:
@@ -144,7 +146,7 @@ def simular(ciudades, mercados, margen=0.10, ventas=False, pmin=0.03, pmax=0.97)
             # mercado "vivo": la suma de precios de todos los tramos ronda 1 (si no, son precios de relleno)
             actuales = []
             for tr in tramos:
-                i = bisect.bisect_right(tr["pt"], t) - 1
+                i = bisect.bisect_right(tr["pt"], t - RETRASO_PRECIO) - 1
                 actuales.append(tr["pp"][i] if i >= 0 else None)
             if None in actuales or not (SUMA[0] <= sum(actuales) <= SUMA[1]):
                 continue
@@ -159,12 +161,14 @@ def simular(ciudades, mercados, margen=0.10, ventas=False, pmin=0.03, pmax=0.97)
                     p = float(np.mean(cdf_hi))
                 else:
                     p = float(np.mean(cdf_hi - cdf_lo))
-                i = bisect.bisect_right(tr["pt"], t) - 1
+                i = bisect.bisect_right(tr["pt"], t - RETRASO_PRECIO) - 1
                 if i < 0 or t - tr["pt"][i] > 3 * H:
                     continue
                 precio = tr["pp"][i]
                 if len(set(tr["pp"][:i + 1])) < 3:      # el precio aún no se ha movido: sin negociación real
                     continue
+                if registro is not None:
+                    registro.append((c, d, fase, p, precio, tr["gana"], tr["lo"], f))
                 pos = tr["pos"]
                 if pos is None:
                     if p - precio >= margen and pmin <= precio <= pmax:

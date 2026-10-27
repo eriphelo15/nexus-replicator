@@ -63,3 +63,31 @@ Conclusión: la versión "lenta" no gana. Si Bilberry gana, su ventaja estaría 
 
 Siguiente: reconstruir las previsiones tal como se publicaban cada 6 h (API de ejecuciones individuales
 de Open-Meteo, GFS + ECMWF, 25 ciudades, 4 semanas) para igualar la frescura de datos de Bilberry.
+
+## 27-oct: previsiones frescas (GFS + ECMWF directos de AWS, hora real de publicación) — nwp.py, frescas.py
+
+- 360 ejecuciones (11-sep → 26-oct), 49 ciudades, 2.132 mercados de máxima.
+- "Comprar cuando el modelo discrepa del precio" **pierde** (−9 % a −15 %): el mercado predice mejor que
+  GFS+ECMWF en bruto a cualquier antelación (Brier 0,046 vs 0,055; diag.py).
+
+## 27-oct: estrategia "reaccionar al cambio" — cambio.py  ★ primera señal positiva sólida
+
+Cada hora (hh:10 UTC), si la probabilidad de nuestro modelo para un tramo cambia ≥ X respecto a la hora
+anterior (nueva medición METAR o nueva ejecución del modelo), comprar en esa dirección y mantener.
+El precio solo recoge parte del cambio en esa hora y sigue moviéndose después (lag.py).
+
+| Regla | Apuestas (31 días) | Por apuesta, desliz. 2 c | Por apuesta, desliz. 3 c | Semanas en positivo |
+|---|---|---|---|---|
+| Δp ≥ 0,15 | 2.347 | +11,8 % | +9,0 % | 5/5 y 4/5 |
+| Δp ≥ 0,20 | 1.821 | +17,1 % | +14,2 % | 5/5 |
+| Δp ≥ 0,30 | 1.211 | +26,4 % | +23,4 % | 5/5 |
+
+- Casi todo viene de **durante el día** (≤24 h antes del cierre); con más antelación no funciona.
+- Usar precios de 10–20 min antes mejora mucho el resultado → **la velocidad importa**; el bot real
+  debe actuar en cuanto llega la medición, no esperar a hh:10.
+- Bilberry paga ~1,5–1,8 c sobre el precio histórico → el deslizamiento de 2–3 c es realista.
+- Bilberry hace otra cosa: compra ~29 h antes (su propio modelo) y vende durante el día. Su ventaja y la
+  nuestra no se solapan.
+
+Riesgos pendientes: el precio histórico es un punto medio; solo una prueba en vivo con los precios reales
+de compra (libro de órdenes) lo confirma. Siguiente paso: bot en sombra en tiempo real.
