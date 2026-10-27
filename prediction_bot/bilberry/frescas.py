@@ -1,52 +1,51 @@
 """Prueba combinada con previsiones FRESCAS: en cada hora se usa la última ejecución de GFS y de ECMWF
-que ya estaba publicada (inicio + 5 h GFS, + 7 h ECMWF), igual que haría un bot en tiempo real.
+que ya estaba publicada (hora real del archivo en AWS), igual que haría un bot en tiempo real.
 Solo máximas (los mínimos no tienen liquidez real). Reutiliza la lógica de combinado.py.
 
     python frescas.py [margen] [deslizamiento]
 """
-import json, math, sys
+import bisect, json, math, sys
 from datetime import datetime, timezone
 
 import numpy as np
 
 import combinado as cb
 
-RETRASO = {"gfs_seamless": 5 * 3600, "ecmwf_ifs025": 7 * 3600}
-
-
 class CiudadFresca(cb.Ciudad):
-    def __init__(self, e, metar, prev, runs, nombre):
+    """Usa, en cada momento, la última ejecución de GFS y de ECMWF ya publicada (hora real del archivo)."""
+
+    def __init__(self, e, metar, prev, nwp, nombre):
         super().__init__(e, metar, prev)
-        self.series = {}   # modelo → lista ordenada de (disponible_desde, t0, valores)
-        for k, porc in runs.items():
-            d = porc.get(nombre)
-            if not d:
+        self.series = {}
+        for k, d in nwp.items():
+            modelo, run = k.split("|")
+            t0 = datetime.fromisoformat(run).replace(tzinfo=timezone.utc).timestamp()
+            vals = d["t"].get(nombre)
+            if not vals:
                 continue
-            t0 = datetime.fromisoformat(d["t0"]).replace(tzinfo=timezone.utc).timestamp()
-            for m, vals in d.items():
-                if m == "t0" or not vals:
-                    continue
-                self.series.setdefault(m, []).append((t0 + RETRASO[m], t0, vals))
+            horas = np.array(d["pasos"], float)
+            v = np.array(vals, float)
+            if e["f"]:
+                v = v * 1.8 + 32
+            todas = np.arange(0, horas[-1] + 1)
+            self.series.setdefault(modelo, []).append((d["pub"], t0, np.interp(todas, horas, v)))
         for m in self.series:
             self.series[m].sort()
+        self.pubs = {m: [x[0] for x in l] for m, l in self.series.items()}
 
     def prevision(self, t, a, b, signo):
         por_modelo = []
         for m, lista in self.series.items():
-            disp = [x for x in lista if x[0] <= t]
-            if not disp:
-                continue
-            _, t0, vals = disp[-1]
-            hs = []
-            v = math.ceil(max(a, t) / cb.H) * cb.H
-            while v < b:
-                k = int((v - t0) // cb.H)
-                if k < 0 or k >= len(vals) or vals[k] is None:
-                    hs = None; break
-                hs.append(signo * vals[k]); v += cb.H
-            if hs:
-                por_modelo.append(max(hs))
-        return float(np.mean(por_modelo)) if len(por_modelo) == len(self.series) and por_modelo else None
+            i = bisect.bisect_right(self.pubs[m], t) - 1
+            if i < 0:
+                return None
+            _, t0, vals = lista[i]
+            k0 = int((math.ceil(max(a, t) / cb.H) * cb.H - t0) // cb.H)
+            k1 = int((b - t0) // cb.H)
+            if k0 < 0 or k1 > len(vals) or k0 >= k1:
+                return None
+            por_modelo.append(float(np.max(signo * vals[k0:k1])))
+        return float(np.mean(por_modelo)) if len(por_modelo) == 2 else None
 
 
 def main():
@@ -54,13 +53,13 @@ def main():
     est = json.loads((cb.DATA / "estaciones.json").read_text())
     metar = json.loads((cb.DATA / "metar.json").read_text())
     prev = json.loads((cb.DATA / "prev_horarias.json").read_text())
-    ej = json.loads((cb.DATA / "ejecuciones.json").read_text())
-    ciudades = {c: CiudadFresca(est[c], metar[c], prev[c], ej["runs"], c) for c in ej["ciudades"]}
-    inicio = min(ej["runs"])[:10]
+    nwp = json.loads((cb.DATA / "nwp.json").read_text())
+    ciudades = {c: CiudadFresca(est[c], metar[c], prev[c], nwp, c) for c in est if c in metar and c in prev}
+    inicio = min(k.split("|")[1] for k in nwp)[:10]
     mercados = [m for m in json.loads((cb.DATA / "mercados50.json").read_text())
                 if m["tipo"] == "highest" and m["ciudad"] in ciudades and m["dia"] > inicio]
     mercados.sort(key=lambda m: m["dia"])
-    print(f"{len(ej['runs'])} ejecuciones desde {inicio}, {len(mercados)} mercados")
+    print(f"{len(nwp)} ejecuciones desde {inicio}, {len(mercados)} mercados")
     for ventas in (False, True):
         ops = cb.simular(ciudades, mercados, margen=margen, ventas=ventas)
         print(f"\n=== FRESCAS margen {margen:.2f} desliz {cb.DESLIZ:.2f} {'CON ventas' if ventas else 'sin ventas'} ===")
