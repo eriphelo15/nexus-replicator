@@ -1,0 +1,345 @@
+{
+ "houston": {
+  "icao": "KHOU",
+  "lat": 29.64582,
+  "lon": -95.28214,
+  "tz": "America/Chicago",
+  "f": true
+ },
+ "warsaw": {
+  "icao": "EPWA",
+  "lat": 52.163,
+  "lon": 20.961,
+  "tz": "Europe/Warsaw",
+  "f": false
+ },
+ "nyc": {
+  "icao": "KLGA",
+  "lat": 40.77945,
+  "lon": -73.88027,
+  "tz": "America/New_York",
+  "f": true
+ },
+ "miami": {
+  "icao": "KMIA",
+  "lat": 25.78806,
+  "lon": -80.31692,
+  "tz": "America/New_York",
+  "f": true
+ },
+ "san-francisco": {
+  "icao": "KSFO",
+  "lat": 37.61961,
+  "lon": -122.36561,
+  "tz": "America/Los_Angeles",
+  "f": true
+ },
+ "madrid": {
+  "icao": "LEMD",
+  "lat": 40.466,
+  "lon": -3.555,
+  "tz": "Europe/Madrid",
+  "f": false
+ },
+ "jeddah": {
+  "icao": "OEJN",
+  "lat": 21.685,
+  "lon": 39.166,
+  "tz": "Asia/Riyadh",
+  "f": false
+ },
+ "tokyo": {
+  "icao": "RJTT",
+  "lat": 35.553,
+  "lon": 139.781,
+  "tz": "Asia/Tokyo",
+  "f": false
+ },
+ "panama-city": {
+  "icao": "MPMG",
+  "lat": 8.967,
+  "lon": -79.555,
+  "tz": "America/Panama",
+  "f": false
+ },
+ "beijing": {
+  "icao": "ZBAA",
+  "lat": 40.082,
+  "lon": 116.603,
+  "tz": "Asia/Shanghai",
+  "f": false
+ },
+ "seoul": {
+  "icao": "RKSI",
+  "lat": 37.469,
+  "lon": 126.451,
+  "tz": "Asia/Seoul",
+  "f": false
+ },
+ "chongqing": {
+  "icao": "ZUCK",
+  "lat": 29.718,
+  "lon": 106.639,
+  "tz": "Asia/Shanghai",
+  "f": false
+ },
+ "manila": {
+  "icao": "RPLL",
+  "lat": 14.507,
+  "lon": 121.004,
+  "tz": "Asia/Manila",
+  "f": false
+ },
+ "wuhan": {
+  "icao": "ZHHH",
+  "lat": 30.783,
+  "lon": 114.205,
+  "tz": "Asia/Shanghai",
+  "f": false
+ },
+ "london": {
+  "icao": "EGLC",
+  "lat": 51.505,
+  "lon": 0.055,
+  "tz": "Europe/London",
+  "f": false
+ },
+ "buenos-aires": {
+  "icao": "SAEZ",
+  "lat": -34.822,
+  "lon": -58.536,
+  "tz": "America/Argentina/Buenos_Aires",
+  "f": false
+ },
+ "guangzhou": {
+  "icao": "ZGGG",
+  "lat": 23.392,
+  "lon": 113.307,
+  "tz": "Asia/Shanghai",
+  "f": false
+ },
+ "mexico-city": {
+  "icao": "MMMX",
+  "lat": 19.436,
+  "lon": -99.072,
+  "tz": "America/Mexico_City",
+  "f": false
+ },
+ "busan": {
+  "icao": "RKPK",
+  "lat": 35.179,
+  "lon": 128.938,
+  "tz": "Asia/Seoul",
+  "f": false
+ },
+ "denver": {
+  "icao": "KBKF",
+  "lat": 39.713,
+  "lon": -104.758,
+  "tz": "America/Denver",
+  "f": true
+ },
+ "shenzhen": {
+  "icao": "ZGSZ",
+  "lat": 22.639,
+  "lon": 113.803,
+  "tz": "Asia/Shanghai",
+  "f": false
+ },
+ "moscow": {
+  "icao": "UUWW",
+  "lat": 55.592,
+  "lon": 37.261,
+  "tz": "Europe/Moscow",
+  "f": false
+ },
+ "paris": {
+  "icao": "LFPB",
+  "lat": 48.967,
+  "lon": 2.428,
+  "tz": "Europe/Paris",
+  "f": false
+ },
+ "los-angeles": {
+  "icao": "KLAX",
+  "lat": 33.93817,
+  "lon": -118.3866,
+  "tz": "America/Los_Angeles",
+  "f": true
+ },
+ "toronto": {
+  "icao": "CYYZ",
+  "lat": 43.679,
+  "lon": -79.629,
+  "tz": "America/Toronto",
+  "f": false
+ },
+ "tel-aviv": {
+  "icao": "LLBG",
+  "lat": 32.011,
+  "lon": 34.887,
+  "tz": "Asia/Jerusalem",
+  "f": false
+ },
+ "qingdao": {
+  "icao": "ZSQD",
+  "lat": 36.362,
+  "lon": 120.087,
+  "tz": "Asia/Shanghai",
+  "f": false
+ },
+ "chengdu": {
+  "icao": "ZUUU",
+  "lat": 30.576,
+  "lon": 103.95,
+  "tz": "Asia/Shanghai",
+  "f": false
+ },
+ "shanghai": {
+  "icao": "ZSPD",
+  "lat": 31.146,
+  "lon": 121.8,
+  "tz": "Asia/Shanghai",
+  "f": false
+ },
+ "ankara": {
+  "icao": "LTAC",
+  "lat": 40.128,
+  "lon": 32.995,
+  "tz": "Europe/Istanbul",
+  "f": false
+ },
+ "zhengzhou": {
+  "icao": "ZHCC",
+  "lat": 34.52,
+  "lon": 113.834,
+  "tz": "Asia/Shanghai",
+  "f": false
+ },
+ "lucknow": {
+  "icao": "VILK",
+  "lat": 26.761,
+  "lon": 80.889,
+  "tz": "Asia/Kolkata",
+  "f": false
+ },
+ "karachi": {
+  "icao": "OPKC",
+  "lat": 24.902,
+  "lon": 67.139,
+  "tz": "Asia/Karachi",
+  "f": false
+ },
+ "kuala-lumpur": {
+  "icao": "WMKK",
+  "lat": 2.747,
+  "lon": 101.714,
+  "tz": "Asia/Kuala_Lumpur",
+  "f": false
+ },
+ "amsterdam": {
+  "icao": "EHAM",
+  "lat": 52.315,
+  "lon": 4.79,
+  "tz": "Europe/Amsterdam",
+  "f": false
+ },
+ "seattle": {
+  "icao": "KSEA",
+  "lat": 47.44467,
+  "lon": -122.31442,
+  "tz": "America/Los_Angeles",
+  "f": true
+ },
+ "atlanta": {
+  "icao": "KATL",
+  "lat": 33.62972,
+  "lon": -84.44223,
+  "tz": "America/New_York",
+  "f": true
+ },
+ "chicago": {
+  "icao": "KORD",
+  "lat": 41.96017,
+  "lon": -87.93161,
+  "tz": "America/Chicago",
+  "f": true
+ },
+ "dallas": {
+  "icao": "KDAL",
+  "lat": 32.83836,
+  "lon": -96.83584,
+  "tz": "America/Chicago",
+  "f": true
+ },
+ "cape-town": {
+  "icao": "FACT",
+  "lat": -33.965,
+  "lon": 18.602,
+  "tz": "Africa/Johannesburg",
+  "f": false
+ },
+ "wellington": {
+  "icao": "NZWN",
+  "lat": -41.331,
+  "lon": 174.806,
+  "tz": "Pacific/Auckland",
+  "f": false
+ },
+ "munich": {
+  "icao": "EDDM",
+  "lat": 48.348,
+  "lon": 11.813,
+  "tz": "Europe/Berlin",
+  "f": false
+ },
+ "taipei": {
+  "icao": "RCSS",
+  "lat": 25.069,
+  "lon": 121.552,
+  "tz": "Asia/Taipei",
+  "f": false
+ },
+ "sao-paulo": {
+  "icao": "SBGR",
+  "lat": -23.432,
+  "lon": -46.469,
+  "tz": "America/Sao_Paulo",
+  "f": false
+ },
+ "helsinki": {
+  "icao": "EFHK",
+  "lat": 60.327,
+  "lon": 24.957,
+  "tz": "Europe/Helsinki",
+  "f": false
+ },
+ "austin": {
+  "icao": "KAUS",
+  "lat": 30.1831,
+  "lon": -97.68063,
+  "tz": "America/Chicago",
+  "f": true
+ },
+ "singapore": {
+  "icao": "WSSS",
+  "lat": 1.368,
+  "lon": 103.982,
+  "tz": "Asia/Singapore",
+  "f": false
+ },
+ "istanbul": {
+  "icao": "LTFM",
+  "lat": 41.262,
+  "lon": 28.74,
+  "tz": "Europe/Istanbul",
+  "f": false
+ },
+ "milan": {
+  "icao": "LIMC",
+  "lat": 45.631,
+  "lon": 8.728,
+  "tz": "Europe/Rome",
+  "f": false
+ }
+}
