@@ -108,3 +108,22 @@ Regla Δp ≥ 0,20, deslizamiento 2 c, mismo código que la simulación original
 - Filtro de baratos (solo entrar en precios < 0,50 si cambio ≥ 0,30, modelo−precio ≥ 0,35 y faltan ≤ 12 h):
   +22,7 % por apuesta y 81 % de aciertos en el total.
 - Primavera y verano pendientes: el servidor de ECMWF en AWS limita las descargas (error 503).
+
+## 29-oct: simulación completa de 11 meses (dic-2025 → oct-2026)
+
+Regla Δp ≥ 0,20, apuestas de 25 $, comisión 1,7 %. ECMWF desde la copia oficial de Google Cloud
+(misma hora de publicación que AWS, comprobado).
+
+| Periodo | Apuestas | Por apuesta (desliz. 2 c) | Por apuesta (3 c) | Días en positivo |
+|---|---|---|---|---|
+| Invierno (dic-feb) | 619 | +16,5 % | +13,0 % | 53/87 |
+| Primavera (mar-may) | 3.794 | +25,4 % | +21,5 % | 75/89 |
+| Verano (jun-ago) | 6.183 | +15,3 % | +12,0 % | 71/91 |
+| Otoño (sep-oct) | 1.821 | +17,1 % | +14,2 % | 27/31 |
+| **Total** | **12.417** | **+18,7 %** (+57.976 $) | **+15,3 %** | **226/298** |
+| Total con filtro de baratos | 8.816 | +24,6 % | +21,6 % | 245/296 |
+
+- **Los 11 meses son positivos** con ambos deslizamientos.
+- Por precio: < 0,30 → +55 %; 0,30–0,60 → +20 %; 0,60–0,85 → +9 %; **≥ 0,85 → ~0 %** (no aporta: quitar).
+- Tendencia a vigilar: el rendimiento baja de mayo (+26 %) a agosto (+12 %). Puede ser más competencia
+  o la mayor cantidad de mercados; sep-oct vuelve a +17 %.

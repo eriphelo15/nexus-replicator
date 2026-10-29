@@ -147,7 +147,7 @@ def simular():
     hasta_nwp = max(k.split("|")[1] for k in nwp_)[:7]
     for path in sorted(HIST.glob("20??-??.json")):
         dest = HIST / f"registro_{path.stem}.json"
-        if dest.exists() or path.stem >= hasta_nwp:      # mes sin previsiones completas todavía
+        if dest.exists() or path.stem > hasta_nwp:      # mes sin previsiones completas todavía
             continue
         ms = sorted(json.loads(path.read_text()), key=lambda m: m["dia"])
         reg = []
