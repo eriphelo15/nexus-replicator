@@ -64,7 +64,7 @@ def nwp():
     runs, r = [], ini
     while r <= fin:
         runs.append(r); r += timedelta(hours=6)
-    with ThreadPoolExecutor(16) as p:
+    with ThreadPoolExecutor(6) as p:
         for i, run in enumerate(runs):
             for modelo, fn, pasos in (("gfs", N.gfs_paso, N.PASOS_GFS), ("ecmwf", N.ecm_paso, N.PASOS_ECM)):
                 k = f"{modelo}|{run:%Y-%m-%dT%H}"
@@ -75,7 +75,7 @@ def nwp():
                     print("incompleto", k, flush=True); continue
                 out[k] = {"pasos": [s for s, x in zip(pasos, res) if x], "pub": max(x["pub"] for x in res if x),
                           "t": {c: [x["t"][c] for x in res if x] for c in EST}}
-            if i % 20 == 0:
+            if i % 4 == 0:
                 print(run, len(out), flush=True)
                 path.write_text(json.dumps(out))
     path.write_text(json.dumps(out))
@@ -108,16 +108,29 @@ def _evento(c, d):
 
 
 def mercados():
+    """Un archivo por mes; guarda el progreso parcial cada ~200 eventos (reanudable)."""
     mes = date(DESDE.year, DESDE.month, 1)
     while mes <= HASTA:
         path = HIST / f"{mes:%Y-%m}.json"
+        parcial = HIST / f"{mes:%Y-%m}.parcial.json"
         sig = date(mes.year + (mes.month == 12), mes.month % 12 + 1, 1)
         if not path.exists():
-            dias = [mes + timedelta(days=i) for i in range((sig - mes).days)]
+            hechos = json.loads(parcial.read_text()) if parcial.exists() else {"res": [], "vistos": []}
+            vistos = set(hechos["vistos"])
+            tareas = [(c, mes + timedelta(days=i)) for i in range((sig - mes).days) for c in EST
+                      if f"{c}|{mes + timedelta(days=i)}" not in vistos]
             with ThreadPoolExecutor(12) as p:
-                res = [r for r in p.map(lambda a: _evento(*a), [(c, d) for c in EST for d in dias]) if r]
-            path.write_text(json.dumps(res))
-            print(f"{mes:%Y-%m}: {len(res)} eventos", flush=True)
+                for k in range(0, len(tareas), 200):
+                    lote = tareas[k:k + 200]
+                    for (c, d), r in zip(lote, p.map(lambda a: _evento(*a), lote)):
+                        hechos["vistos"].append(f"{c}|{d}")
+                        if r:
+                            hechos["res"].append(r)
+                    parcial.write_text(json.dumps(hechos))
+                    print(f"{mes:%Y-%m} {len(hechos['vistos'])} revisados, {len(hechos['res'])} eventos", flush=True)
+            path.write_text(json.dumps(hechos["res"]))
+            parcial.unlink(missing_ok=True)
+            print(f"{mes:%Y-%m}: {len(hechos['res'])} eventos", flush=True)
         mes = sig
 
 
@@ -131,9 +144,10 @@ def simular():
     nwp_ = json.loads((HIST / "nwp.json").read_text())
     prev_dummy = {"time": ["2025-01-01T00:00"], **{f"temperature_2m_previous_day{l}_x": [None] for l in (1, 2)}}
     ciudades = {c: fr.CiudadFresca(est[c], metar_raw[c], prev_dummy, nwp_, c) for c in est if c in metar_raw}
+    hasta_nwp = max(k.split("|")[1] for k in nwp_)[:7]
     for path in sorted(HIST.glob("20??-??.json")):
         dest = HIST / f"registro_{path.stem}.json"
-        if dest.exists():
+        if dest.exists() or path.stem >= hasta_nwp:      # mes sin previsiones completas todavía
             continue
         ms = sorted(json.loads(path.read_text()), key=lambda m: m["dia"])
         reg = []

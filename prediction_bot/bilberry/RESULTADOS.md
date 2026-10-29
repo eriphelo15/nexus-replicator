@@ -91,3 +91,20 @@ El precio solo recoge parte del cambio en esa hora y sigue moviéndose después 
 
 Riesgos pendientes: el precio histórico es un punto medio; solo una prueba en vivo con los precios reales
 de compra (libro de órdenes) lo confirma. Siguiente paso: bot en sombra en tiempo real.
+
+## 29-oct: ampliación a invierno (dic-2025 → feb-2026) — ampliar.py, analizar_hist.py
+
+Regla Δp ≥ 0,20, deslizamiento 2 c, mismo código que la simulación original:
+
+| Mes | Apuestas | Ganancia | Por apuesta | Días en positivo |
+|---|---|---|---|---|
+| dic-2025 | 95 | +460 $ | +19,4 % | 17/28 |
+| ene-2026 | 179 | +1.295 $ | +28,9 % | 20/31 |
+| feb-2026 | 345 | +791 $ | +9,2 % | 16/28 |
+| **Invierno** | 619 | +2.546 $ | **+16,5 %** | 53/87 |
+| Otoño (sep-oct, original) | 1.821 | +7.794 $ | +17,1 % | 27/31 |
+
+- El invierno da casi lo mismo por apuesta que el otoño → la ventaja no depende de la estación (de momento).
+- Filtro de baratos (solo entrar en precios < 0,50 si cambio ≥ 0,30, modelo−precio ≥ 0,35 y faltan ≤ 12 h):
+  +22,7 % por apuesta y 81 % de aciertos en el total.
+- Primavera y verano pendientes: el servidor de ECMWF en AWS limita las descargas (error 503).

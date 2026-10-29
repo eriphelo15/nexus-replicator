@@ -21,7 +21,7 @@ def phi(x):
 
 
 def tramo(q):
-    n = [int(x) for g in re.findall(r"(-?\d+)\s*-\s*(-?\d+)°|(-?\d+)°", q) for x in g if x]
+    n = [int(x) for g in re.findall(r"(-?\d+)\s*-\s*(-?\d+)\s*°|(-?\d+)\s*°", q) for x in g if x]
     if "or below" in q: return (-999, n[0])
     if "or higher" in q or "or above" in q: return (n[0], 999)
     return (n[0], n[-1])

@@ -25,7 +25,7 @@ S = requests.Session()
 
 
 def pedir(url, rango=None):
-    for i in range(5):
+    for i in range(8):
         try:
             r = S.get(url, timeout=60, headers={"Range": f"bytes={rango[0]}-{rango[1]}"} if rango else {})
             if r.status_code in (200, 206):
