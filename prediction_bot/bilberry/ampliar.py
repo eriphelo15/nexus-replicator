@@ -64,7 +64,7 @@ def nwp():
     runs, r = [], ini
     while r <= fin:
         runs.append(r); r += timedelta(hours=6)
-    with ThreadPoolExecutor(6) as p:
+    with ThreadPoolExecutor(16) as p:
         for i, run in enumerate(runs):
             for modelo, fn, pasos in (("gfs", N.gfs_paso, N.PASOS_GFS), ("ecmwf", N.ecm_paso, N.PASOS_ECM)):
                 k = f"{modelo}|{run:%Y-%m-%dT%H}"

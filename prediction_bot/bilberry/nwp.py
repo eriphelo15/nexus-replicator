@@ -18,7 +18,7 @@ import requests
 
 DATA = Path(__file__).parent / "data"
 GFS = "https://noaa-gfs-bdp-pds.s3.amazonaws.com"
-ECM = "https://ecmwf-forecasts.s3.eu-central-1.amazonaws.com"
+ECM = "https://storage.googleapis.com/ecmwf-open-data"  # copia oficial en Google Cloud: mismo contenido y hora que AWS
 PASOS_GFS = list(range(0, 55))           # horario
 PASOS_ECM = list(range(0, 55, 3))        # cada 3 h
 S = requests.Session()

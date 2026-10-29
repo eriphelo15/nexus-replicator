@@ -11,7 +11,7 @@ import requests
 AQUI = Path(__file__).parent
 EST = json.loads((AQUI / "estaciones.json").read_text())
 GFS = "https://noaa-gfs-bdp-pds.s3.amazonaws.com"
-ECM = "https://ecmwf-forecasts.s3.eu-central-1.amazonaws.com"
+ECM = "https://storage.googleapis.com/ecmwf-open-data"  # copia oficial en Google Cloud: mismo contenido y hora que AWS
 GAMMA = "https://gamma-api.polymarket.com"
 CLOB = "https://clob.polymarket.com"
 PASOS = {"gfs": list(range(0, 55)), "ecmwf": list(range(0, 55, 3))}
