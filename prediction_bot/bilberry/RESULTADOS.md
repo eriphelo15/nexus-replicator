@@ -140,3 +140,15 @@ Regla Δp ≥ 0,20, apuestas de 25 $, comisión 1,7 %. ECMWF desde la copia ofic
 - Comprar cuando el modelo supera al precio real de compra pierde en todas las antelaciones y umbrales.
 
 Conclusión: hay que mejorar el MODELO hasta que acierte más que el mercado (Brier < 0,042) antes de buscar reglas.
+
+## 02-nov: última prueba — ¿qué dispara las compras de Bilberry? (27-oct → 2-nov, 1.902 compras)
+
+- Compra casi todo con > 24 h de antelación (670) o 12–24 h (159); casi nada en las últimas 12 h.
+- Paga ~2 c por encima del punto medio; en las horas siguientes el precio sube +1,5 a +2 c a su favor.
+- **Mantenidas hasta la resolución, sus compras de esa semana pierden −7,4 % por $**: su ganancia viene de
+  vender después (trading de corto plazo), no de acertar el resultado.
+- Sus compras no coinciden con los cambios de nuestro modelo (a favor 85, en contra 94, neutras 629):
+  no reacciona a las previsiones públicas que tenemos.
+
+Conclusión: no hay un disparador público (previsión o medición) que podamos replicar. Se cierra la línea de
+temperatura en Polymarket.
