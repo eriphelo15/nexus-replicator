@@ -24,7 +24,7 @@ def phi(x):
 
 
 class Datos:
-    def __init__(self, c, metar, nwp):
+    def __init__(self, c, metar, nwp, nbm=None):
         e = EST[c]
         self.c, self.tz, self.f = c, ZoneInfo(e["tz"]), e["f"]
         obs = []
@@ -45,6 +45,13 @@ class Datos:
         for m in self.series:
             self.series[m].sort(key=lambda x: x[0])
         self.pubs = {m: [x[0] for x in l] for m, l in self.series.items()}
+        self.nbm = []
+        for run, x in (nbm or {}).items():
+            v = x["est"].get(c)
+            if v:
+                conv = (lambda t: t) if self.f else (lambda t: (t - 32) / 1.8)
+                self.nbm.append((x["pub"], {k: (conv(val), (sd or 2) * (1 if self.f else 1 / 1.8)) for k, val, sd in v}))
+        self.nbm.sort(key=lambda x: x[0]); self.nbm_pub = [x[0] for x in self.nbm]
 
     def dia(self, d):
         ini = datetime.fromisoformat(d).replace(tzinfo=self.tz)
@@ -77,6 +84,10 @@ class Datos:
         out["ya"] = max(hoy) if hoy else None
         out["anom"] = float(np.mean(anoms)) if anoms else 0.0
         out["h_rest"] = (b - max(a, t)) / H
+        i = bisect.bisect_right(self.nbm_pub, t) - 1
+        clave = datetime.fromtimestamp(b, timezone.utc).replace(hour=0, minute=0).isoformat()
+        if i >= 0 and clave in self.nbm[i][1]:
+            out["nbm"], out["nbm_sd"] = self.nbm[i][1][clave]
         return out
 
     def real(self, d):
@@ -134,8 +145,15 @@ class Version:
     def __init__(self, peso_ecm=0.5, usar_anom=False, ventana=45, por_ciudad=True, escala=1.0):
         self.w, self.anom, self.ventana, self.pc, self.escala = peso_ecm, usar_anom, ventana, por_ciudad, escala
 
+    fuente = "nwp"
+
     def base(self, r):
-        return self.w * r["ecmwf"] + (1 - self.w) * r["gfs"]
+        b = self.w * r["ecmwf"] + (1 - self.w) * r["gfs"]
+        if self.fuente == "nbm":
+            return r["nbm"] if "nbm" in r else b
+        if self.fuente == "mix":
+            return 0.5 * r["nbm"] + 0.5 * b if "nbm" in r else b
+        return b
 
     def ajustar(self, filas):
         """Por fase: regresión residuo ~ a + k·anom (todas las ciudades); por ciudad y fase: sesgo y desviación."""
@@ -163,18 +181,24 @@ class Version:
         return prob_tramos(mu, sd, r["ya"], tramos)
 
 
+def VersionF(fuente, **kw):
+    v = Version(0.7, True, **kw); v.fuente = fuente; return v
+
+
 def main(dirp):
     metar = json.loads((dirp / "metar.json").read_text())
     nwp = {}
     for p in (RAIZ / "bilberry" / "data" / "nwp.json", dirp / "nwp_rec.json"):
         nwp.update(json.loads(p.read_text()))
-    datos = {c: Datos(c, metar[c], nwp) for c in EST if c in metar}
+    nbm = json.loads((dirp / "nbm.json").read_text()) if (dirp / "nbm.json").exists() else {}
+    SOLO = set(sys.argv[2].split(",")) if len(sys.argv) > 2 else None
+    datos = {c: Datos(c, metar[c], nwp, nbm) for c in EST if c in metar and (not SOLO or c in SOLO)}
     res = json.loads((dirp / "resoluciones.json").read_text())
     filas = defaultdict(list)                     # (c, d, t, fase) → [(lo, p_bot, medio, gana)]
     for l in gzip.open(dirp / "registro.jsonl.gz", "rt"):
         r = json.loads(l)
         g = res.get(f"{r['c']}|{r['d']}", {}).get(str(r["lo"]))
-        if g is None or r["medio"] is None or not r["vivo"]:
+        if g is None or r["medio"] is None or not r["vivo"] or r["c"] not in datos:
             continue
         filas[(r["c"], r["d"], r["t"], r["fase"])].append((r["lo"], r["p"], r["medio"], g))
     dias_eval = sorted({k[1] for k in filas})
@@ -206,9 +230,8 @@ def main(dirp):
         "V1 media 50/50, sesgo+desv. por ciudad": Version(0.5, False),
         "V2 ECMWF 70 %": Version(0.7, False),
         "V3 ECMWF 70 % + anomalía actual": Version(0.7, True),
-        "V3 con desviación ×0,7": Version(0.7, True, escala=0.7),
-        "V3 con desviación ×0,85": Version(0.7, True, escala=0.85),
-        "V3 con desviación ×1,2": Version(0.7, True, escala=1.2),
+        "V5 solo NBM + anomalía": VersionF("nbm"),
+        "V6 mitad NBM, mitad GFS/ECMWF + anomalía": VersionF("mix"),
     }
     acum = {n: [0.0, 0] for n in versiones}
     acum_f = defaultdict(lambda: [0.0, 0.0, 0.0, 0])
@@ -230,9 +253,11 @@ def main(dirp):
                 ps = v.probs(r, f, c, tr)
                 acum[nombre][0] += sum((p - x[3]) ** 2 for p, x in zip(ps, xs)); acum[nombre][1] += len(xs)
             ps3 = versiones["V3 ECMWF 70 % + anomalía actual"].probs(r, f, c, tr)
-            for alfa in (0.1, 0.2, 0.3):
-                mz = acum.setdefault(f"mezcla {alfa:.0%} modelo + mercado", [0.0, 0])
-                mz[0] += sum((alfa * p + (1 - alfa) * x[2] - x[3]) ** 2 for p, x in zip(ps3, xs)); mz[1] += len(xs)
+            for nv in ("V3 ECMWF 70 % + anomalía actual", "V5 solo NBM + anomalía", "V6 mitad NBM, mitad GFS/ECMWF + anomalía"):
+                pv = versiones[nv].probs(r, f, c, tr)
+                for alfa in (0.1, 0.2, 0.3):
+                    mz = acum.setdefault(f"mezcla {alfa:.0%} {nv[:2]} + mercado", [0.0, 0])
+                    mz[0] += sum((alfa * p + (1 - alfa) * x[2] - x[3]) ** 2 for p, x in zip(pv, xs)); mz[1] += len(xs)
             for p, (lo, pb, md, g) in zip(ps3, xs):
                 bot += (pb - g) ** 2; mer += (md - g) ** 2; n += 1
                 fb = "≤12h" if f <= 12 else "12-24h" if f <= 24 else "24-36h" if f <= 36 else ">36h"
