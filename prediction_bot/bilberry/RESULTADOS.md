@@ -127,3 +127,16 @@ Regla Δp ≥ 0,20, apuestas de 25 $, comisión 1,7 %. ECMWF desde la copia ofic
 - Por precio: < 0,30 → +55 %; 0,30–0,60 → +20 %; 0,60–0,85 → +9 %; **≥ 0,85 → ~0 %** (no aporta: quitar).
 - Tendencia a vigilar: el rendimiento baja de mayo (+26 %) a agosto (+12 %). Puede ser más competencia
   o la mayor cantidad de mercados; sep-oct vuelve a +17 %.
+
+## 02-nov: resultados del bot en sombra (precios reales) y simulador validado — real/sim_real.py
+
+- 248 operaciones resueltas (regla Δp ≥ 0,20): **−684 $, −11 % por apuesta**.
+- **El nuevo simulador con precios reales del libro reproduce exactamente al bot** (−684 $ vs −683 $).
+  A partir de ahora las pruebas se hacen con él, no con el historial de precios de Polymarket.
+- Al precio medio y sin costes, nuestras apuestas dan −1,6 %: el modelo no tiene ventaja y los costes
+  (diferencia compra/venta + 1,7 %) hacen el resto. "Hacer lo contrario" pierde −32 % (paga los costes otra vez).
+- Por precio (real): < 0,30 → −32 %; 0,30–0,60 → −34 %; 0,60–0,90 → +6 %; 0,90–0,99 → +0,3 %; 0,95–0,99 → −4 %.
+- **El mercado predice mejor que nuestro modelo** también en vivo: Brier 0,042 vs 0,054 (106.000 observaciones).
+- Comprar cuando el modelo supera al precio real de compra pierde en todas las antelaciones y umbrales.
+
+Conclusión: hay que mejorar el MODELO hasta que acierte más que el mercado (Brier < 0,042) antes de buscar reglas.
