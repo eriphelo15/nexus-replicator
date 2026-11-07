@@ -1,0 +1,67 @@
+name: Radar memecoins
+
+# PAUSADO el 2026-09-29 para reevaluar: sin programación ni relanzamiento
+# automático. Solo arranca a mano (Actions -> Radar memecoins -> Run workflow) y
+# entonces corre una vez (~5 h 40 min) sin relanzarse. Para reactivarlo en
+# continuo hay que volver a añadir el cron y el paso "Relanzar" (ver historial).
+# Los datos se guardan en la rama `radar-datos` para no llenar main de commits.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-memes
+  cancel-in-progress: false
+
+jobs:
+  ciclos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pandas tabulate
+
+      - name: Preparar rama de datos
+        run: |
+          git config user.name "radar-memes"
+          git config user.email "radar-memes@users.noreply.github.com"
+          if git fetch origin radar-datos; then
+            git worktree add _datos origin/radar-datos
+            git -C _datos checkout -B radar-datos
+          else
+            git worktree add --detach _datos
+            git -C _datos checkout --orphan radar-datos
+            git -C _datos rm -rfq .
+          fi
+
+      # Cada ciclo tiene 9 min de plazo; después se guarda y se espera hasta
+      # completar 5 min desde que empezó. El vigía corre en paralelo todo el
+      # trabajo y avisa al móvil por ntfy (secreto NTFY_TOPIC; sin él solo registra).
+      - name: Ciclos cada 5 minutos y vigía
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          python -u radar.py vigia --datos _datos --duracion $((340 * 60)) > vigia.log 2>&1 &
+          fin=$((SECONDS + 340 * 60))
+          while [ $SECONDS -lt $fin ]; do
+            inicio=$SECONDS
+            python -u radar.py ciclo --datos _datos --plazo 540 || echo "::warning::el ciclo falló"
+            (
+              cd _datos
+              git add -A -- . ':!*.tmp'
+              if ! git diff --cached --quiet; then
+                git commit -qm "radar: $(date -u +'%Y-%m-%d %H:%M') UTC"
+                for i in 1 2 3; do git push -q origin radar-datos && break; sleep $((i * 5)); done
+              fi
+            ) || echo "::warning::no se pudieron guardar los datos"
+            espera=$((300 - (SECONDS - inicio)))
+            if [ $espera -gt 0 ]; then sleep $espera; fi
+          done
+          echo "--- vigía ---"; tail -n 100 vigia.log
