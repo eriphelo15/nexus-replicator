@@ -38,3 +38,8 @@
 2026-11-08 20:37:18 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-08 20:37:20 escuchando 1 cartera(s)
 2026-11-08 20:37:57 compra $20.00 de FZxHLUGi… (1.8 s tras él; precio +4.5% frente al suyo)
+2026-11-08 20:41:51 venta $28.67 de 9qghVo6g… (5.6 s tras él; precio -9.1% frente al suyo) · resultado +12.17 $
+2026-11-08 20:42:11 ignorada por antigua (21 s): 58hQe2hAEZUS
+2026-11-08 20:42:33 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-08 20:42:34 escuchando 1 cartera(s)
+2026-11-08 20:43:07 venta $13.57 de 9qghVo6g… (6.8 s tras él; precio -13.4% frente al suyo) · resultado -2.93 $
