@@ -5,18 +5,18 @@
    "coste": 32.99999998000014,
    "decimales": 6
   },
-  "HW2Sz6nNonYCfD59Ng5AeV1xtuU43xu7oktb2PPfpump": {
-   "tokens": 174097.330721,
-   "coste": 40.0,
-   "decimales": 6
-  },
   "9qghVo6gqg1nVYGZCq14mhsFFUDH3e2z1iH4JtkfLoat": {
    "tokens": 257614.56514900003,
    "coste": 33.0,
    "decimales": 6
+  },
+  "FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat": {
+   "tokens": 162901.533373,
+   "coste": 60.0,
+   "decimales": 6
   }
  },
  "dia": "2026-11-08",
- "realizado_dia": 0.0,
+ "realizado_dia": -22.804718,
  "pausado": false
 }
