@@ -1,0 +1,6982 @@
+[
+{
+"dir": "0x880ac484a1743862989a441d6d867238c7aa311c",
+"nombre": "x.com/SilkBtc",
+"capital": 16876356.821822,
+"pnl_mes": 2106373.862794,
+"roi_mes": 0.3147963604,
+"roi_total": 1.7557304118,
+"pnl_total": 121274046.151822,
+"rot_mes": 3.8421075641253055
+},
+{
+"dir": "0x023a3d058020fb76cca98f01b3c48c8938a22355",
+"nombre": "Auros",
+"capital": 16540909.279619,
+"pnl_mes": 5681651.47035,
+"roi_mes": 0.2465951777,
+"roi_total": 1.4529969349,
+"pnl_total": 58112265.549619,
+"rot_mes": 122.50295398069395
+},
+{
+"dir": "0x939f95036d2e7b6d7419ec072bf9d967352204d2",
+"nombre": null,
+"capital": 8326298.322046,
+"pnl_mes": 2169255.443849,
+"roi_mes": 0.2394657078,
+"roi_total": 4.4521990685,
+"pnl_total": 51389204.732046,
+"rot_mes": 9.84591310197678
+},
+{
+"dir": "0x418aa6bf98a2b2bc93779f810330d88cde488888",
+"nombre": null,
+"capital": 4887891.991937,
+"pnl_mes": 2521854.938264,
+"roi_mes": 0.7327614014,
+"roi_total": 2.6484377481,
+"pnl_total": 36987170.156719,
+"rot_mes": 16.467855992476988
+},
+{
+"dir": "0x99967871e6c4f9a5185abc57edede9e9540191f6",
+"nombre": null,
+"capital": 12537264.391671,
+"pnl_mes": 4553028.69115,
+"roi_mes": 0.5702528976,
+"roi_total": 7.8687562362,
+"pnl_total": 28474498.931671,
+"rot_mes": 0.0
+},
+{
+"dir": "0xd4c1f7e8d876c4749228d515473d36f919583d1d",
+"nombre": null,
+"capital": 7690651.639312001,
+"pnl_mes": 5651102.723955,
+"roi_mes": 0.6067150375,
+"roi_total": 1.6504774455,
+"pnl_total": 26609275.019312,
+"rot_mes": 100.37242856953226
+},
+{
+"dir": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
+"nombre": null,
+"capital": 7147418.77049,
+"pnl_mes": 2201051.055553,
+"roi_mes": 0.6844382814,
+"roi_total": 3.5362083653,
+"pnl_total": 25958061.500490002,
+"rot_mes": 3.1325695036146652
+},
+{
+"dir": "0xdafc555a97b358bc09fccf4c0e583c1ec5838b16",
+"nombre": "Prison Su Zhu",
+"capital": 2765978.221134,
+"pnl_mes": 328767.354714,
+"roi_mes": 0.1419465367,
+"roi_total": 87.0928648618,
+"pnl_total": 23082644.251134,
+"rot_mes": 85.92652556481784
+},
+{
+"dir": "0x3fc56e944aa7b1594c85861b2d46a07f82a2c0c1",
+"nombre": null,
+"capital": 7836082.53612,
+"pnl_mes": 1909908.816538,
+"roi_mes": 1.2401932446,
+"roi_total": 1.681729893,
+"pnl_total": 20429921.30612,
+"rot_mes": 1.4551403341453246
+},
+{
+"dir": "0xceec48581b3145a575508719f45da07dc57fa7ce",
+"nombre": null,
+"capital": 15423335.843542,
+"pnl_mes": 2029425.77,
+"roi_mes": 0.6261530999,
+"roi_total": 6.0926264869,
+"pnl_total": 17183422.643542,
+"rot_mes": 0.9389932253899546
+},
+{
+"dir": "0x091159a8106b077c13e89bc09701117e8b5f129a",
+"nombre": null,
+"capital": 3173663.33742,
+"pnl_mes": 379757.647526,
+"roi_mes": 0.1359235743,
+"roi_total": 3.339764311,
+"pnl_total": 17035469.79742,
+"rot_mes": 5.858427023678806
+},
+{
+"dir": "0x13d032655aca891fad353e19424d2a087eccfa8a",
+"nombre": null,
+"capital": 853145.453704,
+"pnl_mes": 2213.509034,
+"roi_mes": 1.4343037109,
+"roi_total": 2.0529217158,
+"pnl_total": 15765118.953704,
+"rot_mes": 0.39687243075607387
+},
+{
+"dir": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+"nombre": null,
+"capital": 6372508.476085,
+"pnl_mes": 361962.792662,
+"roi_mes": 0.1281151428,
+"roi_total": 3.2398361847,
+"pnl_total": 15649935.966085,
+"rot_mes": 0.5792505735932368
+},
+{
+"dir": "0x2d23b731e5f04996a2dfdbe434c7d922afdb5e00",
+"nombre": "thank you JEFF",
+"capital": 4193252.0552199995,
+"pnl_mes": 2858762.0644300003,
+"roi_mes": 2.3888203878,
+"roi_total": 1.6640720876,
+"pnl_total": 15026542.39522,
+"rot_mes": 34.16710512349186
+},
+{
+"dir": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+"nombre": "thank you efee",
+"capital": 10210807.598477999,
+"pnl_mes": 411209.726641,
+"roi_mes": 0.2736636927,
+"roi_total": 1.9796001424,
+"pnl_total": 14438746.268477999,
+"rot_mes": 1.2238487621549836
+},
+{
+"dir": "0x2025137a136bea7446deba681cbfc7cf1970840e",
+"nombre": null,
+"capital": 5308717.219952,
+"pnl_mes": 575534.312483,
+"roi_mes": 0.1393705977,
+"roi_total": 2.6798378344,
+"pnl_total": 14220984.359951999,
+"rot_mes": 80.08316910574565
+},
+{
+"dir": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+"nombre": null,
+"capital": 5421624.604462,
+"pnl_mes": 4181833.834858,
+"roi_mes": 1.0513021643,
+"roi_total": 2.5430949375,
+"pnl_total": 14208215.834462,
+"rot_mes": 1.5695420636457758
+},
+{
+"dir": "0x2ba553d9f990a3b66b03b2dc0d030dfc1c061036",
+"nombre": null,
+"capital": 428845.9394649999,
+"pnl_mes": 111119.231915,
+"roi_mes": 0.4493165949,
+"roi_total": 1.0260030948,
+"pnl_total": 13715866.329465,
+"rot_mes": 0.0
+},
+{
+"dir": "0xfb941d2344b72ea9101400392b818173772d0ddf",
+"nombre": "RTB 2",
+"capital": 12744334.199266,
+"pnl_mes": 1178999.713562,
+"roi_mes": 0.134479294,
+"roi_total": 3.7914493831,
+"pnl_total": 13451815.129266,
+"rot_mes": 4.404364995641185
+},
+{
+"dir": "0x8bae3527e5a33fa0cf184f37bc112d071463ab6d",
+"nombre": null,
+"capital": 3204423.748203,
+"pnl_mes": 890008.927142,
+"roi_mes": 0.7202710428,
+"roi_total": 25.5817291145,
+"pnl_total": 12790838.975542,
+"rot_mes": 6.0505824458681206
+},
+{
+"dir": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
+"nombre": null,
+"capital": 3536750.687818,
+"pnl_mes": 488965.871188,
+"roi_mes": 0.3469015261,
+"roi_total": 2.4912127705,
+"pnl_total": 12431427.957818,
+"rot_mes": 4.553493670184516
+},
+{
+"dir": "0x84abc08c0ea62e687c370154de1f38ea462f4d37",
+"nombre": null,
+"capital": 7861713.343901,
+"pnl_mes": 5186134.015386,
+"roi_mes": 0.5849651603,
+"roi_total": 1.4931517904,
+"pnl_total": 12359957.733901,
+"rot_mes": 9.807194392277616
+},
+{
+"dir": "0xfeec88b13fc0be31695069f02bac18538a154e9c",
+"nombre": null,
+"capital": 512628.609012,
+"pnl_mes": 402198.60748,
+"roi_mes": 0.8285543099,
+"roi_total": 6.432468041,
+"pnl_total": 12058390.849012,
+"rot_mes": 4.1559097610764235
+},
+{
+"dir": "0xfce053a5e461683454bf37ad66d20344c0e3f4c0",
+"nombre": null,
+"capital": 5445386.836981,
+"pnl_mes": 309090.222247,
+"roi_mes": 0.5106578015,
+"roi_total": 6.6716712961,
+"pnl_total": 10947462.026981,
+"rot_mes": 1.9969395867619864
+},
+{
+"dir": "0x523852be2db1a76a0e088ecbff32e849544054e5",
+"nombre": "perpfumbler",
+"capital": 4727647.549953,
+"pnl_mes": 459089.221153,
+"roi_mes": 0.2143977401,
+"roi_total": 2587.406108832,
+"pnl_total": 10838314.719953,
+"rot_mes": 88.31473894117822
+},
+{
+"dir": "0x005844b2ffb2e122cf4244be7dbcb4f84924907c",
+"nombre": "0x18aa...8d92",
+"capital": 6052052.295748999,
+"pnl_mes": 649611.7552,
+"roi_mes": 1.1793940877,
+"roi_total": 2.4922539344,
+"pnl_total": 10329708.645748999,
+"rot_mes": 3.175600966551377
+},
+{
+"dir": "0xd487e26c62ed8c28ce3cc70b5791e501c2934982",
+"nombre": null,
+"capital": 1582688.07986,
+"pnl_mes": 63969.87239,
+"roi_mes": 0.145930981,
+"roi_total": 1.6987861977,
+"pnl_total": 9181937.69986,
+"rot_mes": 12.107772734154343
+},
+{
+"dir": "0x56cd86d6ef24a3f51ce6992b7f1db751b0a0276a",
+"nombre": null,
+"capital": 1580990.147169,
+"pnl_mes": 145310.099855,
+"roi_mes": 0.1012134285,
+"roi_total": 2.8159445698,
+"pnl_total": 8735313.237169,
+"rot_mes": 0.0
+},
+{
+"dir": "0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b",
+"nombre": null,
+"capital": 2203828.493807,
+"pnl_mes": 1122449.426506,
+"roi_mes": 0.2897299694,
+"roi_total": 7.0373209185,
+"pnl_total": 8503056.070184,
+"rot_mes": 6.6702798749126995
+},
+{
+"dir": "0x5bc43f38c2ddcd85857f218674cd384f172c3b0c",
+"nombre": null,
+"capital": 5817257.05973,
+"pnl_mes": 604320.232915,
+"roi_mes": 0.1005033231,
+"roi_total": 1.2328813784,
+"pnl_total": 8457406.61031,
+"rot_mes": 1.7248694439619132
+},
+{
+"dir": "0xd2b2a8ab7a8c903501f4db4ee45c67522a4511ed",
+"nombre": null,
+"capital": 7858922.1103179995,
+"pnl_mes": 64793.90351,
+"roi_mes": 0.1098437463,
+"roi_total": 1.6150038797,
+"pnl_total": 8036865.400318,
+"rot_mes": 0.2719992843794076
+},
+{
+"dir": "0x6bea81d7a0c5939a5ce5552e125ab57216cc597f",
+"nombre": null,
+"capital": 43664.679637,
+"pnl_mes": 56054.753182,
+"roi_mes": 0.8681632334,
+"roi_total": 2.8287546496,
+"pnl_total": 7945148.699637,
+"rot_mes": 8.872558397788296
+},
+{
+"dir": "0xcac1f1c3e4599e044dc2a9d38a9b6ef1af1bdae8",
+"nombre": null,
+"capital": 2128657.411531,
+"pnl_mes": 262645.129113,
+"roi_mes": 0.4328257575,
+"roi_total": 11.0433725612,
+"pnl_total": 7924144.041531,
+"rot_mes": 0.38227672785294947
+},
+{
+"dir": "0x92bbd8110393350dda7e9c32089e95af071a9b6f",
+"nombre": null,
+"capital": 528586.2425170001,
+"pnl_mes": 3301139.875967,
+"roi_mes": 0.5644646689,
+"roi_total": 1.5876224206,
+"pnl_total": 7295916.182517,
+"rot_mes": 72.94988183268853
+},
+{
+"dir": "0x6891ed9ee6a9d0649ffac2bcee814e6899a0e075",
+"nombre": null,
+"capital": 3455221.978849,
+"pnl_mes": 533498.13076,
+"roi_mes": 1.1994862196,
+"roi_total": 24.1621442206,
+"pnl_total": 7169257.208849,
+"rot_mes": 1.9653430522174757
+},
+{
+"dir": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+"nombre": null,
+"capital": 3695334.580591,
+"pnl_mes": 2267831.574956,
+"roi_mes": 0.4506307257,
+"roi_total": 3.9097118546,
+"pnl_total": 6747444.720591,
+"rot_mes": 1.3089257074054779
+},
+{
+"dir": "0xc7290b4b308431a985fa9e3e8a335c2f7650517c",
+"nombre": null,
+"capital": 2597271.50765,
+"pnl_mes": 850373.572232,
+"roi_mes": 1.2434983091,
+"roi_total": 2.2927663522,
+"pnl_total": 6672430.71765,
+"rot_mes": 0.0
+},
+{
+"dir": "0xb07856ebcb6b37967eaf7c4b4e64dcce28c6de15",
+"nombre": null,
+"capital": 11976121.91278,
+"pnl_mes": 4314966.166926,
+"roi_mes": 0.5632265301,
+"roi_total": 1.1781508768,
+"pnl_total": 6477824.23278,
+"rot_mes": 124.00500478666771
+},
+{
+"dir": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+"nombre": null,
+"capital": 1331411.515673,
+"pnl_mes": 1078340.353054,
+"roi_mes": 1.0302209443,
+"roi_total": 6.7958853584,
+"pnl_total": 6273590.035673,
+"rot_mes": 4.5254541357593485
+},
+{
+"dir": "0xfcb01354e18ca1cc0eee89ca3459ef84daa2e0b6",
+"nombre": null,
+"capital": 2654795.8058970002,
+"pnl_mes": 42442.73209,
+"roi_mes": 0.6857536664,
+"roi_total": 175.2502903359,
+"pnl_total": 6137768.135897,
+"rot_mes": 0.6170028204660917
+},
+{
+"dir": "0xbb97757984fa4408c13bd3b4a9189f520bf317d3",
+"nombre": null,
+"capital": 1211612.578351,
+"pnl_mes": 31086.012886,
+"roi_mes": 0.2202592227,
+"roi_total": 2.3769608318,
+"pnl_total": 6115822.658351,
+"rot_mes": 0.04354812003669593
+},
+{
+"dir": "0x888e000c78b8f1aada5b3c99f880794907b76d77",
+"nombre": null,
+"capital": 3402272.181041,
+"pnl_mes": 1036992.226808,
+"roi_mes": 0.6699019995,
+"roi_total": 8.2392478399,
+"pnl_total": 6018393.931041,
+"rot_mes": 6.266648491208136
+},
+{
+"dir": "0x27c9fa86c91b84ddfa15de58c482ff662498d65d",
+"nombre": null,
+"capital": 2329444.382226,
+"pnl_mes": 2072499.796975,
+"roi_mes": 1.0428651247,
+"roi_total": 1.6519528479,
+"pnl_total": 6005299.932226,
+"rot_mes": 145.85667814284668
+},
+{
+"dir": "0xf62edeee17968d4c55d1c74936d2110333342f30",
+"nombre": null,
+"capital": 451001.014414,
+"pnl_mes": 276095.56074,
+"roi_mes": 0.5240871454,
+"roi_total": 2.3849791269,
+"pnl_total": 5923429.024414,
+"rot_mes": 20.918088603986845
+},
+{
+"dir": "0x5559da6ec434c5723d0ce9c4da7f29e3f8a3d43b",
+"nombre": null,
+"capital": 3332228.22356,
+"pnl_mes": 451604.552873,
+"roi_mes": 0.1540931517,
+"roi_total": 2.0372052242,
+"pnl_total": 5796929.87356,
+"rot_mes": 15.835129171802928
+},
+{
+"dir": "0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd",
+"nombre": null,
+"capital": 2891436.033963,
+"pnl_mes": 758656.989345,
+"roi_mes": 0.3430036198,
+"roi_total": 1.7471709117,
+"pnl_total": 5621808.693963001,
+"rot_mes": 0.10069707113698018
+},
+{
+"dir": "0xa2ceebd0ff814499b471df714f5a7e720c2ad858",
+"nombre": null,
+"capital": 1474282.52052,
+"pnl_mes": 96801.527283,
+"roi_mes": 0.1401961103,
+"roi_total": 6.7583512173,
+"pnl_total": 5547205.01052,
+"rot_mes": 1.7401834752101006
+},
+{
+"dir": "0x203f4c410f3c35cead9f35b6de2f66e773d7f26e",
+"nombre": null,
+"capital": 816273.745043,
+"pnl_mes": 26013.30222,
+"roi_mes": 0.3795594208,
+"roi_total": 1.5466971888,
+"pnl_total": 5450918.072078,
+"rot_mes": 0.0
+},
+{
+"dir": "0x2ca69ddf1b3a838c1d37c4a55a4ab3ce4247e315",
+"nombre": null,
+"capital": 3823987.274839,
+"pnl_mes": 21664.617627,
+"roi_mes": 0.3005909796,
+"roi_total": 1.5683810754,
+"pnl_total": 5447238.964839,
+"rot_mes": 0.05853233128486907
+},
+{
+"dir": "0x369daedbefcb30b82154338c8fd613a70c60d251",
+"nombre": null,
+"capital": 1586802.594249,
+"pnl_mes": 444993.897679,
+"roi_mes": 0.8031685232,
+"roi_total": 1.2333037161,
+"pnl_total": 5378536.417072,
+"rot_mes": 5.5738512541227365
+},
+{
+"dir": "0x42bc06d636e9a9a93edb1ddf781ee97821a73946",
+"nombre": null,
+"capital": 4548219.722206,
+"pnl_mes": 2167347.569049,
+"roi_mes": 0.9292251045,
+"roi_total": 3.6636030247,
+"pnl_total": 5312220.722206,
+"rot_mes": 32.200134792293305
+},
+{
+"dir": "0x9dea4d13ac1c469b7fe9049d43835df1be143ec0",
+"nombre": null,
+"capital": 934314.659493,
+"pnl_mes": 114577.813864,
+"roi_mes": 0.1398489792,
+"roi_total": 4.1230378648,
+"pnl_total": 5114389.329493,
+"rot_mes": 78.54144142383521
+},
+{
+"dir": "0x2fcb6898d5a0623de19c3691904927685014c4d8",
+"nombre": null,
+"capital": 3165770.272289,
+"pnl_mes": 280845.988297,
+"roi_mes": 0.2485508974,
+"roi_total": 2.0246845518,
+"pnl_total": 5058288.812289,
+"rot_mes": 0.28957499159822575
+},
+{
+"dir": "0xacc6ac3717b0beb02aa687228955a8fd3f9c47b7",
+"nombre": null,
+"capital": 176268.668081,
+"pnl_mes": 42636.515199,
+"roi_mes": 0.3190588064,
+"roi_total": 8.8782177502,
+"pnl_total": 5040838.908081,
+"rot_mes": 0.0
+},
+{
+"dir": "0x3ca146d2692f61746a28fa926dc9d18086ce37c6",
+"nombre": null,
+"capital": 709152.563354,
+"pnl_mes": 177303.701274,
+"roi_mes": 0.3318894078,
+"roi_total": 5.0894130347,
+"pnl_total": 4997699.623354,
+"rot_mes": 73.99207424680323
+},
+{
+"dir": "0x3a98be4692cae9eee26ecf73b4be7b8961ebf4b8",
+"nombre": null,
+"capital": 4964099.731813,
+"pnl_mes": 4876492.591813,
+"roi_mes": 55.6631867199,
+"roi_total": 55.6631867199,
+"pnl_total": 4876492.591813,
+"rot_mes": 0.014485375775022558
+},
+{
+"dir": "0x30031f21e4927c7b7c8d9bdb803bc14e57388028",
+"nombre": null,
+"capital": 2815700.444277,
+"pnl_mes": 3047.098293,
+"roi_mes": 0.4017156014,
+"roi_total": 17.8922023241,
+"pnl_total": 4814617.554277,
+"rot_mes": 0.10630473870485121
+},
+{
+"dir": "0xdcda2478f8f4f16fe13335f7b2795e2ce3520176",
+"nombre": null,
+"capital": 4815000.0,
+"pnl_mes": 4812000.0,
+"roi_mes": 1604.0,
+"roi_total": 1604.0,
+"pnl_total": 4812000.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0xa40ee97b4352307b7745a2cb12bb475b80faef13",
+"nombre": null,
+"capital": 1747897.911421,
+"pnl_mes": 296998.420445,
+"roi_mes": 7.2060385419,
+"roi_total": 1.7124952138,
+"pnl_total": 4779848.931421,
+"rot_mes": 2.811017879188118
+},
+{
+"dir": "0x83ffcfb1f2ad843c474b2e28df86c721cb869d3a",
+"nombre": null,
+"capital": 2632529.402558,
+"pnl_mes": 3090053.123612,
+"roi_mes": 1.9175305783,
+"roi_total": 47015.28402558,
+"pnl_total": 4701528.402558,
+"rot_mes": 0.0
+},
+{
+"dir": "0x28233e5edddfc9f71f0cecf58ca98f6a2ca11f43",
+"nombre": null,
+"capital": 1565189.737676,
+"pnl_mes": 271688.119303,
+"roi_mes": 0.141894114,
+"roi_total": 1.0103268098,
+"pnl_total": 4607280.527676,
+"rot_mes": 1.5635713684359698
+},
+{
+"dir": "0x782e432267376f377585fc78092d998f8442ab83",
+"nombre": null,
+"capital": 201950.997356,
+"pnl_mes": 22848.099045,
+"roi_mes": 1.2473351508,
+"roi_total": 4.7217588035,
+"pnl_total": 4476773.511576,
+"rot_mes": 0.9162595997177057
+},
+{
+"dir": "0xf220c9b7b4c0e5e785ebe4b40b17576ce24473e0",
+"nombre": null,
+"capital": 1823822.730653,
+"pnl_mes": 439846.776056,
+"roi_mes": 0.4757954978,
+"roi_total": 5.9094549348,
+"pnl_total": 4436103.680653,
+"rot_mes": 63.20909008449767
+},
+{
+"dir": "0xbe2c69eb3d7b8ee35cbe3a28293472be31179d75",
+"nombre": null,
+"capital": 1788291.270602,
+"pnl_mes": 1464.711476,
+"roi_mes": 0.1727214538,
+"roi_total": 1379.7987720196,
+"pnl_total": 4421062.930602,
+"rot_mes": 0.4375893976916698
+},
+{
+"dir": "0x9c68cd0568eb47bad36ecd8090e6c1d1396a7783",
+"nombre": null,
+"capital": 1214345.618878,
+"pnl_mes": 265822.949822,
+"roi_mes": 0.3827660463,
+"roi_total": 1.8319983054,
+"pnl_total": 4402110.328878,
+"rot_mes": 65.1282012143082
+},
+{
+"dir": "0x1f378701005c910d82f0c366598953a04c85575a",
+"nombre": null,
+"capital": 290958.296121,
+"pnl_mes": 26196.593275,
+"roi_mes": 0.6424388944,
+"roi_total": 7.0366023595,
+"pnl_total": 4376005.096120999,
+"rot_mes": 0.884553159099368
+},
+{
+"dir": "0xc30c7ea910a71ce06ae840868b0c7e47616ba4c9",
+"nombre": null,
+"capital": 1299631.061031,
+"pnl_mes": 1082965.263989,
+"roi_mes": 1.1339675011,
+"roi_total": 5.8278057136,
+"pnl_total": 4374150.751030999,
+"rot_mes": 63.17949419034502
+},
+{
+"dir": "0x9c16bc8f1104e4d2f72267eb981fa12de7cc4a6f",
+"nombre": null,
+"capital": 1299321.711779,
+"pnl_mes": 847949.13156,
+"roi_mes": 0.7914604318,
+"roi_total": 1.6433298071,
+"pnl_total": 4301116.552639,
+"rot_mes": 5.388061545138531
+},
+{
+"dir": "0x215b369a532dc84654c244449cb119986ceaf603",
+"nombre": null,
+"capital": 110213.649812,
+"pnl_mes": 443.916209,
+"roi_mes": 0.7890283151,
+"roi_total": 1.3183494745,
+"pnl_total": 4297820.149812,
+"rot_mes": 0.0
+},
+{
+"dir": "0x404ca2035b37bf2e83505134ebcf8d03babb5f03",
+"nombre": null,
+"capital": 1843864.07516,
+"pnl_mes": 1301033.24262,
+"roi_mes": 0.8756992386,
+"roi_total": 2.4437443746,
+"pnl_total": 4270046.01516,
+"rot_mes": 0.4640840187342695
+},
+{
+"dir": "0xf191539a2c4ba0af951438bb6abfa0625c7df2ef",
+"nombre": null,
+"capital": 2942030.972023,
+"pnl_mes": 77319.2282,
+"roi_mes": 0.5541354687,
+"roi_total": 91.0156806316,
+"pnl_total": 4239930.922023,
+"rot_mes": 0.5028939885641807
+},
+{
+"dir": "0x420a4ed7b6bb361da586868adec2f2bb9ab75e66",
+"nombre": null,
+"capital": 876503.108172,
+"pnl_mes": 131612.990804,
+"roi_mes": 0.1298139016,
+"roi_total": 8.6619083781,
+"pnl_total": 3788651.508172,
+"rot_mes": 0.0
+},
+{
+"dir": "0x0daf132c5554fd7d5eb422585426af557d8847e0",
+"nombre": null,
+"capital": 2343083.481772,
+"pnl_mes": 600452.038593,
+"roi_mes": 0.7823415828,
+"roi_total": 1.1038768627,
+"pnl_total": 3562283.348317,
+"rot_mes": 0.0002881502111437352
+},
+{
+"dir": "0x07295d129f841f2854f9f298f137c2ffc5ccff34",
+"nombre": null,
+"capital": 986422.934846,
+"pnl_mes": 212315.247032,
+"roi_mes": 0.3534819679,
+"roi_total": 29.1197992064,
+"pnl_total": 3400452.484846,
+"rot_mes": 1.6178682628148258
+},
+{
+"dir": "0x863b676e5e4fea0541062c32983dc8f84749ca6d",
+"nombre": null,
+"capital": 49041.963219,
+"pnl_mes": 27971.059513,
+"roi_mes": 1.3277484137,
+"roi_total": 32617.9950533,
+"pnl_total": 3261799.50533,
+"rot_mes": 23.441964076075216
+},
+{
+"dir": "0xe7e25d4f0f0076b08459e343529c446fef04f958",
+"nombre": "worm.hl",
+"capital": 1110982.080163,
+"pnl_mes": 47454.313626,
+"roi_mes": 0.5110578719,
+"roi_total": 1.1936486197,
+"pnl_total": 3198424.750163,
+"rot_mes": 0.10074404618981679
+},
+{
+"dir": "0xf899937184168b1d9dee75acbaa3fef0f52888db",
+"nombre": null,
+"capital": 729233.413726,
+"pnl_mes": 994156.864813,
+"roi_mes": 0.7437777606,
+"roi_total": 2.3511760465,
+"pnl_total": 3142161.983726,
+"rot_mes": 9.012549817786377
+},
+{
+"dir": "0x441c8cbe1aa06beea4c84cfff5e12753f37822fb",
+"nombre": null,
+"capital": 1070434.052706,
+"pnl_mes": 243346.353776,
+"roi_mes": 2.2195304056,
+"roi_total": 6.4732390335,
+"pnl_total": 3140832.702706,
+"rot_mes": 22.364695461136666
+},
+{
+"dir": "0x8f25818ff64be1abee91abca70c306b33b602062",
+"nombre": null,
+"capital": 840860.404224,
+"pnl_mes": 109353.174482,
+"roi_mes": 1.0720699589,
+"roi_total": 1.225512827,
+"pnl_total": 3064103.0642239996,
+"rot_mes": 4.759757838393606
+},
+{
+"dir": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+"nombre": null,
+"capital": 3185295.459412,
+"pnl_mes": 1971921.625302,
+"roi_mes": 0.5192723624,
+"roi_total": 1.0957089492,
+"pnl_total": 3016437.419412,
+"rot_mes": 1.1764368793253936
+},
+{
+"dir": "0x42fd5648cf21c158d15e4f58785760755b3f6623",
+"nombre": null,
+"capital": 3084727.744069,
+"pnl_mes": 172117.517345,
+"roi_mes": 0.380687607,
+"roi_total": 2.795820774,
+"pnl_total": 3003491.8040690003,
+"rot_mes": 25.073536635027562
+},
+{
+"dir": "0x8dea9139b0e84d5cc2933072f5ba43c2b043f6db",
+"nombre": null,
+"capital": 666408.83088,
+"pnl_mes": 165925.576331,
+"roi_mes": 0.3199643506,
+"roi_total": 3.9982699976,
+"pnl_total": 2981284.1808800003,
+"rot_mes": 0.1313757350489929
+},
+{
+"dir": "0x8a6b54f6212673af30c2135838db29b5c79b86bb",
+"nombre": null,
+"capital": 1772325.463616,
+"pnl_mes": 124647.504425,
+"roi_mes": 0.5048227713,
+"roi_total": 12.3804982125,
+"pnl_total": 2963366.143616,
+"rot_mes": 0.12696311406647703
+},
+{
+"dir": "0x999510ad3dd8c94a6659d6401d983137565283e3",
+"nombre": null,
+"capital": 254820.872988,
+"pnl_mes": 87214.223561,
+"roi_mes": 0.4123931136,
+"roi_total": 3.3218391111,
+"pnl_total": 2933567.952988,
+"rot_mes": 40.28751769672907
+},
+{
+"dir": "0xf0574ef2d971f9318bed6f1a1ba7a8f351143e0d",
+"nombre": null,
+"capital": 442269.720709,
+"pnl_mes": 20494.924863,
+"roi_mes": 1.603591437,
+"roi_total": 1.5799786244,
+"pnl_total": 2862529.590709,
+"rot_mes": 2.1276650784310656
+},
+{
+"dir": "0xd0584dba197cc63e5df8a7641d01bc4aa8bc5c18",
+"nombre": null,
+"capital": 375249.738598,
+"pnl_mes": 30486.269742,
+"roi_mes": 0.1675870867,
+"roi_total": 14.0068822356,
+"pnl_total": 2803600.298598,
+"rot_mes": 8.954607703537276
+},
+{
+"dir": "0xbe3f79ae0ab3294aaa3230c1155e912c05b6a55b",
+"nombre": null,
+"capital": 1950769.645567,
+"pnl_mes": 94598.108728,
+"roi_mes": 0.5299515365,
+"roi_total": 46.2604820497,
+"pnl_total": 2795150.915567,
+"rot_mes": 17.702958223938545
+},
+{
+"dir": "0xe113311f35a53b196c0ab3ed31ad0bf937cc5c07",
+"nombre": null,
+"capital": 1038156.91922,
+"pnl_mes": 68835.072561,
+"roi_mes": 0.6252858841,
+"roi_total": 1.5866044341,
+"pnl_total": 2768680.92922,
+"rot_mes": 0.6685912477677278
+},
+{
+"dir": "0xe091330c53b971ed4e886f902f18e8544a8d6705",
+"nombre": null,
+"capital": 752911.165415,
+"pnl_mes": 1116529.597411,
+"roi_mes": 0.7392486863,
+"roi_total": 1.2914014296,
+"pnl_total": 2757578.455415,
+"rot_mes": 37.23749036786623
+},
+{
+"dir": "0x643430283b19fa5bd70a1138b495c2b43523cdd5",
+"nombre": null,
+"capital": 1883499.746676,
+"pnl_mes": 255626.760588,
+"roi_mes": 0.420993462,
+"roi_total": 4.6591099846,
+"pnl_total": 2732917.126676,
+"rot_mes": 0.8235509416645705
+},
+{
+"dir": "0x6921352064dc79139dad8b5b7ed2c982ce0fda21",
+"nombre": null,
+"capital": 415033.776417,
+"pnl_mes": 22778.036681,
+"roi_mes": 0.1345606611,
+"roi_total": 13.0974597869,
+"pnl_total": 2674353.436417,
+"rot_mes": 13.401693876624378
+},
+{
+"dir": "0x2e5af7bc3ca942491366ae5672fdc702e9a4fb3e",
+"nombre": null,
+"capital": 3839301.893591,
+"pnl_mes": 368232.675973,
+"roi_mes": 0.5696426005,
+"roi_total": 1.6488760976,
+"pnl_total": 2605818.143591,
+"rot_mes": 0.2605543579862508
+},
+{
+"dir": "0x541e077ac38c56d7bf590924d249c60b0c80071d",
+"nombre": null,
+"capital": 1241507.572915,
+"pnl_mes": 1340627.303803,
+"roi_mes": 0.660753549,
+"roi_total": 1.0688636939,
+"pnl_total": 2560644.332915,
+"rot_mes": 26.488061762512896
+},
+{
+"dir": "0xf7f8baf2197adf0c7e1725721f14ce1d53fd770c",
+"nombre": null,
+"capital": 4020680.865971,
+"pnl_mes": 1161834.257798,
+"roi_mes": 0.5959322648,
+"roi_total": 1.382976799,
+"pnl_total": 2395441.0859709997,
+"rot_mes": 148.90744954347696
+},
+{
+"dir": "0x719a6af4d603e59fee73ddc57407b386463a9840",
+"nombre": null,
+"capital": 106333.317333,
+"pnl_mes": 21799.014701,
+"roi_mes": 0.2578718227,
+"roi_total": 15.6562722697,
+"pnl_total": 2372702.727333,
+"rot_mes": 0.0
+},
+{
+"dir": "0x6041f881358c71d64bc9253c9ba0391df69f7d98",
+"nombre": null,
+"capital": 2333091.383097,
+"pnl_mes": 477184.998719,
+"roi_mes": 0.5505425562,
+"roi_total": 19.7783882879,
+"pnl_total": 2359047.953097,
+"rot_mes": 4.377784759738815
+},
+{
+"dir": "0xed48b856556a69c7c40229c9c4c829b909257c9b",
+"nombre": null,
+"capital": 2813010.538079,
+"pnl_mes": 804501.230657,
+"roi_mes": 1.2947299793,
+"roi_total": 1.5818838917,
+"pnl_total": 2340899.513336,
+"rot_mes": 8.292353940461812
+},
+{
+"dir": "0xbafae6afa1f7b0001860f627354130c859031b76",
+"nombre": null,
+"capital": 1854726.171451,
+"pnl_mes": 43172.76434,
+"roi_mes": 2.1865496558,
+"roi_total": 20.337071466,
+"pnl_total": 2326519.691451,
+"rot_mes": 3.8951152311331154
+},
+{
+"dir": "0x7dd6af227362f4115e060f39c00791ffcf4230d8",
+"nombre": null,
+"capital": 1304402.489594,
+"pnl_mes": 32978.983823,
+"roi_mes": 1.0122966904,
+"roi_total": 18.2271422218,
+"pnl_total": 2239894.549594,
+"rot_mes": 0.0
+},
+{
+"dir": "0x422f1f07f40f11bac71db4f520dd0ea1ff20f2c4",
+"nombre": null,
+"capital": 1007106.237579,
+"pnl_mes": 187498.763475,
+"roi_mes": 0.2335764005,
+"roi_total": 1.145446582,
+"pnl_total": 2186179.667579,
+"rot_mes": 7.457829134347738
+},
+{
+"dir": "0x0cacfc8c96b84bc5698fcdcb5ffd536b4a246170",
+"nombre": null,
+"capital": 439253.263001,
+"pnl_mes": 159924.709121,
+"roi_mes": 0.3021269225,
+"roi_total": 1.7470352637,
+"pnl_total": 2181437.923001,
+"rot_mes": 0.608472383731368
+},
+{
+"dir": "0x3e02519a47cef3d4464944c4815fad9e5837e767",
+"nombre": null,
+"capital": 253570.207899,
+"pnl_mes": 105785.743177,
+"roi_mes": 0.5251272493,
+"roi_total": 1.3141404193,
+"pnl_total": 2074251.7978989999,
+"rot_mes": 8.570590401793691
+},
+{
+"dir": "0x2b804617c6f63c040377e95bb276811747006f4b",
+"nombre": null,
+"capital": 2226218.794544,
+"pnl_mes": 273036.295385,
+"roi_mes": 0.1397904679,
+"roi_total": 2.1929459501,
+"pnl_total": 2069563.464544,
+"rot_mes": 0.0
+},
+{
+"dir": "0x4c2a1ec71baec30074f4c4a246367bc028a35001",
+"nombre": null,
+"capital": 3226746.844268,
+"pnl_mes": 8272.6,
+"roi_mes": 0.1599831365,
+"roi_total": 1.1056760093,
+"pnl_total": 2059803.394268,
+"rot_mes": 0.7331375481787002
+},
+{
+"dir": "0x61da9a366fc39cfef5a3e2e9e88c5007945c9e8b",
+"nombre": null,
+"capital": 700980.465238,
+"pnl_mes": 10.14854,
+"roi_mes": 0.1014854,
+"roi_total": 5.9053783057,
+"pnl_total": 2044186.975238,
+"rot_mes": 0.0
+},
+{
+"dir": "0x60fe5cbd886a778f584ffcc63833b068104d1f77",
+"nombre": null,
+"capital": 82750.0769,
+"pnl_mes": 927.24,
+"roi_mes": 0.1231734662,
+"roi_total": 6.1667822457,
+"pnl_total": 2026419.5469,
+"rot_mes": 0.6885023208963327
+},
+{
+"dir": "0x456f1049c0f2ec990091bbd3f30af62aca3fcdf1",
+"nombre": null,
+"capital": 2494098.081795,
+"pnl_mes": 251962.972473,
+"roi_mes": 0.1123763557,
+"roi_total": 27.3222743697,
+"pnl_total": 2018413.347027,
+"rot_mes": 6.875940387098845
+},
+{
+"dir": "0xb4eac34db4f9d1270d078495d367cb2e587cf6e8",
+"nombre": null,
+"capital": 2352861.791283,
+"pnl_mes": 1708882.384187,
+"roi_mes": 2.6536289287,
+"roi_total": 5.9831699319,
+"pnl_total": 2015928.591283,
+"rot_mes": 0.0
+},
+{
+"dir": "0x1f67d79afc8d0e7609ddba6c9b657cc635f69981",
+"nombre": null,
+"capital": 479146.792367,
+"pnl_mes": 52390.961517,
+"roi_mes": 0.1684265859,
+"roi_total": 10.5758312371,
+"pnl_total": 2007630.772367,
+"rot_mes": 35.37571790111685
+},
+{
+"dir": "0xc49ec554731a81f4bf4f3504cfb1dd3c484ccf74",
+"nombre": null,
+"capital": 878367.188926,
+"pnl_mes": 188028.857419,
+"roi_mes": 0.8194762565,
+"roi_total": 91.3056198612,
+"pnl_total": 1971287.418926,
+"rot_mes": 3.3671636728784615
+},
+{
+"dir": "0x0dd73d2b71efb30daf8cd48c9dfa8dc35868fe65",
+"nombre": null,
+"capital": 2430906.30395,
+"pnl_mes": 11237.21925,
+"roi_mes": 1.7354267517,
+"roi_total": 1.6565050312,
+"pnl_total": 1955207.98395,
+"rot_mes": 0.10352121329855091
+},
+{
+"dir": "0xd10e2b1b66001bd4086d61e43e836ab9c168fd9a",
+"nombre": null,
+"capital": 1588779.176494,
+"pnl_mes": 99934.342676,
+"roi_mes": 0.3202718191,
+"roi_total": 9.0850874863,
+"pnl_total": 1886949.776494,
+"rot_mes": 8.969169158829175
+},
+{
+"dir": "0x8a5cd8bd74ab3f205ddcb3b73b2f66deadc6827f",
+"nombre": null,
+"capital": 350030.632604,
+"pnl_mes": 138450.71496,
+"roi_mes": 0.4744691707,
+"roi_total": 4.4385699346,
+"pnl_total": 1877336.23258,
+"rot_mes": 1.3890209447755744
+},
+{
+"dir": "0x8250a7f9fca9c33e68eead8c05c1d58c8fd70d13",
+"nombre": null,
+"capital": 331475.816362,
+"pnl_mes": 137126.99919,
+"roi_mes": 0.7055715655,
+"roi_total": 26.8714562978,
+"pnl_total": 1856661.316362,
+"rot_mes": 3.7312458977377974
+},
+{
+"dir": "0xe31501c472d557bfa145ce105d325fb2dd4cb867",
+"nombre": null,
+"capital": 2062685.349113,
+"pnl_mes": 938053.135903,
+"roi_mes": 0.8340976942,
+"roi_total": 7.2507413965,
+"pnl_total": 1812685.349113,
+"rot_mes": 249.09820592896057
+},
+{
+"dir": "0x47930c76790c865217472f2ddb4d14c640ee450a",
+"nombre": null,
+"capital": 88052.462062,
+"pnl_mes": 813.098164,
+"roi_mes": 0.1174830324,
+"roi_total": 197.7480478367,
+"pnl_total": 1787090.752062,
+"rot_mes": 1.9714472024390444
+},
+{
+"dir": "0x95fde6cf0d305078b7eeac44182a931c169dd947",
+"nombre": null,
+"capital": 826547.87134,
+"pnl_mes": 52367.238569,
+"roi_mes": 0.2020751043,
+"roi_total": 2.8714890582,
+"pnl_total": 1770744.76134,
+"rot_mes": 3.1175169271472774
+},
+{
+"dir": "0xf482d8aba834789f5c7fabb0b48a1168c1466d43",
+"nombre": null,
+"capital": 3191115.612301,
+"pnl_mes": 18820.034722,
+"roi_mes": 0.2893443619,
+"roi_total": 1.2356196296,
+"pnl_total": 1763719.122301,
+"rot_mes": 0.002958930714889236
+},
+{
+"dir": "0xa0ca3dcba02de989e35eb3810ad762a222315075",
+"nombre": null,
+"capital": 326036.650978,
+"pnl_mes": 60138.786492,
+"roi_mes": 0.1620188809,
+"roi_total": 6.5817981764,
+"pnl_total": 1728466.280978,
+"rot_mes": 4.410660567412816
+},
+{
+"dir": "0x774f28fc243d6aa8787506869643fb4698bd2133",
+"nombre": null,
+"capital": 1631601.211358,
+"pnl_mes": 276693.574044,
+"roi_mes": 0.5607446104,
+"roi_total": 1.9117583302,
+"pnl_total": 1687780.664468,
+"rot_mes": 1.057883389632565
+},
+{
+"dir": "0x32a501193fe8789b2093e03e698e5ca979c9cd92",
+"nombre": null,
+"capital": 621583.581601,
+"pnl_mes": 222137.896636,
+"roi_mes": 0.5142582114,
+"roi_total": 2.2663669487,
+"pnl_total": 1630252.481601,
+"rot_mes": 2.8028664874201
+},
+{
+"dir": "0x001a1a5eb6800e78197b92a527b3ba8b8d5bfef6",
+"nombre": null,
+"capital": 1084725.826379,
+"pnl_mes": 434419.082355,
+"roi_mes": 0.5565836986,
+"roi_total": 2.2836612715,
+"pnl_total": 1613845.836379,
+"rot_mes": 0.0
+},
+{
+"dir": "0x2a21cc5d8bcaa0d10078c99606b03ee46c58817d",
+"nombre": null,
+"capital": 211700.087706,
+"pnl_mes": 28120.309283,
+"roi_mes": 0.2607444328,
+"roi_total": 6.8343357617,
+"pnl_total": 1612220.757706,
+"rot_mes": 17.556788758451987
+},
+{
+"dir": "0xbfce143acf73a34a1f8b2e2da64736146035c732",
+"nombre": null,
+"capital": 1588000.0,
+"pnl_mes": 1587000.0,
+"roi_mes": 1587.0,
+"roi_total": 1587.0,
+"pnl_total": 1587000.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0x54a7240cea67b8c41b7c7f2b485360f37331aef4",
+"nombre": null,
+"capital": 221154.916333,
+"pnl_mes": 21646.983528,
+"roi_mes": 0.1979419679,
+"roi_total": 32.0419069336,
+"pnl_total": 1493874.5663329998,
+"rot_mes": 26.678907382352396
+},
+{
+"dir": "0xbdbc4233ce2f349a9112f9890415050f57053ffe",
+"nombre": null,
+"capital": 1502848.058591,
+"pnl_mes": 149714.036464,
+"roi_mes": 0.5427921724,
+"roi_total": 22.7792156626,
+"pnl_total": 1439647.998591,
+"rot_mes": 0.0
+},
+{
+"dir": "0x0a3343b600d81cdaac131342652241cd32e14349",
+"nombre": null,
+"capital": 2084550.526105,
+"pnl_mes": 51210.726903,
+"roi_mes": 0.2045287867,
+"roi_total": 2.1653555414,
+"pnl_total": 1425998.746105,
+"rot_mes": 0.012032315689112066
+},
+{
+"dir": "0xa4be91acc74feabab71b8878b66b8f5277212520",
+"nombre": null,
+"capital": 117560.783488,
+"pnl_mes": 68238.032657,
+"roi_mes": 1.415037795,
+"roi_total": 4.6175071863,
+"pnl_total": 1424878.263488,
+"rot_mes": 6.618741615305965
+},
+{
+"dir": "0x7044be555aea5bddb3b9808658500d4e0d0a6b6e",
+"nombre": null,
+"capital": 398152.002592,
+"pnl_mes": 45447.668527,
+"roi_mes": 0.522604833,
+"roi_total": 2.9607462301,
+"pnl_total": 1415532.772592,
+"rot_mes": 0.94283848268039
+},
+{
+"dir": "0xd65ac35cd234c8718b876ab304fa56c8995e387f",
+"nombre": null,
+"capital": 1832841.188451,
+"pnl_mes": 485366.309785,
+"roi_mes": 0.3602043478,
+"roi_total": 3.2383099191,
+"pnl_total": 1400394.948451,
+"rot_mes": 21.673052941139737
+},
+{
+"dir": "0x054a01da80ee37d5220af5471b1eedbdcd2cdb2f",
+"nombre": null,
+"capital": 1658773.130094,
+"pnl_mes": 73831.282326,
+"roi_mes": 0.2525683137,
+"roi_total": 3.1652509334,
+"pnl_total": 1374520.030094,
+"rot_mes": 4.203403228267196
+},
+{
+"dir": "0xab81fef97356d57cd30f8ceb15285b988682c608",
+"nombre": null,
+"capital": 2390280.636305,
+"pnl_mes": 893357.98064,
+"roi_mes": 0.585070496,
+"roi_total": 1.5654794545,
+"pnl_total": 1369501.026623,
+"rot_mes": 77.48567860898106
+},
+{
+"dir": "0x7b7736a2c07c4332ffad45a039d2117ae15e3f66",
+"nombre": null,
+"capital": 623874.773468,
+"pnl_mes": 54336.824008,
+"roi_mes": 0.9186087184,
+"roi_total": 11.8416248586,
+"pnl_total": 1360574.913468,
+"rot_mes": 2.8667577630332515
+},
+{
+"dir": "0xbc433ba7c34752448c5361e5ed3038628a1753b0",
+"nombre": null,
+"capital": 1536673.361481,
+"pnl_mes": 178203.668865,
+"roi_mes": 0.2230479065,
+"roi_total": 1.2400628638,
+"pnl_total": 1358816.851481,
+"rot_mes": 2.7626668076737473
+},
+{
+"dir": "0x972b0f9cde1266e860e546ac92e783741769400f",
+"nombre": null,
+"capital": 251688.454478,
+"pnl_mes": 99157.930502,
+"roi_mes": 0.7066068082,
+"roi_total": 3.238419068,
+"pnl_total": 1358673.394478,
+"rot_mes": 2.5147968400565848
+},
+{
+"dir": "0x07423f74354aedab79af49892ba88c5ec73e57c2",
+"nombre": null,
+"capital": 1117525.91681,
+"pnl_mes": 1047940.937326,
+"roi_mes": 3.6605838904,
+"roi_total": 13.3323583312,
+"pnl_total": 1353235.437201,
+"rot_mes": 71.65623115800605
+},
+{
+"dir": "0x3cc1ff35f6acef01e406f2a992cb3851923237ef",
+"nombre": null,
+"capital": 517364.556242,
+"pnl_mes": 5858.894471,
+"roi_mes": 0.5891484927,
+"roi_total": 33.8024085283,
+"pnl_total": 1332239.116242,
+"rot_mes": 0.2974092410150087
+},
+{
+"dir": "0x5df2fed8188902f86f2074b70fd36ed3a39a1256",
+"nombre": null,
+"capital": 806017.445065,
+"pnl_mes": 89299.633323,
+"roi_mes": 0.4106192486,
+"roi_total": 4.4918327382,
+"pnl_total": 1301462.475065,
+"rot_mes": 1.0764505226435026
+},
+{
+"dir": "0x386f8249616769567fb5a900ef4a0d46d3884a5f",
+"nombre": null,
+"capital": 273842.742527,
+"pnl_mes": 367.96,
+"roi_mes": 3.6796,
+"roi_total": 5.5869035762,
+"pnl_total": 1266067.382527,
+"rot_mes": 15.101516702025648
+},
+{
+"dir": "0x4c496ea116a09651778e480b2e7e5aba78514521",
+"nombre": null,
+"capital": 1102290.287416,
+"pnl_mes": 43170.651511,
+"roi_mes": 0.2908851092,
+"roi_total": 207.2366794608,
+"pnl_total": 1265211.357416,
+"rot_mes": 3.316601807832399
+},
+{
+"dir": "0x71ff6ab02bbb02e9f6b6f6a6d2ff521a8b2babe3",
+"nombre": null,
+"capital": 426437.325338,
+"pnl_mes": 532.76,
+"roi_mes": 0.1535743009,
+"roi_total": 64.8683818556,
+"pnl_total": 1245540.385338,
+"rot_mes": 0.8263988845738988
+},
+{
+"dir": "0x913df0b299f74ced052c5332a19a1fe72a343ad6",
+"nombre": null,
+"capital": 207942.963332,
+"pnl_mes": 11551.635785,
+"roi_mes": 0.2641594823,
+"roi_total": 2.3889887465,
+"pnl_total": 1239263.543332,
+"rot_mes": 0.0
+},
+{
+"dir": "0x24fb52e17e3d4fd62a119b8f53c1a3f3bfe65c2f",
+"nombre": null,
+"capital": 671640.768107,
+"pnl_mes": 557667.613609,
+"roi_mes": 1.1724899512,
+"roi_total": 2.9207254613,
+"pnl_total": 1236779.298107,
+"rot_mes": 113.66544003153453
+},
+{
+"dir": "0x1317ea30e98a643fe356f01f5bc33cd0756044cb",
+"nombre": null,
+"capital": 99530.133957,
+"pnl_mes": 16044.538231,
+"roi_mes": 0.1113988783,
+"roi_total": 5.8912766569,
+"pnl_total": 1233971.103957,
+"rot_mes": 151.934004997252
+},
+{
+"dir": "0xb919448d2f1797e5d9e7b9e88cd909a5089e6d4e",
+"nombre": null,
+"capital": 898087.291559,
+"pnl_mes": 30665.759137,
+"roi_mes": 0.3403275035,
+"roi_total": 2.106846253,
+"pnl_total": 1220809.931559,
+"rot_mes": 2.6080878351301364
+},
+{
+"dir": "0x6608d5342ca0fc0acf0c334c2496f1542af1fc71",
+"nombre": null,
+"capital": 267795.216088,
+"pnl_mes": 263837.168421,
+"roi_mes": 0.7668328065,
+"roi_total": 3.0936773879,
+"pnl_total": 1205235.022401,
+"rot_mes": 58.956450419979994
+},
+{
+"dir": "0xa4247526997374fdab0bad6f63c9f3daca8f22d4",
+"nombre": null,
+"capital": 1783186.465845,
+"pnl_mes": 473254.04786,
+"roi_mes": 0.5340742959,
+"roi_total": 2.0725631756,
+"pnl_total": 1202828.515845,
+"rot_mes": 1.9197150357339892
+},
+{
+"dir": "0xfc98b6ec7f59ea13354bae6171a9120692fb8777",
+"nombre": null,
+"capital": 1909999.358237,
+"pnl_mes": 717578.899004,
+"roi_mes": 0.6503704037,
+"roi_total": 1.5148644592,
+"pnl_total": 1202411.818237,
+"rot_mes": 29.531237535107643
+},
+{
+"dir": "0x8230cf5bc3de7f18889fabdb8e649b3c45ff3650",
+"nombre": null,
+"capital": 775535.662982,
+"pnl_mes": 493612.884431,
+"roi_mes": 0.8481154934,
+"roi_total": 5.8647054841,
+"pnl_total": 1180849.1829819998,
+"rot_mes": 66.52693250961109
+},
+{
+"dir": "0xd93db9fc95c19c1eaab854281890e9e77b18ae3f",
+"nombre": null,
+"capital": 957807.442482,
+"pnl_mes": 250539.754831,
+"roi_mes": 0.3412561735,
+"roi_total": 1.2727639161,
+"pnl_total": 1177835.544858,
+"rot_mes": 17.653069709069165
+},
+{
+"dir": "0x5b676c5b03f38557e6f21257732608d019cec66a",
+"nombre": null,
+"capital": 420451.079093,
+"pnl_mes": 806568.588546,
+"roi_mes": 1.1831849361,
+"roi_total": 2.3449409714,
+"pnl_total": 1166271.094906,
+"rot_mes": 280.381008640305
+},
+{
+"dir": "0x826982b46fd9e551f141f145c468e36acce1f8ac",
+"nombre": null,
+"capital": 399589.767037,
+"pnl_mes": 14345.32,
+"roi_mes": 1.0241587557,
+"roi_total": 2.4397535623,
+"pnl_total": 1158258.017037,
+"rot_mes": 0.7800211259442469
+},
+{
+"dir": "0x8ab117ae3af056395dc23cd79ba07bda3a95d9f3",
+"nombre": null,
+"capital": 515738.554865,
+"pnl_mes": 20835.487341,
+"roi_mes": 0.5133697402,
+"roi_total": 1.7527171872,
+"pnl_total": 1146595.964865,
+"rot_mes": 0.8116312733485093
+},
+{
+"dir": "0xd70c9e61ba506a8cf1c25b54d14b25abdc048fd4",
+"nombre": null,
+"capital": 474184.8476490001,
+"pnl_mes": 11393.336666,
+"roi_mes": 0.167918613,
+"roi_total": 23.3432739327,
+"pnl_total": 1133917.977649,
+"rot_mes": 0.8478633216420275
+},
+{
+"dir": "0x6ad04649246c78a43d16597ccab67c5e3f785af1",
+"nombre": null,
+"capital": 589709.890442,
+"pnl_mes": 334689.444834,
+"roi_mes": 1.0241714188,
+"roi_total": 1.5368370039,
+"pnl_total": 1105628.110442,
+"rot_mes": 13.080870077010673
+},
+{
+"dir": "0x21dea6174dc9a78cc16329f07a14724a37922361",
+"nombre": null,
+"capital": 987570.232225,
+"pnl_mes": 7951.759377,
+"roi_mes": 0.2122120837,
+"roi_total": 3.1355506738,
+"pnl_total": 1100472.502225,
+"rot_mes": 4.708231028312979
+},
+{
+"dir": "0xa495ff84d8778182007f00fcd80272dd56a6517b",
+"nombre": "healy",
+"capital": 478381.786796,
+"pnl_mes": 127.360436,
+"roi_mes": 0.1160751473,
+"roi_total": 59.6713261741,
+"pnl_total": 1084206.436796,
+"rot_mes": 0.4133786767353023
+},
+{
+"dir": "0x28595150c2e47d8291d994883fac8fe501efd3d8",
+"nombre": null,
+"capital": 1242505.282014,
+"pnl_mes": 45525.24315,
+"roi_mes": 0.2241710561,
+"roi_total": 5.2829275558,
+"pnl_total": 1044746.312014,
+"rot_mes": 0.1634429832530175
+},
+{
+"dir": "0x8feb3a7d8bf1e424679fc75753b363eba5ee8185",
+"nombre": null,
+"capital": 141013.542802,
+"pnl_mes": 58599.227384,
+"roi_mes": 0.2431107012,
+"roi_total": 4.180229531,
+"pnl_total": 1042226.113281,
+"rot_mes": 21.015987763396353
+},
+{
+"dir": "0x203f692c6a6cafb911853a3c282c4e644962225e",
+"nombre": null,
+"capital": 2034959.465035,
+"pnl_mes": 26395.292064,
+"roi_mes": 0.1063530739,
+"roi_total": 1.0359643844,
+"pnl_total": 1042127.005035,
+"rot_mes": 0.007395498661562362
+},
+{
+"dir": "0x0eb8f692baba6c6f4a5e57c7e222758c95a9ce81",
+"nombre": null,
+"capital": 134803.854123,
+"pnl_mes": 112470.916704,
+"roi_mes": 0.4614748121,
+"roi_total": 1.1227709485,
+"pnl_total": 1040279.844123,
+"rot_mes": 3.4948374663689883
+},
+{
+"dir": "0x4e308dd40496eab867ed394d84b6d552b5b49724",
+"nombre": null,
+"capital": 541197.991074,
+"pnl_mes": 26164.99044,
+"roi_mes": 0.4383389604,
+"roi_total": 3.9363902572,
+"pnl_total": 1040215.511074,
+"rot_mes": 0.5577627134220562
+},
+{
+"dir": "0x3ea8b09da72972e953541500721803a187526da6",
+"nombre": null,
+"capital": 1007248.401389,
+"pnl_mes": 19876.33775,
+"roi_mes": 0.1558547282,
+"roi_total": 58.2543779694,
+"pnl_total": 1028919.091389,
+"rot_mes": 0.7759659969896038
+},
+{
+"dir": "0xfbc9638938262f15cc1b3a751a54d538559da361",
+"nombre": null,
+"capital": 301519.335327,
+"pnl_mes": 198825.194186,
+"roi_mes": 0.975665337,
+"roi_total": 1.2654691766,
+"pnl_total": 1023512.925327,
+"rot_mes": 0.9100316226898671
+},
+{
+"dir": "0x58e1b0e63c905d5982324fcd9108582623b8132e",
+"nombre": null,
+"capital": 773080.917248,
+"pnl_mes": 16562.75,
+"roi_mes": 165.6275,
+"roi_total": 10137.10867248,
+"pnl_total": 1013710.867248,
+"rot_mes": 0.0
+},
+{
+"dir": "0x40e494cdd7f6ee95449e06a74b767fb93c3623c5",
+"nombre": null,
+"capital": 526256.366945,
+"pnl_mes": 61533.843071,
+"roi_mes": 0.3304740344,
+"roi_total": 3.972328454,
+"pnl_total": 1007856.076945,
+"rot_mes": 4.668237848145129
+},
+{
+"dir": "0xf3eb9dc9626800f5c2157a14adfaba2177e1f7b5",
+"nombre": null,
+"capital": 1271522.331895,
+"pnl_mes": 601021.700378,
+"roi_mes": 0.8482449856,
+"roi_total": 1.4377161116,
+"pnl_total": 999212.69758,
+"rot_mes": 0.599485475700592
+},
+{
+"dir": "0x8dc44ec285114429a7e65eb2e3fdbde945351d5f",
+"nombre": null,
+"capital": 178721.803801,
+"pnl_mes": 12172.809084,
+"roi_mes": 0.144496162,
+"roi_total": 6.2829282759,
+"pnl_total": 996794.7138009999,
+"rot_mes": 2.043349005175812
+},
+{
+"dir": "0x324563717b20e19e71c5440aff6c9762ccfc08cc",
+"nombre": null,
+"capital": 832872.987632,
+"pnl_mes": 296039.115507,
+"roi_mes": 0.5514538685,
+"roi_total": 1.8383100526,
+"pnl_total": 992744.397632,
+"rot_mes": 0.7285482408610733
+},
+{
+"dir": "0x10cd85d0257e666fa74de7c03965a6ec9383e171",
+"nombre": "Jerome Loo\u8001\u738b",
+"capital": 906732.125677,
+"pnl_mes": 269.12,
+"roi_mes": 2.6912,
+"roi_total": 20.6537848922,
+"pnl_total": 977997.815677,
+"rot_mes": 0.0
+},
+{
+"dir": "0xc2ba3e0583f0ea1b9c81eee804c1e3dcd16d0b69",
+"nombre": null,
+"capital": 1694189.213473,
+"pnl_mes": 872629.370775,
+"roi_mes": 0.8845174062,
+"roi_total": 1.1004308591,
+"pnl_total": 974042.633473,
+"rot_mes": 2.5542013050179078
+},
+{
+"dir": "0x8ae20fabeb608fd307fc1ea15a294340a547d501",
+"nombre": null,
+"capital": 1608589.074095,
+"pnl_mes": 60013.532595,
+"roi_mes": 0.2199828191,
+"roi_total": 1.4255908546,
+"pnl_total": 970760.754095,
+"rot_mes": 0.06153880540043616
+},
+{
+"dir": "0xcc58accacd0db8010e4c8a20ba49d2dc9d4d7f59",
+"nombre": "Brussa",
+"capital": 980522.643914,
+"pnl_mes": 114235.702549,
+"roi_mes": 0.5468191696,
+"roi_total": 2.7407818338,
+"pnl_total": 964253.943914,
+"rot_mes": 0.41514160078459356
+},
+{
+"dir": "0x844b6ab0079fb36e6a99cba877574acd8f1e7f42",
+"nombre": null,
+"capital": 875833.616046,
+"pnl_mes": 381559.509357,
+"roi_mes": 0.5280138594,
+"roi_total": 1.6843459734,
+"pnl_total": 957415.096046,
+"rot_mes": 13.691336984912208
+},
+{
+"dir": "0xe183ef47829ae1eb7234e478e418cd9fa0a511dd",
+"nombre": null,
+"capital": 508550.146078,
+"pnl_mes": 2658.58,
+"roi_mes": 0.1534838663,
+"roi_total": 1.7627191336,
+"pnl_total": 954697.576078,
+"rot_mes": 2.2163421418565976
+},
+{
+"dir": "0xd42350dfad9884113f21109b5a7a6736fb4d50c3",
+"nombre": "\u00a8\\_(\u30c4)_/\u00a8",
+"capital": 720905.914497,
+"pnl_mes": 40634.219059,
+"roi_mes": 0.5583762783,
+"roi_total": 27.8467937275,
+"pnl_total": 952510.134497,
+"rot_mes": 2.084615675609433
+},
+{
+"dir": "0x944b5f7d8eece040aae1895c7fed03202aedf123",
+"nombre": null,
+"capital": 366292.853538,
+"pnl_mes": 226436.254995,
+"roi_mes": 1.0268733823,
+"roi_total": 1.4383226486,
+"pnl_total": 937217.783538,
+"rot_mes": 0.6169251401366934
+},
+{
+"dir": "0x58c164c969ea2d2a3ba98f19e10d5fa4aaf916a0",
+"nombre": null,
+"capital": 69885.688843,
+"pnl_mes": 53464.940739,
+"roi_mes": 0.3384665727,
+"roi_total": 6.1430040796,
+"pnl_total": 921086.948843,
+"rot_mes": 60.056392224005315
+},
+{
+"dir": "0xec48794d7ad819a633471858f1ceafee1d7d1121",
+"nombre": null,
+"capital": 666618.813377,
+"pnl_mes": 42857.862717,
+"roi_mes": 0.5048177995,
+"roi_total": 48.8449831542,
+"pnl_total": 917642.223377,
+"rot_mes": 0.5366369847676169
+},
+{
+"dir": "0x2b02efbf4fa4585ae3cc9d81913770e9b12484db",
+"nombre": "Osho",
+"capital": 243439.7966,
+"pnl_mes": 76765.480298,
+"roi_mes": 0.2602279336,
+"roi_total": 1.3551348362,
+"pnl_total": 914480.7766,
+"rot_mes": 0.45935932235329513
+},
+{
+"dir": "0x20ad988487d6a53fea7918657f45fe0bb8fd8183",
+"nombre": null,
+"capital": 321380.758826,
+"pnl_mes": 168145.099681,
+"roi_mes": 0.4110837481,
+"roi_total": 1.5837111972,
+"pnl_total": 897932.298826,
+"rot_mes": 178.47937826002652
+},
+{
+"dir": "0x6d7f5a158495d5865383172856a9b6445a992216",
+"nombre": null,
+"capital": 777254.230626,
+"pnl_mes": 1105.3,
+"roi_mes": 0.2893841848,
+"roi_total": 3.6935702661,
+"pnl_total": 895738.990626,
+"rot_mes": 0.08425496757638282
+},
+{
+"dir": "0x69eb16da29deeac170613a1cacb34227fc15f956",
+"nombre": null,
+"capital": 470409.522516,
+"pnl_mes": 15152.782017,
+"roi_mes": 0.2353474853,
+"roi_total": 19.7777963332,
+"pnl_total": 889821.892516,
+"rot_mes": 0.0559995466484291
+},
+{
+"dir": "0xccaeb98ce9ca54f76bf0029cf9f12c894e253dd6",
+"nombre": "BoobsAreFantastic",
+"capital": 932830.416805,
+"pnl_mes": 212766.863037,
+"roi_mes": 0.9469970867,
+"roi_total": 1.6298843459,
+"pnl_total": 860829.936805,
+"rot_mes": 1.655062433842932
+},
+{
+"dir": "0x873a5fa29b37bcfd6874bece7dcf8d1d64aa0aec",
+"nombre": null,
+"capital": 898747.320898,
+"pnl_mes": 11.75,
+"roi_mes": 0.1175,
+"roi_total": 2.4499093008,
+"pnl_total": 856735.560898,
+"rot_mes": 0.0011149963696122434
+},
+{
+"dir": "0x54fc13e72548503e13eea8b4cfdb4524be39d7d2",
+"nombre": null,
+"capital": 306588.531328,
+"pnl_mes": 167359.963475,
+"roi_mes": 1.5488754719,
+"roi_total": 7.300173756,
+"pnl_total": 850502.071328,
+"rot_mes": 13.899199854416803
+},
+{
+"dir": "0x0980b34ade9476dba81bcdb0f865a333793ad1c2",
+"nombre": null,
+"capital": 928754.792383,
+"pnl_mes": 190518.775591,
+"roi_mes": 1.0214364169,
+"roi_total": 1.0140772193,
+"pnl_total": 847233.832383,
+"rot_mes": 0.7163472053726309
+},
+{
+"dir": "0xa522301c25e833b75b223a21a7f528eef9862d0e",
+"nombre": null,
+"capital": 1554243.716666,
+"pnl_mes": 284292.812165,
+"roi_mes": 0.2178569273,
+"roi_total": 1.1200541133,
+"pnl_total": 839620.116666,
+"rot_mes": 60.22141006352478
+},
+{
+"dir": "0x9afb4e4eda99fdeec1343bc7de4108beacec1d70",
+"nombre": null,
+"capital": 743117.409156,
+"pnl_mes": 56979.910763,
+"roi_mes": 0.3819499165,
+"roi_total": 3.4354470514,
+"pnl_total": 835578.309156,
+"rot_mes": 3.3532806112430724
+},
+{
+"dir": "0xe7795fce474d1eafd645a29e799a64f85dc26ba7",
+"nombre": null,
+"capital": 765086.63479,
+"pnl_mes": 292564.4243,
+"roi_mes": 0.6190238584,
+"roi_total": 9.2402524691,
+"pnl_total": 833257.322884,
+"rot_mes": 161.57330939904654
+},
+{
+"dir": "0xe46eafafb60af2eea3a59768106a9342aec59ec3",
+"nombre": null,
+"capital": 332121.288068,
+"pnl_mes": 9994.380343,
+"roi_mes": 0.1306476737,
+"roi_total": 26.1130395634,
+"pnl_total": 827821.218068,
+"rot_mes": 1.2089170565838396
+},
+{
+"dir": "0xf5f569a7006860e6e17c92ba9d5959090acf0336",
+"nombre": null,
+"capital": 689016.177222,
+"pnl_mes": 40645.05,
+"roi_mes": 4.0525338151,
+"roi_total": 1.8123478297,
+"pnl_total": 819694.077222,
+"rot_mes": 0.29699546507754493
+},
+{
+"dir": "0x03a66ab07ef5851ab95ce65aaf7f35226a6c9111",
+"nombre": null,
+"capital": 797000.0,
+"pnl_mes": 796500.0,
+"roi_mes": 1593.0,
+"roi_total": 1593.0,
+"pnl_total": 796500.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0xe0371261b53e70d63e680899c83c0072ef60f63d",
+"nombre": null,
+"capital": 797000.0,
+"pnl_mes": 796500.0,
+"roi_mes": 1593.0,
+"roi_total": 1593.0,
+"pnl_total": 796500.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0xe06532a98a541b48f6330d2dd88e2b4b96010d6b",
+"nombre": null,
+"capital": 78033.042701,
+"pnl_mes": 79272.458376,
+"roi_mes": 0.546226014,
+"roi_total": 1.0238890112,
+"pnl_total": 796224.422701,
+"rot_mes": 87.72487119629228
+},
+{
+"dir": "0x1d08bf4f2f4e2d9cc7fa34c7ee65aabad6074350",
+"nombre": null,
+"capital": 463896.074458,
+"pnl_mes": 227000.098131,
+"roi_mes": 0.9567987503,
+"roi_total": 2.6782274816,
+"pnl_total": 795895.904458,
+"rot_mes": 0.0
+},
+{
+"dir": "0x2d1d925f7144a3dd56913eb4bbd011b52dc2a2f3",
+"nombre": "wish 2 be rich",
+"capital": 500170.083205,
+"pnl_mes": 698628.8798130001,
+"roi_mes": 2.0346195135,
+"roi_total": 1.9174297635,
+"pnl_total": 795283.5632049999,
+"rot_mes": 209.11997674825028
+},
+{
+"dir": "0x675462411d40a169c3397ac1dc00786dc9c7d3a1",
+"nombre": null,
+"capital": 757268.1808310001,
+"pnl_mes": 498739.349978,
+"roi_mes": 0.5842578607,
+"roi_total": 1.1741137206,
+"pnl_total": 795175.8907400001,
+"rot_mes": 4.528288705114999
+},
+{
+"dir": "0x6a55e165cdb23443f03a53608abf586c1e76af3a",
+"nombre": null,
+"capital": 452202.210152,
+"pnl_mes": 87.094092,
+"roi_mes": 0.2906236385,
+"roi_total": 23.1363091651,
+"pnl_total": 791671.860152,
+"rot_mes": 0.28946335745683677
+},
+{
+"dir": "0xc4643e390f49d1616b5108bf0eac309f7c0eb868",
+"nombre": null,
+"capital": 722853.680302,
+"pnl_mes": 322045.445255,
+"roi_mes": 0.8767353094,
+"roi_total": 1.2518498792,
+"pnl_total": 780921.330302,
+"rot_mes": 2.4085868930937817
+},
+{
+"dir": "0x98abb17006aaa4f29f60cb8c9c3db70b174eba24",
+"nombre": null,
+"capital": 217691.40499,
+"pnl_mes": 66.08,
+"roi_mes": 0.2202666667,
+"roi_total": 27.0637697625,
+"pnl_total": 776685.69499,
+"rot_mes": 1.8880084402913384
+},
+{
+"dir": "0x739ccf4aa388ddade09316f7aee5ed0ec7ae5739",
+"nombre": null,
+"capital": 1072345.987558,
+"pnl_mes": 11201.694256,
+"roi_mes": 0.1305813302,
+"roi_total": 2.4846415231,
+"pnl_total": 767769.287558,
+"rot_mes": 46.1167206422034
+},
+{
+"dir": "0x103e9d15f8a102ef9333ad8b66ffe25b0db448a4",
+"nombre": null,
+"capital": 108971.024381,
+"pnl_mes": 104193.792918,
+"roi_mes": 1.0126514275,
+"roi_total": 3.7338297633,
+"pnl_total": 756812.344381,
+"rot_mes": 2.849748011124921
+},
+{
+"dir": "0xf86149475b49bdb11cd8b27c38ae11a1569fbbdc",
+"nombre": null,
+"capital": 1314084.665437,
+"pnl_mes": 423213.840192,
+"roi_mes": 0.7742619315,
+"roi_total": 1.3430772776,
+"pnl_total": 753247.565437,
+"rot_mes": 0.45269794682686676
+},
+{
+"dir": "0x6dae1ddf6e3b8832092653c7e8e9f1202b6ffaad",
+"nombre": "ibench225",
+"capital": 812883.246409,
+"pnl_mes": 60241.214739,
+"roi_mes": 0.4669016115,
+"roi_total": 4.2255427172,
+"pnl_total": 752391.896409,
+"rot_mes": 0.0
+},
+{
+"dir": "0x69b05701f8175c276ecd0138387a197948e240bb",
+"nombre": null,
+"capital": 623561.729544,
+"pnl_mes": 36208.93367,
+"roi_mes": 0.2146410038,
+"roi_total": 1.1523996798,
+"pnl_total": 751470.139544,
+"rot_mes": 16.62151867078086
+},
+{
+"dir": "0x2a934d40944e2b686ee9cdce74a3f67d32cd0347",
+"nombre": null,
+"capital": 120003.517778,
+"pnl_mes": 100746.608661,
+"roi_mes": 0.6478227134,
+"roi_total": 4.4489401867,
+"pnl_total": 733840.137778,
+"rot_mes": 0.0
+},
+{
+"dir": "0x94b227df8fe384dfa9273334c72e5efbf934599e",
+"nombre": null,
+"capital": 1418867.459628,
+"pnl_mes": 449247.69401,
+"roi_mes": 0.4633235727,
+"roi_total": 1.0269390356,
+"pnl_total": 718862.459628,
+"rot_mes": 9.254088703565392
+},
+{
+"dir": "0xc1aaca600fe111d956f60e977858864b7be60928",
+"nombre": null,
+"capital": 881691.900837,
+"pnl_mes": 29541.455271,
+"roi_mes": 0.2115827061,
+"roi_total": 2.2432784292,
+"pnl_total": 713591.040837,
+"rot_mes": 0.0
+},
+{
+"dir": "0xea73db6c22ca00a06b02be3ee4a37a68c55ee73c",
+"nombre": null,
+"capital": 390323.44247,
+"pnl_mes": 46.38,
+"roi_mes": 0.2692597968,
+"roi_total": 2.1780732906,
+"pnl_total": 705758.69247,
+"rot_mes": 3.2416862845670624
+},
+{
+"dir": "0xfb5e041ef8035d8f9205a65f46cbf3692534cc64",
+"nombre": null,
+"capital": 552636.853952,
+"pnl_mes": 267638.732328,
+"roi_mes": 0.9390894607,
+"roi_total": 11.090907414,
+"pnl_total": 701408.393952,
+"rot_mes": 0.0
+},
+{
+"dir": "0xd831409a48d8b21d59245c12b1540a0820446203",
+"nombre": null,
+"capital": 189276.138632,
+"pnl_mes": 56148.10765,
+"roi_mes": 0.2764173284,
+"roi_total": 3.7704863469,
+"pnl_total": 699328.692903,
+"rot_mes": 0.3757576127346871
+},
+{
+"dir": "0xc0368e2453a2f9fee1819bccafff4d92265af096",
+"nombre": null,
+"capital": 906963.146478,
+"pnl_mes": 49698.752313,
+"roi_mes": 0.2834080043,
+"roi_total": 2.4684789768,
+"pnl_total": 694582.416478,
+"rot_mes": 0.0
+},
+{
+"dir": "0x4e4cdfeb4105c7a458f381373e21a3bc3ad78ece",
+"nombre": null,
+"capital": 50945.029874,
+"pnl_mes": 9929.212019,
+"roi_mes": 0.2420825071,
+"roi_total": 2.8484998007,
+"pnl_total": 688339.919874,
+"rot_mes": 1.246120576570692
+},
+{
+"dir": "0xb1839ea781ed5574801dd6460cf634d81ad06844",
+"nombre": null,
+"capital": 577275.527132,
+"pnl_mes": 156956.708405,
+"roi_mes": 0.3653685821,
+"roi_total": 3.4439189457,
+"pnl_total": 686353.587132,
+"rot_mes": 0.1716640587421617
+},
+{
+"dir": "0x420ab45e0bd8863569a5efbb9c05d91f40624641",
+"nombre": null,
+"capital": 354169.948721,
+"pnl_mes": 71775.685867,
+"roi_mes": 0.4963033766,
+"roi_total": 1.7005496827,
+"pnl_total": 683618.778721,
+"rot_mes": 0.05524141749082262
+},
+{
+"dir": "0x838d8e13ec1010e7851b3dc333699db885f2520c",
+"nombre": null,
+"capital": 803923.576633,
+"pnl_mes": 72357.126408,
+"roi_mes": 0.4028273078,
+"roi_total": 6.1741808504,
+"pnl_total": 678624.777292,
+"rot_mes": 65.71189450774904
+},
+{
+"dir": "0x2bee414493be72c747edf347d42b198494fb0ba9",
+"nombre": null,
+"capital": 131659.214008,
+"pnl_mes": 26110.973915,
+"roi_mes": 0.4844699661,
+"roi_total": 2.3936812974,
+"pnl_total": 678372.223915,
+"rot_mes": 0.0
+},
+{
+"dir": "0x2fd42245e61856bfc59a9df29db1ac38ba290585",
+"nombre": null,
+"capital": 635568.516157,
+"pnl_mes": 57464.941298,
+"roi_mes": 0.5553240048,
+"roi_total": 4.6137551161,
+"pnl_total": 674425.066157,
+"rot_mes": 1.9296860980713515
+},
+{
+"dir": "0xf94b346387ae5f1ae84bf10e36008cb552ca82d5",
+"nombre": null,
+"capital": 104682.375516,
+"pnl_mes": 12595.630837,
+"roi_mes": 1.1970351824,
+"roi_total": 12.0013875797,
+"pnl_total": 664994.485516,
+"rot_mes": 0.4903909540355601
+},
+{
+"dir": "0x9cac725f17d5deb4a65922a6043eac4081ac6bc4",
+"nombre": null,
+"capital": 78632.617813,
+"pnl_mes": 25635.140963,
+"roi_mes": 0.5347795583,
+"roi_total": 677.8945921537,
+"pnl_total": 664084.017813,
+"rot_mes": 0.0
+},
+{
+"dir": "0x6f614a8f8e1d1fbacc86d14371ff557db491270d",
+"nombre": "Winfluencer",
+"capital": 662461.262593,
+"pnl_mes": 77.798826,
+"roi_mes": 0.1489853331,
+"roi_total": 1.2470284155,
+"pnl_total": 660168.502593,
+"rot_mes": 0.03203864316069411
+},
+{
+"dir": "0x73cdde45485932f12b534d1826577aa1197edac5",
+"nombre": null,
+"capital": 157007.999883,
+"pnl_mes": 7288.927905,
+"roi_mes": 0.3737415001,
+"roi_total": 13.0486684633,
+"pnl_total": 659962.199883,
+"rot_mes": 0.0
+},
+{
+"dir": "0xa399f378380dddb1fbb72e935b0111d7a4d16a52",
+"nombre": null,
+"capital": 302924.375409,
+"pnl_mes": 167998.720904,
+"roi_mes": 0.8302107651,
+"roi_total": 1.0609005457,
+"pnl_total": 656213.985409,
+"rot_mes": 177.14319687066595
+},
+{
+"dir": "0x86d2161a18a6eb5be550d5253496e5a161cdf731",
+"nombre": null,
+"capital": 304001.698723,
+"pnl_mes": 42341.635713,
+"roi_mes": 0.6329461258,
+"roi_total": 25.350521868,
+"pnl_total": 653744.858723,
+"rot_mes": 22.834568389452244
+},
+{
+"dir": "0x1f71234e2c178b3b6184847b8bcd29f7331ea327",
+"nombre": null,
+"capital": 168518.453848,
+"pnl_mes": 1082.86,
+"roi_mes": 0.1103132262,
+"roi_total": 8.6450611953,
+"pnl_total": 648720.023848,
+"rot_mes": 2.443126319989591
+},
+{
+"dir": "0x3da36da44a0e67e7f0273333ec870248aa38740f",
+"nombre": null,
+"capital": 805932.564681,
+"pnl_mes": 399918.788778,
+"roi_mes": 0.5666524268,
+"roi_total": 1.3666009568,
+"pnl_total": 638475.734681,
+"rot_mes": 150.96582824911425
+},
+{
+"dir": "0xc28e23e7d7d6cc0c9c6f08146c71e7d168cae45a",
+"nombre": null,
+"capital": 489788.975898,
+"pnl_mes": 13768.054861,
+"roi_mes": 0.657501218,
+"roi_total": 30.8590454577,
+"pnl_total": 633757.1358980001,
+"rot_mes": 0.08955613980404231
+},
+{
+"dir": "0x08bf6b60cab141a50cd6ba3646e96216be7a9d88",
+"nombre": null,
+"capital": 631230.0,
+"pnl_mes": 630833.0,
+"roi_mes": 1589.0,
+"roi_total": 1589.0,
+"pnl_total": 630833.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0x944a62478a3807be0178011998a95e9e622b93c7",
+"nombre": null,
+"capital": 406040.376437,
+"pnl_mes": 36807.436803,
+"roi_mes": 0.7744939377,
+"roi_total": 1.6264078884,
+"pnl_total": 629796.496363,
+"rot_mes": 2.6554412382860475
+},
+{
+"dir": "0x8cd8d44d0346cc27eaf4ced5f103e038425e2abe",
+"nombre": null,
+"capital": 136160.573633,
+"pnl_mes": 7744.555389,
+"roi_mes": 0.328982775,
+"roi_total": 5.4250689389,
+"pnl_total": 626748.503633,
+"rot_mes": 0.992898211228117
+},
+{
+"dir": "0x4594d0b089984277ae64bdea2093c28db66d3e01",
+"nombre": null,
+"capital": 138959.031805,
+"pnl_mes": 2748.05397,
+"roi_mes": 0.2645702234,
+"roi_total": 58.3095822121,
+"pnl_total": 618135.361805,
+"rot_mes": 11.70936547890839
+},
+{
+"dir": "0x3c165893deaaf04ac79f4f959594747b6ef77e92",
+"nombre": null,
+"capital": 218737.306839,
+"pnl_mes": 19153.617408,
+"roi_mes": 0.1267176721,
+"roi_total": 1.1292774468,
+"pnl_total": 617216.316839,
+"rot_mes": 9.388848430467348
+},
+{
+"dir": "0x6e9989debf991affd8dfe4a73efcbfc8cb658473",
+"nombre": null,
+"capital": 291475.471951,
+"pnl_mes": 22216.052066,
+"roi_mes": 0.8325515189,
+"roi_total": 1.5960418741,
+"pnl_total": 612021.081951,
+"rot_mes": 14.156532494417474
+},
+{
+"dir": "0x870f718a84843abc3e22412a9b4dc2924466d448",
+"nombre": null,
+"capital": 882652.380097,
+"pnl_mes": 70857.7,
+"roi_mes": 0.4649145133,
+"roi_total": 1.8251069599,
+"pnl_total": 603173.850097,
+"rot_mes": 4.4825103848529775
+},
+{
+"dir": "0x5516d267409e6e78a2271c8690e5f17fc38f94f2",
+"nombre": null,
+"capital": 1370832.904411,
+"pnl_mes": 551000.233044,
+"roi_mes": 0.5150340308,
+"roi_total": 1.3661084448,
+"pnl_total": 593637.001248,
+"rot_mes": 3.4818815514578185
+},
+{
+"dir": "0x210c6a8d45c622ed31301dde3170076c075672ff",
+"nombre": null,
+"capital": 78983.838172,
+"pnl_mes": 28983.047845,
+"roi_mes": 0.5796517946,
+"roi_total": 5.3715117316,
+"pnl_total": 586583.208172,
+"rot_mes": 0.6330386210292459
+},
+{
+"dir": "0xa3f9bb20d0837cbdf102c76ea2454b2484b1ba8e",
+"nombre": null,
+"capital": 55101.125046,
+"pnl_mes": 19139.939571,
+"roi_mes": 0.4682806551,
+"roi_total": 26.8918742399,
+"pnl_total": 580725.475046,
+"rot_mes": 9.108714378898782
+},
+{
+"dir": "0x9b745bea23ab438b0b3b9527ad7ab637b52cfcb1",
+"nombre": null,
+"capital": 249647.532473,
+"pnl_mes": 11879.108333,
+"roi_mes": 0.1638583063,
+"roi_total": 6.2011845986,
+"pnl_total": 578315.642473,
+"rot_mes": 0.2195738906649458
+},
+{
+"dir": "0x11b6ccc31cb488f491e57d8f2d4e1b549a2442a4",
+"nombre": null,
+"capital": 209969.606177,
+"pnl_mes": 91399.339607,
+"roi_mes": 0.7437398434,
+"roi_total": 1.8815051932,
+"pnl_total": 576181.896177,
+"rot_mes": 0.020594028244044316
+},
+{
+"dir": "0xc0bc7bbc9afa9b0577d10bd3eb636c8d3ab841d3",
+"nombre": null,
+"capital": 111944.36091,
+"pnl_mes": 29.99,
+"roi_mes": 0.2999,
+"roi_total": 6.0675221668,
+"pnl_total": 566481.94091,
+"rot_mes": 0.11258333959432311
+},
+{
+"dir": "0x329c787b163a730bd7900df2beb3ff4fe4670375",
+"nombre": null,
+"capital": 217358.227182,
+"pnl_mes": 8354.354937,
+"roi_mes": 0.3620809954,
+"roi_total": 8.3757009536,
+"pnl_total": 562581.077182,
+"rot_mes": 21.39693339560484
+},
+{
+"dir": "0xb5cc3e3343b06e7a294e567cb1b47b56164b6a59",
+"nombre": null,
+"capital": 1233373.219999,
+"pnl_mes": 264101.82409,
+"roi_mes": 0.8774348483,
+"roi_total": 1.8652469877,
+"pnl_total": 559387.571621,
+"rot_mes": 0.6460493847925821
+},
+{
+"dir": "0x0d2637f4b304e4d2a86078eef60efcf4daf1168d",
+"nombre": null,
+"capital": 527852.468713,
+"pnl_mes": 2584.194744,
+"roi_mes": 0.1251817725,
+"roi_total": 4.6189228507,
+"pnl_total": 559261.1187129999,
+"rot_mes": 0.7754393590277043
+},
+{
+"dir": "0xd58f5434c7317e052b70bb6bcbf50b8f3c2a5efd",
+"nombre": null,
+"capital": 46455.784617,
+"pnl_mes": 20213.210716,
+"roi_mes": 0.7702449764,
+"roi_total": 2.3106034644,
+"pnl_total": 550874.474617,
+"rot_mes": 253.47424797752612
+},
+{
+"dir": "0x17f0361771a9042d816cd007c731be15f05b094f",
+"nombre": null,
+"capital": 730256.618468,
+"pnl_mes": 105281.320958,
+"roi_mes": 0.1684567716,
+"roi_total": 2.8425586088,
+"pnl_total": 549324.138468,
+"rot_mes": 1.962593482557807
+},
+{
+"dir": "0xe86f2426700e6e1d52aac402591622ad12aff442",
+"nombre": null,
+"capital": 170669.304775,
+"pnl_mes": 28405.084533,
+"roi_mes": 0.19966429,
+"roi_total": 19.1700785726,
+"pnl_total": 547482.874775,
+"rot_mes": 0.1454445486417433
+},
+{
+"dir": "0x0c44471cc8516125ead11e09446302ae20540ed4",
+"nombre": null,
+"capital": 186199.042018,
+"pnl_mes": 38873.018348,
+"roi_mes": 0.2064134186,
+"roi_total": 2.098685642,
+"pnl_total": 538693.232965,
+"rot_mes": 67.7247311443254
+},
+{
+"dir": "0xb730e6f15b5d89254db2e84cf0a7fc3bcc2129cc",
+"nombre": null,
+"capital": 122874.999178,
+"pnl_mes": 3330.006899,
+"roi_mes": 0.2250323756,
+"roi_total": 9.7709128629,
+"pnl_total": 538637.7791779999,
+"rot_mes": 43.1807072675039
+},
+{
+"dir": "0xda23ab0b2636c3f9806a868278d73aef2439ab60",
+"nombre": null,
+"capital": 94591.962333,
+"pnl_mes": 235.211401,
+"roi_mes": 0.1533165243,
+"roi_total": 10.6729648157,
+"pnl_total": 537834.122333,
+"rot_mes": 0.010458816749326059
+},
+{
+"dir": "0x6d6d7c05ef7f31b31b618400495b4ce4092a5089",
+"nombre": null,
+"capital": 77898.832429,
+"pnl_mes": 7559.99,
+"roi_mes": 75.5999,
+"roi_total": 11.2906635141,
+"pnl_total": 535019.72,
+"rot_mes": 111.57536472606122
+},
+{
+"dir": "0x9c41c478adb3772b2e6ad9acbd17ecbed9a988e6",
+"nombre": null,
+"capital": 1034379.806813,
+"pnl_mes": 311776.715538,
+"roi_mes": 0.4314633016,
+"roi_total": 1.0687604411,
+"pnl_total": 534380.006813,
+"rot_mes": 9.538075100671044
+},
+{
+"dir": "0x011820f60d75a2b870ffe64a4764873e14bc8ede",
+"nombre": null,
+"capital": 140244.654069,
+"pnl_mes": 37188.498562,
+"roi_mes": 0.506778718,
+"roi_total": 6.2460584227,
+"pnl_total": 531489.364069,
+"rot_mes": 3.2957424514205993
+},
+{
+"dir": "0x24c9b1c1de939ec2117e3eaace80284219ce7967",
+"nombre": null,
+"capital": 106623.937122,
+"pnl_mes": 7365.944888,
+"roi_mes": 0.1607762734,
+"roi_total": 8.9918558318,
+"pnl_total": 530061.437122,
+"rot_mes": 3.622831705773672
+},
+{
+"dir": "0x0c0ed9bc814b9b5089cb70dd75de844718e78a4d",
+"nombre": null,
+"capital": 152139.086023,
+"pnl_mes": 72357.79592,
+"roi_mes": 0.6582046154,
+"roi_total": 1.0251049643,
+"pnl_total": 525138.351866,
+"rot_mes": 98.82410367397004
+},
+{
+"dir": "0x560a2edd994f2ba4883cdf8e0d164558d8c803ac",
+"nombre": null,
+"capital": 82256.919838,
+"pnl_mes": 94442.274403,
+"roi_mes": 1.3510157412,
+"roi_total": 43.3107890492,
+"pnl_total": 521508.419838,
+"rot_mes": 210.93831624344807
+},
+{
+"dir": "0x139791013f6dcc26f4052e6a7b8ed50099e7d15b",
+"nombre": null,
+"capital": 106417.309745,
+"pnl_mes": 2238.805564,
+"roi_mes": 0.2748835498,
+"roi_total": 325.021841479,
+"pnl_total": 518472.499745,
+"rot_mes": 0.3188922937566974
+},
+{
+"dir": "0x7c27f4de1cad1b759fefa780e1158c8c8976c626",
+"nombre": null,
+"capital": 1098750.952916,
+"pnl_mes": 349118.98395,
+"roi_mes": 0.8535474897,
+"roi_total": 1.5174994633,
+"pnl_total": 512019.023475,
+"rot_mes": 0.3079801561053757
+},
+{
+"dir": "0xa432ca1edabf81a8373fe2d655a2811ed2634e45",
+"nombre": null,
+"capital": 383855.832807,
+"pnl_mes": 71662.754052,
+"roi_mes": 0.4075067075,
+"roi_total": 9.6684932785,
+"pnl_total": 510433.022807,
+"rot_mes": 2.9928444791344853
+},
+{
+"dir": "0x61520f13d0661a4f1fc04a08e55d6f284817f713",
+"nombre": null,
+"capital": 494335.699326,
+"pnl_mes": 1738.68256,
+"roi_mes": 0.1808114624,
+"roi_total": 7.8120180666,
+"pnl_total": 502036.919326,
+"rot_mes": 1.920345711010378
+},
+{
+"dir": "0xb3b60a1fd4d8241bfd7b285c3560d75135350582",
+"nombre": null,
+"capital": 674095.327341,
+"pnl_mes": 27183.876522,
+"roi_mes": 0.6030350752,
+"roi_total": 2.1924561024,
+"pnl_total": 491803.29,
+"rot_mes": 0.8949305617940128
+},
+{
+"dir": "0x000007cc15b4b01aecf248bf46302ac02341e11f",
+"nombre": null,
+"capital": 168694.564984,
+"pnl_mes": 62339.654568,
+"roi_mes": 1.4808692301,
+"roi_total": 2.920373662,
+"pnl_total": 490602.244984,
+"rot_mes": 77.39904436896579
+},
+{
+"dir": "0x74c8b2b012b161c3f2b52ebb2b142944c79b86af",
+"nombre": null,
+"capital": 411658.815055,
+"pnl_mes": 182903.144135,
+"roi_mes": 0.7771339837,
+"roi_total": 1.1363839587,
+"pnl_total": 490277.495055,
+"rot_mes": 44.55488217238705
+},
+{
+"dir": "0xbe69e095e738eb7260ad795c554aba288e1f2adc",
+"nombre": null,
+"capital": 58660.835924,
+"pnl_mes": 20044.229322,
+"roi_mes": 0.4048714337,
+"roi_total": 1.8774803372,
+"pnl_total": 488874.025924,
+"rot_mes": 160.59936517450163
+},
+{
+"dir": "0x63618d66c7a6a487491e2d0793f7b5b1c86485c0",
+"nombre": null,
+"capital": 137446.853952,
+"pnl_mes": 37864.285478,
+"roi_mes": 0.5034865834,
+"roi_total": 1.0072739377,
+"pnl_total": 487177.233952,
+"rot_mes": 1.4612648760235771
+},
+{
+"dir": "0xea86184328ff06c14a9b235117dba0482f27c93b",
+"nombre": null,
+"capital": 189783.048101,
+"pnl_mes": 4384.953564,
+"roi_mes": 0.1781015638,
+"roi_total": 36.0515618924,
+"pnl_total": 486361.158101,
+"rot_mes": 0.22608520850168554
+},
+{
+"dir": "0x000000209e0a892842bc06c354e7d097392cbbbb",
+"nombre": null,
+"capital": 576337.925411,
+"pnl_mes": 128227.72777,
+"roi_mes": 0.5282763122,
+"roi_total": 2.0915174948,
+"pnl_total": 482189.005411,
+"rot_mes": 0.14080390413684749
+},
+{
+"dir": "0xb85bf31a9540e631461f295fbe1a3c3d9b8800fd",
+"nombre": null,
+"capital": 1479412.007781,
+"pnl_mes": 171166.284224,
+"roi_mes": 0.4609923248,
+"roi_total": 1.7456510163,
+"pnl_total": 473127.094224,
+"rot_mes": 28.506598823174446
+},
+{
+"dir": "0xbcb3c783449672a0e5e04a587add051452500489",
+"nombre": null,
+"capital": 154900.163304,
+"pnl_mes": 12549.112397,
+"roi_mes": 0.7448044992,
+"roi_total": 1.914556672,
+"pnl_total": 468415.033304,
+"rot_mes": 0.643077501503368
+},
+{
+"dir": "0xdc5289909be4f3ce2604806bdd1448fd307f19f5",
+"nombre": null,
+"capital": 421602.007961,
+"pnl_mes": 97723.588553,
+"roi_mes": 0.3015896534,
+"roi_total": 102.384190354,
+"pnl_total": 462067.017961,
+"rot_mes": 39.235207583570556
+},
+{
+"dir": "0xc82f964514f2d827a0490494351980b15af5b24b",
+"nombre": null,
+"capital": 460881.734392,
+"pnl_mes": 6510.797727,
+"roi_mes": 0.1270762385,
+"roi_total": 14.354886303,
+"pnl_total": 457896.604392,
+"rot_mes": 5.43237339032948
+},
+{
+"dir": "0x1ce8ed87b7b4cb60f0cc3664bf1fe216163ff55a",
+"nombre": null,
+"capital": 787334.843277,
+"pnl_mes": 169523.386979,
+"roi_mes": 0.275247285,
+"roi_total": 1.3195536743,
+"pnl_total": 454213.493277,
+"rot_mes": 1.8542737978209434
+},
+{
+"dir": "0x63c9d81fcd3f4ad880ccfedbd3fad433863e628d",
+"nombre": null,
+"capital": 46570.454192,
+"pnl_mes": 3006.226944,
+"roi_mes": 0.1090237267,
+"roi_total": 29.9931004919,
+"pnl_total": 452405.874192,
+"rot_mes": 7.272704032553362
+},
+{
+"dir": "0xd5ac4fa2cd568dd7573e081d405da541ff82cbec",
+"nombre": null,
+"capital": 174017.763242,
+"pnl_mes": 41426.015512,
+"roi_mes": 0.2080190019,
+"roi_total": 2.0585542677,
+"pnl_total": 449826.653242,
+"rot_mes": 75.60524238955728
+},
+{
+"dir": "0x26d7b4fe67f4601643304b5023b3caf3a72e8504",
+"nombre": null,
+"capital": 95704.566968,
+"pnl_mes": 3777.040708,
+"roi_mes": 0.2604377892,
+"roi_total": 10.9303076867,
+"pnl_total": 444142.996968,
+"rot_mes": 3.200566490232573
+},
+{
+"dir": "0x2396bc99feedc162af809314257571bb7ff07a36",
+"nombre": null,
+"capital": 419477.164027,
+"pnl_mes": 126609.401089,
+"roi_mes": 1.8528470211,
+"roi_total": 3.625499708,
+"pnl_total": 435705.630208,
+"rot_mes": 7.328607856713095
+},
+{
+"dir": "0xc6cd4f327ebda9a78cc52414aa5101c211b5e4d9",
+"nombre": null,
+"capital": 338559.945331,
+"pnl_mes": 41627.383366,
+"roi_mes": 0.1990832763,
+"roi_total": 2.7310430366,
+"pnl_total": 434441.135331,
+"rot_mes": 118.59113177356623
+},
+{
+"dir": "0xd82cb57a8d039760a2073a96aa1a8d9eded94068",
+"nombre": null,
+"capital": 284451.319209,
+"pnl_mes": 75350.779853,
+"roi_mes": 0.3287548104,
+"roi_total": 2.7156306973,
+"pnl_total": 433002.019209,
+"rot_mes": 11.499868726558894
+},
+{
+"dir": "0xbd764507c45fe579841402feb5f7a67f20576c0c",
+"nombre": null,
+"capital": 28439.036085,
+"pnl_mes": 11833.820318,
+"roi_mes": 0.7126568233,
+"roi_total": 1.75743945,
+"pnl_total": 429739.256085,
+"rot_mes": 0.0
+},
+{
+"dir": "0x452ea0373056462c8e3b301c996ecfab3511d712",
+"nombre": null,
+"capital": 287002.284363,
+"pnl_mes": 68889.890094,
+"roi_mes": 0.880208281,
+"roi_total": 6.3431834737,
+"pnl_total": 418327.114363,
+"rot_mes": 39.88399310272427
+},
+{
+"dir": "0x37283486c96d2b9690cb9296292e6e354ceffb4b",
+"nombre": null,
+"capital": 150246.315405,
+"pnl_mes": 21959.063489,
+"roi_mes": 0.7336693586,
+"roi_total": 1.0667866158,
+"pnl_total": 417913.795405,
+"rot_mes": 0.058980747555191594
+},
+{
+"dir": "0x983b36872ae1bbc40dd0a99c3ed98429fea0ebd4",
+"nombre": null,
+"capital": 368859.46196,
+"pnl_mes": 151.08,
+"roi_mes": 0.5036,
+"roi_total": 4.3458056612,
+"pnl_total": 407523.12196,
+"rot_mes": 0.46902185748663505
+},
+{
+"dir": "0xa1d4fc32f21d9d77a4c20a6ac4b748815912c07c",
+"nombre": null,
+"capital": 453251.48059,
+"pnl_mes": 106759.001025,
+"roi_mes": 0.7574361736,
+"roi_total": 8.3800355952,
+"pnl_total": 404930.61059,
+"rot_mes": 29.81793752202953
+},
+{
+"dir": "0xceefc019b987bc06f2609563f8342b8e7c6069a1",
+"nombre": null,
+"capital": 418917.466164,
+"pnl_mes": 11501.995656,
+"roi_mes": 0.3107868852,
+"roi_total": 1.7507371517,
+"pnl_total": 402969.446164,
+"rot_mes": 0.060186795816552
+},
+{
+"dir": "0xb1039883265d21395850d6d9bc4d7d141cc41343",
+"nombre": "god bless for HL",
+"capital": 57022.574956,
+"pnl_mes": 69968.466667,
+"roi_mes": 0.7658052216,
+"roi_total": 5.1227270544,
+"pnl_total": 398798.614956,
+"rot_mes": 49.41572161857461
+},
+{
+"dir": "0x5f063c79b351a5ba3e6ef46a1d3be1a0224af1d3",
+"nombre": null,
+"capital": 258369.622292,
+"pnl_mes": 11064.713201,
+"roi_mes": 0.3255122193,
+"roi_total": 15.8403460249,
+"pnl_total": 398412.522292,
+"rot_mes": 40.7527084515385
+},
+{
+"dir": "0x8dd3c652cd3a4b054905e4fb31ddf4ecff21c4da",
+"nombre": null,
+"capital": 373543.201513,
+"pnl_mes": 157700.047269,
+"roi_mes": 0.7306233446,
+"roi_total": 952.3875283749,
+"pnl_total": 397737.281513,
+"rot_mes": 0.0
+},
+{
+"dir": "0xe8adbfeb2112b81f640df743b7919c3d68afc078",
+"nombre": null,
+"capital": 461478.506445,
+"pnl_mes": 8691.798007,
+"roi_mes": 0.20963596,
+"roi_total": 6.1104337384,
+"pnl_total": 396576.916445,
+"rot_mes": 1.5247003060235884
+},
+{
+"dir": "0x283a2549b640e56901a8ced2ec5277a32cfe6425",
+"nombre": null,
+"capital": 364238.725505,
+"pnl_mes": 12398.083274,
+"roi_mes": 0.1728847549,
+"roi_total": 7.8006138321,
+"pnl_total": 393276.025505,
+"rot_mes": 0.09228315839672732
+},
+{
+"dir": "0x24246bb3cf79ebd26ab10194ec3694203ad3c891",
+"nombre": null,
+"capital": 291702.16607,
+"pnl_mes": 36664.277085,
+"roi_mes": 0.6115648906,
+"roi_total": 1.000796954,
+"pnl_total": 391006.51607,
+"rot_mes": 0.00995014894508356
+},
+{
+"dir": "0x1c159c89044bafb76fb98e30ef29043812a9a939",
+"nombre": null,
+"capital": 129133.031244,
+"pnl_mes": 4730.472011,
+"roi_mes": 0.7238184605,
+"roi_total": 3.2458503087,
+"pnl_total": 385177.321244,
+"rot_mes": 2.7279978376281475
+},
+{
+"dir": "0xda26ab2a88881523ce002477fdee2f4ac9eb572a",
+"nombre": null,
+"capital": 572584.35247,
+"pnl_mes": 382016.13247,
+"roi_mes": 2.0046161551,
+"roi_total": 2.0046161551,
+"pnl_total": 382016.13247,
+"rot_mes": 13.164866586875418
+},
+{
+"dir": "0x7fa02bda84034b71213871ef70627b4052d35a94",
+"nombre": null,
+"capital": 264994.578735,
+"pnl_mes": 166357.162234,
+"roi_mes": 0.4393446316,
+"roi_total": 1.9465161476,
+"pnl_total": 381421.471966,
+"rot_mes": 0.8416422745879463
+},
+{
+"dir": "0x0ba9b43a58a7097011cf44976ddc3187667b4286",
+"nombre": null,
+"capital": 108068.371198,
+"pnl_mes": 61534.146754,
+"roi_mes": 0.6119516565,
+"roi_total": 5.3531793133,
+"pnl_total": 368947.131198,
+"rot_mes": 11.207622790769102
+},
+{
+"dir": "0x4372812cde0110f75a110f8fed7f3a77d34dddc0",
+"nombre": null,
+"capital": 807572.239088,
+"pnl_mes": 56315.554085,
+"roi_mes": 0.3325537237,
+"roi_total": 5.0301781523,
+"pnl_total": 368837.31,
+"rot_mes": 0.9785340081680161
+},
+{
+"dir": "0x67174069e46f67766c89119c8ef2e28c3c6d5340",
+"nombre": null,
+"capital": 535218.585659,
+"pnl_mes": 10199.451434,
+"roi_mes": 0.4938612095,
+"roi_total": 1.3318217786,
+"pnl_total": 366230.515659,
+"rot_mes": 1.257374086087445
+},
+{
+"dir": "0x92d479fe3ce423e06f2c2e12b8171436d8b09b49",
+"nombre": null,
+"capital": 368743.875759,
+"pnl_mes": 29053.683313,
+"roi_mes": 0.1056771268,
+"roi_total": 17.7372716323,
+"pnl_total": 364241.435759,
+"rot_mes": 0.037323819878150435
+},
+{
+"dir": "0x05a42708e46733da056d09e0a355bfd2c3054eba",
+"nombre": null,
+"capital": 222170.02645,
+"pnl_mes": 96346.222131,
+"roi_mes": 0.5328155934,
+"roi_total": 1.8438958223,
+"pnl_total": 359225.86645,
+"rot_mes": 10.623686496842472
+},
+{
+"dir": "0xc960268269bf656f3b97162638e1a94638cf382c",
+"nombre": null,
+"capital": 412262.88164,
+"pnl_mes": 179855.467006,
+"roi_mes": 0.761483373,
+"roi_total": 1.037426963,
+"pnl_total": 356122.21164,
+"rot_mes": 10.248094476012794
+},
+{
+"dir": "0xe69accecc45dc1023fb8e9a24ef0ba9ac5b44a3a",
+"nombre": null,
+"capital": 102583.07984,
+"pnl_mes": 36582.023047,
+"roi_mes": 0.2652334309,
+"roi_total": 1.0344379116,
+"pnl_total": 356111.178404,
+"rot_mes": 25.840354706979518
+},
+{
+"dir": "0xf144f22b923ae770e7345cde15fa5a8325e45352",
+"nombre": null,
+"capital": 60021.087653,
+"pnl_mes": 5284.7,
+"roi_mes": 0.5245224441,
+"roi_total": 44.1650147636,
+"pnl_total": 353154.057653,
+"rot_mes": 11.746916251771042
+},
+{
+"dir": "0x8cc124ba4b7585fabc422d86589bc6ffd88d7eb7",
+"nombre": null,
+"capital": 55502.990775,
+"pnl_mes": 5477.879887,
+"roi_mes": 0.1095026036,
+"roi_total": 3.5423494156,
+"pnl_total": 350285.540775,
+"rot_mes": 1.9012297990891465
+},
+{
+"dir": "0xa189fea7d8be09e7a644d0e5ca19c548524894d7",
+"nombre": null,
+"capital": 536882.727847,
+"pnl_mes": 186566.493531,
+"roi_mes": 0.4143000855,
+"roi_total": 1.2078625615,
+"pnl_total": 348422.087847,
+"rot_mes": 0.0
+},
+{
+"dir": "0xf83858e57d9f804f5ca1603bce82558119aeac7b",
+"nombre": null,
+"capital": 149063.263961,
+"pnl_mes": 37401.696579,
+"roi_mes": 0.6139600417,
+"roi_total": 6.1461273764,
+"pnl_total": 348016.663961,
+"rot_mes": 10.843283093699652
+},
+{
+"dir": "0x0a26016918a1ad8e57b899ea9484ce0ac87d5255",
+"nombre": null,
+"capital": 150248.674675,
+"pnl_mes": 97179.228279,
+"roi_mes": 1.8311709445,
+"roi_total": 2.0519109687,
+"pnl_total": 343284.294675,
+"rot_mes": 26.938371128763507
+},
+{
+"dir": "0xf8319403a14f74b3e33fc34804f046712d62e271",
+"nombre": null,
+"capital": 30000.348948,
+"pnl_mes": 48507.605955,
+"roi_mes": 0.5568129886,
+"roi_total": 4.4843467116,
+"pnl_total": 341039.858948,
+"rot_mes": 276.03136298026504
+},
+{
+"dir": "0x6a2cec2bda4749f113676bd9a5f3e64277260efd",
+"nombre": null,
+"capital": 148077.023913,
+"pnl_mes": 25712.590395,
+"roi_mes": 0.1714528599,
+"roi_total": 8.0959532914,
+"pnl_total": 340122.413065,
+"rot_mes": 92.20713537585695
+},
+{
+"dir": "0x362a04ba0138ea4c4b56bdf3c2639283f275ee63",
+"nombre": null,
+"capital": 78322.926454,
+"pnl_mes": 65.495467,
+"roi_mes": 0.3175929946,
+"roi_total": 13.199356332,
+"pnl_total": 339913.546454,
+"rot_mes": 3.2320298980231974
+},
+{
+"dir": "0xd09dfae7d956e672f669f83163d89c334aa50044",
+"nombre": null,
+"capital": 1199957.694483,
+"pnl_mes": 337740.858206,
+"roi_mes": 1.7064637149,
+"roi_total": 1.7064637149,
+"pnl_total": 337740.858206,
+"rot_mes": 6.534243645463021
+},
+{
+"dir": "0xee210a8aac0dd148f8ce7499c15f6c6abc87a900",
+"nombre": null,
+"capital": 238238.142396,
+"pnl_mes": 21231.572482,
+"roi_mes": 0.1659248787,
+"roi_total": 1.0523122972,
+"pnl_total": 337283.662396,
+"rot_mes": 2.7724159253312313
+},
+{
+"dir": "0x5461e3a694004602961722522e70f62beb05ae65",
+"nombre": null,
+"capital": 343410.448021,
+"pnl_mes": 17766.85,
+"roi_mes": 0.3758537274,
+"roi_total": 22.144090257,
+"pnl_total": 336853.908021,
+"rot_mes": 18.64607258428093
+},
+{
+"dir": "0x8eb3f4d468a9763ee66ceb63a0c64b7044c2aa2d",
+"nombre": null,
+"capital": 101627.433214,
+"pnl_mes": 54006.037023,
+"roi_mes": 1.1340708451,
+"roi_total": 3.088281298,
+"pnl_total": 334447.739379,
+"rot_mes": 2.8791790833077098
+},
+{
+"dir": "0x47807d3f6ae34ff6aa1fc8fe4e7b742197c1e125",
+"nombre": null,
+"capital": 256055.790562,
+"pnl_mes": 68768.745627,
+"roi_mes": 0.4563378758,
+"roi_total": 16.0082987924,
+"pnl_total": 331305.350562,
+"rot_mes": 15.536221310475517
+},
+{
+"dir": "0x5f4f59301e46bf6f6603a8c4cf826bdac70339d1",
+"nombre": null,
+"capital": 112680.939052,
+"pnl_mes": 5771.702261,
+"roi_mes": 0.2628685123,
+"roi_total": 6.379420267,
+"pnl_total": 330508.769052,
+"rot_mes": 5.2172063433790274
+},
+{
+"dir": "0x5a19bfe9c095c3bd188eca00a690b95200797aba",
+"nombre": null,
+"capital": 120615.199257,
+"pnl_mes": 18912.225946,
+"roi_mes": 0.1817029583,
+"roi_total": 2.0054830215,
+"pnl_total": 324387.400147,
+"rot_mes": 6.7588573000901295
+},
+{
+"dir": "0x661e26d86c3d5ee10cbba2f44eade4d8827adcf7",
+"nombre": null,
+"capital": 138613.429491,
+"pnl_mes": 6860.868369,
+"roi_mes": 0.146591606,
+"roi_total": 2.938160044,
+"pnl_total": 323141.159491,
+"rot_mes": 0.23873025955359237
+},
+{
+"dir": "0x0526345bf8e09eb32256008c2844c8949ee3bb9a",
+"nombre": null,
+"capital": 41587.436969,
+"pnl_mes": 5465.660184,
+"roi_mes": 1.5879136327,
+"roi_total": 479.117856511,
+"pnl_total": 321387.466969,
+"rot_mes": 136.0420622751362
+},
+{
+"dir": "0x972d521729c0d07b360ae470f03878fe405f0650",
+"nombre": null,
+"capital": 285754.571903,
+"pnl_mes": 7539.391294,
+"roi_mes": 0.7465978329,
+"roi_total": 4.3426968041,
+"pnl_total": 320875.841903,
+"rot_mes": 1.4416125602352092
+},
+{
+"dir": "0x926fa6d5a99ca62b5839bc40bb4a4a5c72387725",
+"nombre": null,
+"capital": 231058.26477,
+"pnl_mes": 83558.152934,
+"roi_mes": 0.4988543113,
+"roi_total": 3.9514761484,
+"pnl_total": 320060.87477,
+"rot_mes": 8.15125826325576
+},
+{
+"dir": "0xde130fea5abdc0fff82e4ea6bfdda5a195f2f3cc",
+"nombre": null,
+"capital": 442728.749027,
+"pnl_mes": 213951.3622,
+"roi_mes": 0.7636768211,
+"roi_total": 1.8356800332,
+"pnl_total": 319863.152222,
+"rot_mes": 0.0
+},
+{
+"dir": "0x7b72d9d0d0b09130f260a5e1e0b06585ff4f0273",
+"nombre": null,
+"capital": 326641.473652,
+"pnl_mes": 11985.508687,
+"roi_mes": 0.1906291788,
+"roi_total": 42.902689406,
+"pnl_total": 319699.603652,
+"rot_mes": 0.0478800803374475
+},
+{
+"dir": "0x3f8cd3cc58391e704a2a0fab2482b8116cb9d670",
+"nombre": null,
+"capital": 331554.217774,
+"pnl_mes": 1412.465504,
+"roi_mes": 0.3036101036,
+"roi_total": 18.6886449269,
+"pnl_total": 314809.277774,
+"rot_mes": 0.4513039858295354
+},
+{
+"dir": "0xd52dc3de65efa3aaa936ed80cac1bd2c76aab027",
+"nombre": null,
+"capital": 165317.843379,
+"pnl_mes": 1238.692107,
+"roi_mes": 0.2363983162,
+"roi_total": 22.0810715003,
+"pnl_total": 313735.843379,
+"rot_mes": 5.521603907615176
+},
+{
+"dir": "0x5111fa46b34a5a89e76d0dab7993c0c28292f3a6",
+"nombre": null,
+"capital": 181469.888131,
+"pnl_mes": 1087.982082,
+"roi_mes": 0.1917233846,
+"roi_total": 26.6914049156,
+"pnl_total": 313534.238131,
+"rot_mes": 0.34426725361124916
+},
+{
+"dir": "0xd46979f07f5d1e86ae2dcc5e6e0f3af5fe270471",
+"nombre": null,
+"capital": 132161.190862,
+"pnl_mes": 21927.599917,
+"roi_mes": 0.2971812249,
+"roi_total": 6.4988190734,
+"pnl_total": 312601.840862,
+"rot_mes": 5.914843645864606
+},
+{
+"dir": "0x44f4f40d7c82447b2d23c2e537703016874ffab0",
+"nombre": null,
+"capital": 64086.557281,
+"pnl_mes": 37719.868453,
+"roi_mes": 0.2766033372,
+"roi_total": 1.9660101029,
+"pnl_total": 312000.947281,
+"rot_mes": 43.00468205704489
+},
+{
+"dir": "0x3999dfa662fd548950bbcb7d9fabedeba39456e6",
+"nombre": null,
+"capital": 173648.347356,
+"pnl_mes": 22649.124,
+"roi_mes": 0.5994309394,
+"roi_total": 1.3422547371,
+"pnl_total": 311846.351781,
+"rot_mes": 4.546069467517587
+},
+{
+"dir": "0x3de69a7d62b54c94f10dadeb448f5f984218605a",
+"nombre": null,
+"capital": 598400.0,
+"pnl_mes": 58710.0,
+"roi_mes": 0.1087846727,
+"roi_total": 1.0705882353,
+"pnl_total": 309400.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0x65d0ab18172c32e37cd7f39d1ad3f9c5de8bdfb0",
+"nombre": null,
+"capital": 264535.959764,
+"pnl_mes": 13157.485914,
+"roi_mes": 0.1562480329,
+"roi_total": 13.9219393671,
+"pnl_total": 307451.969764,
+"rot_mes": 33.08058703174804
+},
+{
+"dir": "0x7213466fb8a382b977cc9086a12ecbc17e9d4df8",
+"nombre": null,
+"capital": 508906.083414,
+"pnl_mes": 29490.45899,
+"roi_mes": 0.5598759083,
+"roi_total": 1.0355001773,
+"pnl_total": 307292.764878,
+"rot_mes": 8.803870942048059
+},
+{
+"dir": "0x2b6d9eb0d6af0dea820f3439054d519e657686da",
+"nombre": null,
+"capital": 259602.843973,
+"pnl_mes": 17447.268622,
+"roi_mes": 0.1891060063,
+"roi_total": 3.0296305796,
+"pnl_total": 307154.223973,
+"rot_mes": 5.560528759654629
+},
+{
+"dir": "0x2c229d22b100a7beb69122eed721cee9b24011dd",
+"nombre": "ChinaToxicFlow2",
+"capital": 115067.284412,
+"pnl_mes": 12451.146402,
+"roi_mes": 0.1213371176,
+"roi_total": 20.3427669061,
+"pnl_total": 304956.384412,
+"rot_mes": 3.6784749215464956
+},
+{
+"dir": "0x0f7a453567401070ddb6b4ec82f97bd78b857c04",
+"nombre": null,
+"capital": 223898.609619,
+"pnl_mes": 59800.020472,
+"roi_mes": 0.9051406693,
+"roi_total": 1.3668215606,
+"pnl_total": 303880.079619,
+"rot_mes": 9.149443238999734
+},
+{
+"dir": "0x12d195e2585dbff7c75a9533c03f7fad60d42202",
+"nombre": null,
+"capital": 264798.690498,
+"pnl_mes": 30.855685,
+"roi_mes": 0.1136614438,
+"roi_total": 1.9579692246,
+"pnl_total": 302282.860498,
+"rot_mes": 0.0
+},
+{
+"dir": "0x878d292fbebaf102eaf9d7e10b50a876e696f74b",
+"nombre": null,
+"capital": 107162.839618,
+"pnl_mes": 16771.442601,
+"roi_mes": 0.1855424775,
+"roi_total": 1.0034354313,
+"pnl_total": 298346.439618,
+"rot_mes": 0.0
+},
+{
+"dir": "0x3e2681e79877bdbcee74be466615d5107fe49026",
+"nombre": null,
+"capital": 495787.431265,
+"pnl_mes": 3607.043506,
+"roi_mes": 0.1558447224,
+"roi_total": 1.192417907,
+"pnl_total": 293763.181265,
+"rot_mes": 0.0
+},
+{
+"dir": "0xa7fd61557cd0a61073566766839d5f851a8e92ef",
+"nombre": null,
+"capital": 358314.637965,
+"pnl_mes": 4927.279524,
+"roi_mes": 0.2347266535,
+"roi_total": 3.6346906413,
+"pnl_total": 292759.017965,
+"rot_mes": 0.13288114677762855
+},
+{
+"dir": "0xdbbb9b4e361e1e1b6b4c640914ed4e4a11896df9",
+"nombre": null,
+"capital": 334768.802855,
+"pnl_mes": 43725.02286,
+"roi_mes": 0.2144529618,
+"roi_total": 2.1245862378,
+"pnl_total": 290262.012855,
+"rot_mes": 9.484037200966975
+},
+{
+"dir": "0x03136324349c003f3498130f56f4526bf5720ab1",
+"nombre": null,
+"capital": 119306.634573,
+"pnl_mes": 19331.619533,
+"roi_mes": 0.214245508,
+"roi_total": 7.3753017735,
+"pnl_total": 286974.614573,
+"rot_mes": 9.72932497974167
+},
+{
+"dir": "0x03f876008a7a4c6063855e4829698c4aec4ddf25",
+"nombre": null,
+"capital": 388499.031793,
+"pnl_mes": 22766.141041,
+"roi_mes": 0.1730123478,
+"roi_total": 1.3915011249,
+"pnl_total": 286711.111793,
+"rot_mes": 0.0
+},
+{
+"dir": "0x33fb9032a46393efbc22b4b43dd736f9bc20774a",
+"nombre": null,
+"capital": 68158.360403,
+"pnl_mes": 56496.603032,
+"roi_mes": 1.1789972732,
+"roi_total": 2.5027663167,
+"pnl_total": 284942.980403,
+"rot_mes": 22.934270730068754
+},
+{
+"dir": "0x5b28335f6d5cd5a1ac3b66eb2edd2b917e7aa4a4",
+"nombre": null,
+"capital": 36118.615737,
+"pnl_mes": 25869.32391,
+"roi_mes": 2.5240108631,
+"roi_total": 3.1742369425,
+"pnl_total": 284492.985737,
+"rot_mes": 0.0
+},
+{
+"dir": "0xf39f1953f24f2dfb70e366052239b265de160267",
+"nombre": null,
+"capital": 420953.779425,
+"pnl_mes": 97607.575428,
+"roi_mes": 0.3018670831,
+"roi_total": 1.8963102793,
+"pnl_total": 280724.653716,
+"rot_mes": 2.2765951913035254
+},
+{
+"dir": "0x5f6d5cd51b5153ecb97c8bfa179bffba4c039df3",
+"nombre": null,
+"capital": 455550.780515,
+"pnl_mes": 161710.635055,
+"roi_mes": 0.5503354036,
+"roi_total": 1.6031502923,
+"pnl_total": 280550.980515,
+"rot_mes": 11.292777424690657
+},
+{
+"dir": "0x32b89bc48f4227c0918905da11ef8c9ca029807f",
+"nombre": null,
+"capital": 478544.651934,
+"pnl_mes": 161400.26348,
+"roi_mes": 0.5089172924,
+"roi_total": 1.3927256524,
+"pnl_total": 278544.851934,
+"rot_mes": 10.713784428014273
+},
+{
+"dir": "0x65c252c410276e7aeb86154acf218b7ea6ca1ecf",
+"nombre": null,
+"capital": 170382.250488,
+"pnl_mes": 14880.511183,
+"roi_mes": 0.9958595153,
+"roi_total": 1.0515383504,
+"pnl_total": 276919.480488,
+"rot_mes": 7.9653547603280686
+},
+{
+"dir": "0x4faf9534f8f029d03561d245b3b442b1c2e14ee2",
+"nombre": null,
+"capital": 89098.597726,
+"pnl_mes": 22069.181487,
+"roi_mes": 0.3287557634,
+"roi_total": 3.2092829943,
+"pnl_total": 276850.947726,
+"rot_mes": 18.364471627621626
+},
+{
+"dir": "0x426c1520e4d07f968d224886878646412d37ad95",
+"nombre": null,
+"capital": 258973.631551,
+"pnl_mes": 1960.134665,
+"roi_mes": 0.4773017639,
+"roi_total": 130.813262887,
+"pnl_total": 274669.881551,
+"rot_mes": 0.5026434128463197
+},
+{
+"dir": "0x8738542e8fa99afda8eecc8acdae17b68f532274",
+"nombre": null,
+"capital": 396873.034435,
+"pnl_mes": 158019.026886,
+"roi_mes": 0.6615715956,
+"roi_total": 2.1749893555,
+"pnl_total": 271873.234435,
+"rot_mes": 12.40474943582066
+},
+{
+"dir": "0x62d68c5388e462d2c88491f0241e413ceafe39db",
+"nombre": null,
+"capital": 194007.996014,
+"pnl_mes": 1478.96,
+"roi_mes": 0.2449217521,
+"roi_total": 1.6945361356,
+"pnl_total": 269965.596014,
+"rot_mes": 0.7673161573673364
+},
+{
+"dir": "0x954b6de2e9c58b0ca7b21e9a048fd0a6cea6f92c",
+"nombre": null,
+"capital": 144003.236268,
+"pnl_mes": 58622.509329,
+"roi_mes": 0.90272257,
+"roi_total": 5.0886843796,
+"pnl_total": 268818.596268,
+"rot_mes": 68.93588531250217
+},
+{
+"dir": "0xed7c45acfd7d2d3b21f3039d86e1da540596d23a",
+"nombre": null,
+"capital": 243988.977931,
+"pnl_mes": 18002.302022,
+"roi_mes": 0.8429553005,
+"roi_total": 10.6946040394,
+"pnl_total": 267365.207931,
+"rot_mes": 8.121860654543207
+},
+{
+"dir": "0x4aab95776b64828c9511efaeba867219ead0f701",
+"nombre": null,
+"capital": 219974.38821,
+"pnl_mes": 4168.07,
+"roi_mes": 0.421964247,
+"roi_total": 66.6297846961,
+"pnl_total": 265954.11821,
+"rot_mes": 105.47156875304488
+},
+{
+"dir": "0x65f1de0d3715941dad6a1279d8d0a96a2eeb8171",
+"nombre": null,
+"capital": 449352.875946,
+"pnl_mes": 79998.817558,
+"roi_mes": 0.7232355523,
+"roi_total": 1.9302308904,
+"pnl_total": 263306.4439,
+"rot_mes": 0.0
+},
+{
+"dir": "0x88812b4f3a593bcb6faee35fea189af677d6d00d",
+"nombre": null,
+"capital": 264848.136437,
+"pnl_mes": 20725.659948,
+"roi_mes": 0.5014464254,
+"roi_total": 5.3361259345,
+"pnl_total": 262302.606437,
+"rot_mes": 0.17047678948173395
+},
+{
+"dir": "0xa4047eb14ba43a6c2168323f81bbfabcb5998c2f",
+"nombre": null,
+"capital": 269753.626372,
+"pnl_mes": 48548.835889,
+"roi_mes": 0.2722522434,
+"roi_total": 2.6291103743,
+"pnl_total": 261683.032555,
+"rot_mes": 67.14780328854974
+},
+{
+"dir": "0x2d8e965cd47653ecf73a26e7fb7514c4f6fab00c",
+"nombre": null,
+"capital": 30247.034722,
+"pnl_mes": 4146.301695,
+"roi_mes": 0.1013973987,
+"roi_total": 3.1690914312,
+"pnl_total": 257421.574722,
+"rot_mes": 60.510904517485145
+},
+{
+"dir": "0xa4e7a0502580f55185dea7871612043e97d9c135",
+"nombre": null,
+"capital": 264433.795808,
+"pnl_mes": 25.13,
+"roi_mes": 0.12565,
+"roi_total": 3.446828154,
+"pnl_total": 256865.435808,
+"rot_mes": 0.5349815804282311
+},
+{
+"dir": "0x91219d5fc4540bce994036217ade77945da5d6f6",
+"nombre": null,
+"capital": 103696.13835,
+"pnl_mes": 43398.343368,
+"roi_mes": 0.4354978995,
+"roi_total": 36.3674171994,
+"pnl_total": 256410.60835,
+"rot_mes": 16.156009053542544
+},
+{
+"dir": "0x3d5f1ad033c4e7c6a6d433d50d694c488dcaebcf",
+"nombre": null,
+"capital": 344582.358729,
+"pnl_mes": 23251.475624,
+"roi_mes": 0.2994586031,
+"roi_total": 2.8609814043,
+"pnl_total": 255335.008729,
+"rot_mes": 21.819710149216146
+},
+{
+"dir": "0x19251ef4717b94a68dea3e6f39b9fa4b10ed8069",
+"nombre": null,
+"capital": 2011569.755716,
+"pnl_mes": 164749.470543,
+"roi_mes": 0.5766193957,
+"roi_total": 1.241146435,
+"pnl_total": 249467.764974,
+"rot_mes": 1.8533872312436785
+},
+{
+"dir": "0x6438e3aa26c6f645e283db717bf3a3653931083c",
+"nombre": null,
+"capital": 477624.0,
+"pnl_mes": 44816.0,
+"roi_mes": 0.1035470694,
+"roi_total": 1.088247639,
+"pnl_total": 248904.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0x02e1e81f36784ae23cbf53ea9ccbdf489d733062",
+"nombre": null,
+"capital": 223782.418366,
+"pnl_mes": 6927.159918,
+"roi_mes": 0.1201343569,
+"roi_total": 254.7214630377,
+"pnl_total": 246866.028366,
+"rot_mes": 1.611564539490173
+},
+{
+"dir": "0x7299b18b688212b06bbb638612371e0542c6be30",
+"nombre": "hell",
+"capital": 44512.695371,
+"pnl_mes": 66762.869717,
+"roi_mes": 4.0230558941,
+"roi_total": 9.256770885,
+"pnl_total": 246291.565371,
+"rot_mes": 25.836018700167156
+},
+{
+"dir": "0xc31141b109a162506c06cd1aaf228b5f005ced23",
+"nombre": null,
+"capital": 445052.20352,
+"pnl_mes": 50426.734861,
+"roi_mes": 0.127783782,
+"roi_total": 1.1818144376,
+"pnl_total": 241069.59352,
+"rot_mes": 18.732548932600327
+},
+{
+"dir": "0x428263029399a44b0d5f9dc2e5db1ede97cd7826",
+"nombre": null,
+"capital": 232445.780014,
+"pnl_mes": 46205.183104,
+"roi_mes": 0.2419872141,
+"roi_total": 6.4755351955,
+"pnl_total": 232087.520014,
+"rot_mes": 2.2043210677739107
+},
+{
+"dir": "0x7d5c17cddaabc227c7d1a34ac7f6cdfda6985d48",
+"nombre": null,
+"capital": 253162.188868,
+"pnl_mes": 80759.7095,
+"roi_mes": 0.8600229999,
+"roi_total": 10.497641036,
+"pnl_total": 231143.568868,
+"rot_mes": 82.02680693690611
+},
+{
+"dir": "0xec89639d883a9ff2086c6deb0d766064b5bbea03",
+"nombre": null,
+"capital": 428021.102151,
+"pnl_mes": 47682.438918,
+"roi_mes": 0.4639117309,
+"roi_total": 4.6607297557,
+"pnl_total": 230149.258918,
+"rot_mes": 2.6791647520113298
+},
+{
+"dir": "0x3f1c0f2130158c4ff45acd214fd81b37441a9ab5",
+"nombre": null,
+"capital": 116678.455747,
+"pnl_mes": 831.691552,
+"roi_mes": 0.5640052205,
+"roi_total": 1.5999016521,
+"pnl_total": 229574.975747,
+"rot_mes": 0.0
+},
+{
+"dir": "0x4bf6a5ead2dd225ae1191e6c1ce3bba3a3e51af4",
+"nombre": null,
+"capital": 21523.398095,
+"pnl_mes": 2784.041176,
+"roi_mes": 0.834588907,
+"roi_total": 22.6784814681,
+"pnl_total": 228681.338095,
+"rot_mes": 16.691523262930197
+},
+{
+"dir": "0x7afc9ad91269edfa853ffeedc41d92b9f4e0e139",
+"nombre": null,
+"capital": 159871.74073,
+"pnl_mes": 1307.0,
+"roi_mes": 0.1793942322,
+"roi_total": 14.7476492575,
+"pnl_total": 228433.27073,
+"rot_mes": 0.8850562291616327
+},
+{
+"dir": "0x00cb97487391d0ac7819c77098dbfd75b1d76787",
+"nombre": null,
+"capital": 131829.000417,
+"pnl_mes": 2019.579507,
+"roi_mes": 0.12268237,
+"roi_total": 2.123357469,
+"pnl_total": 227882.800417,
+"rot_mes": 10.302919051981602
+},
+{
+"dir": "0x89b7815978abc23590616e9da57ddd78e53b1a77",
+"nombre": null,
+"capital": 307788.773873,
+"pnl_mes": 39929.947562,
+"roi_mes": 0.2821087142,
+"roi_total": 1.8942610301,
+"pnl_total": 227285.163873,
+"rot_mes": 0.21793848799592083
+},
+{
+"dir": "0x8f9be4310f9abb0e5843cc6363908c9b01dfeb3f",
+"nombre": null,
+"capital": 173159.081597,
+"pnl_mes": 607.290956,
+"roi_mes": 0.1030515545,
+"roi_total": 13.12766218,
+"pnl_total": 224364.861597,
+"rot_mes": 4.221147532424101
+},
+{
+"dir": "0x9f07c41d5a1fd70f874482da26c82c4862a7d016",
+"nombre": null,
+"capital": 190745.996698,
+"pnl_mes": 19092.318167,
+"roi_mes": 0.4060959498,
+"roi_total": 11.034146688,
+"pnl_total": 223570.046698,
+"rot_mes": 15.975355775484804
+},
+{
+"dir": "0x3f3ede1779088abc125bd60ef2d082d74712184d",
+"nombre": null,
+"capital": 283677.682335,
+"pnl_mes": 2727.056551,
+"roi_mes": 0.1830589549,
+"roi_total": 3.46612194,
+"pnl_total": 220409.932335,
+"rot_mes": 0.0
+},
+{
+"dir": "0x9803e982c4eb6d9b9e416966814e7f9fa4363bce",
+"nombre": null,
+"capital": 297120.670896,
+"pnl_mes": 70729.829552,
+"roi_mes": 0.8872060905,
+"roi_total": 2.449428979,
+"pnl_total": 220215.740896,
+"rot_mes": 0.0
+},
+{
+"dir": "0x14aa64fd0bf02cfc06759df104939ad02e06bc3f",
+"nombre": null,
+"capital": 241975.18983,
+"pnl_mes": 95940.665774,
+"roi_mes": 0.6569742048,
+"roi_total": 2.601049644,
+"pnl_total": 217452.12,
+"rot_mes": 80.82737992163848
+},
+{
+"dir": "0x12203316069a9d155cdadaa94a8e4b3e40ce6447",
+"nombre": null,
+"capital": 192096.100952,
+"pnl_mes": 28660.077545,
+"roi_mes": 0.1912498137,
+"roi_total": 6.1025158943,
+"pnl_total": 216602.210952,
+"rot_mes": 22.507835549876027
+},
+{
+"dir": "0xd90cfea8aa90ae21db42a06f3613c5115bcda0cf",
+"nombre": null,
+"capital": 193247.344602,
+"pnl_mes": 8180.618804,
+"roi_mes": 0.1115711297,
+"roi_total": 2.8369907223,
+"pnl_total": 215253.624602,
+"rot_mes": 0.5340617239142745
+},
+{
+"dir": "0x7b1113048c8ba09050a70720d2aafe2ef581f7d8",
+"nombre": null,
+"capital": 174141.634803,
+"pnl_mes": 5559.148207,
+"roi_mes": 0.6059202032,
+"roi_total": 50.7636579908,
+"pnl_total": 212153.734803,
+"rot_mes": 6.886421569182034
+},
+{
+"dir": "0x1d3afb2c2761b2891045a55549a656f0946f5da7",
+"nombre": null,
+"capital": 274159.572488,
+"pnl_mes": 94313.389091,
+"roi_mes": 0.5244114015,
+"roi_total": 3.2837787952,
+"pnl_total": 210160.102488,
+"rot_mes": 7.9478498606696455
+},
+{
+"dir": "0xfb8edfa14316a8a1ef7d340314ae069735e66ff9",
+"nombre": null,
+"capital": 358229.612351,
+"pnl_mes": 118296.046692,
+"roi_mes": 0.4987413288,
+"roi_total": 1.3968631844,
+"pnl_total": 207172.536435,
+"rot_mes": 3.643497257064088
+},
+{
+"dir": "0xc3602c55a23475df22818f78ac9d84c8b96dbda0",
+"nombre": null,
+"capital": 251806.410683,
+"pnl_mes": 114084.996703,
+"roi_mes": 0.8283751481,
+"roi_total": 4.5970301083,
+"pnl_total": 206817.120683,
+"rot_mes": 101.12430795916632
+},
+{
+"dir": "0xaa9fc48c6fc41b61fa4ddf1746c4fb13e7d258a5",
+"nombre": null,
+"capital": 274698.7452229999,
+"pnl_mes": 10955.501303,
+"roi_mes": 0.2394020376,
+"roi_total": 1.070321328,
+"pnl_total": 205996.515223,
+"rot_mes": 0.12918792174019983
+},
+{
+"dir": "0xa7f984f041390b60818341138e8d8f4aed44bf49",
+"nombre": null,
+"capital": 201169.556001,
+"pnl_mes": 83646.018424,
+"roi_mes": 0.7117384326,
+"roi_total": 2011.69556001,
+"pnl_total": 201169.556001,
+"rot_mes": 0.0
+},
+{
+"dir": "0xcab90bb2b3a2f57f40326093de037c655c7fa8ae",
+"nombre": null,
+"capital": 118817.213716,
+"pnl_mes": 2351.98,
+"roi_mes": 0.6418984198,
+"roi_total": 6.2648930442,
+"pnl_total": 198933.913716,
+"rot_mes": 0.5953260288452192
+},
+{
+"dir": "0xf4a38d30a565c6c37d5695e219069bf419a0e955",
+"nombre": null,
+"capital": 162844.418362,
+"pnl_mes": 7853.000887,
+"roi_mes": 0.2192306217,
+"roi_total": 28.2637647761,
+"pnl_total": 198811.278362,
+"rot_mes": 8.606892726800773
+},
+{
+"dir": "0xd21ef30a784238abb0e25438b9c8ab2f0a279583",
+"nombre": null,
+"capital": 45748.737803,
+"pnl_mes": 38005.835012,
+"roi_mes": 1.1787349067,
+"roi_total": 3.9522712015,
+"pnl_total": 197609.607803,
+"rot_mes": 16.449972308321257
+},
+{
+"dir": "0x43fa26c444767ea3b82ad2f998bc995305823a32",
+"nombre": null,
+"capital": 190394.370231,
+"pnl_mes": 19509.135395,
+"roi_mes": 0.2184321622,
+"roi_total": 5.9533748819,
+"pnl_total": 197204.870231,
+"rot_mes": 1.474186918759535
+},
+{
+"dir": "0x9d1792626cc8bfb29acc7e5e7a2f706bb6ada290",
+"nombre": null,
+"capital": 181458.91079,
+"pnl_mes": 27807.313643,
+"roi_mes": 0.4639595363,
+"roi_total": 1.309537964,
+"pnl_total": 196431.27079,
+"rot_mes": 0.2943302137518578
+},
+{
+"dir": "0xa9207486f304eb4a99b27e65bf3b04a0695221ac",
+"nombre": null,
+"capital": 273298.811097,
+"pnl_mes": 9562.264103,
+"roi_mes": 0.2169552805,
+"roi_total": 2.3177265046,
+"pnl_total": 196333.291097,
+"rot_mes": 3.7277164357601666
+},
+{
+"dir": "0x06a4e5b554519049d8662cfaf762845bd6054a2d",
+"nombre": null,
+"capital": 207994.848474,
+"pnl_mes": 3729.518464,
+"roi_mes": 0.3321688227,
+"roi_total": 1.1395581625,
+"pnl_total": 194312.808474,
+"rot_mes": 1.4920227220857951
+},
+{
+"dir": "0x867fd5474e39f8623117b672137bf54af92c5548",
+"nombre": null,
+"capital": 21975.249671,
+"pnl_mes": 4443.283436,
+"roi_mes": 0.3450851631,
+"roi_total": 4.0608799594,
+"pnl_total": 191239.669671,
+"rot_mes": 28.458640487043045
+},
+{
+"dir": "0x9fb3f7b5fe7d7a54ecdbbdf7393cd804120d2a95",
+"nombre": null,
+"capital": 100138.183087,
+"pnl_mes": 17.11,
+"roi_mes": 0.1711,
+"roi_total": 8.7427902084,
+"pnl_total": 190392.103087,
+"rot_mes": 0.577897443472915
+},
+{
+"dir": "0x15a105b6eca967a438a6930f6859b7e5dbc134a7",
+"nombre": null,
+"capital": 110331.296446,
+"pnl_mes": 28152.785719,
+"roi_mes": 0.556783323,
+"roi_total": 2.1722325179,
+"pnl_total": 190366.746446,
+"rot_mes": 1.9493165305572486
+},
+{
+"dir": "0x771c8a6ce745cef6732efdd29c3858a6fe20cf56",
+"nombre": null,
+"capital": 190322.680513,
+"pnl_mes": 81186.065397,
+"roi_mes": 0.7438939288,
+"roi_total": 1903.22680513,
+"pnl_total": 190322.680513,
+"rot_mes": 0.0
+},
+{
+"dir": "0xc45fbcf2cb0abb15a8c2aa1b19e0f3f2ebd82772",
+"nombre": null,
+"capital": 104992.296744,
+"pnl_mes": 62246.846967,
+"roi_mes": 0.4340287534,
+"roi_total": 3.9558721435,
+"pnl_total": 189917.98,
+"rot_mes": 20.149356149034773
+},
+{
+"dir": "0x9df2d651c837c7c5fac430fcf69b811c7906333d",
+"nombre": null,
+"capital": 266611.21018,
+"pnl_mes": 2927.050435,
+"roi_mes": 0.2586615972,
+"roi_total": 1.596855076,
+"pnl_total": 189318.89018,
+"rot_mes": 0.13493794944222778
+},
+{
+"dir": "0x754ba099408892f500e3675b9816ea1b0dc33cbb",
+"nombre": null,
+"capital": 314760.887219,
+"pnl_mes": 70436.767256,
+"roi_mes": 0.2882923195,
+"roi_total": 1.4592786622,
+"pnl_total": 186771.777219,
+"rot_mes": 0.9549419645359802
+},
+{
+"dir": "0xdad130ad870dc81139b2a7b1416ab8d68144f76f",
+"nombre": null,
+"capital": 185505.408136,
+"pnl_mes": 51854.792629,
+"roi_mes": 0.3879876829,
+"roi_total": 2.341804255,
+"pnl_total": 186080.328136,
+"rot_mes": 21.183393408773604
+},
+{
+"dir": "0xa5d102404ff9af2155f92424c97398bd69fd6c9b",
+"nombre": null,
+"capital": 125536.276608,
+"pnl_mes": 72297.078369,
+"roi_mes": 0.4584953855,
+"roi_total": 1.4028034401,
+"pnl_total": 184138.516608,
+"rot_mes": 0.7738152080401075
+},
+{
+"dir": "0xaa52715cd19cf8b9fcd57cc3899aae4e1fe88c48",
+"nombre": null,
+"capital": 684016.31771,
+"pnl_mes": 225737.33656,
+"roi_mes": 2.2266726764,
+"roi_total": 1.2867920063,
+"pnl_total": 184070.256308,
+"rot_mes": 0.0
+},
+{
+"dir": "0x0eba5721065f961bced568527bfa03ea9ed61a00",
+"nombre": null,
+"capital": 138877.335361,
+"pnl_mes": 23505.981649,
+"roi_mes": 0.15881193,
+"roi_total": 1.0316940389,
+"pnl_total": 183119.945361,
+"rot_mes": 0.665622650086929
+},
+{
+"dir": "0x57b3abae7e7392571396a4a91bc1ae35bbdd19d7",
+"nombre": null,
+"capital": 56958.946827,
+"pnl_mes": 9464.966908,
+"roi_mes": 0.1992877187,
+"roi_total": 60.9158490492,
+"pnl_total": 182619.276827,
+"rot_mes": 46.86374254965471
+},
+{
+"dir": "0xfc55a72ec00ea3595ba5119882c7e7adb52985ca",
+"nombre": null,
+"capital": 60852.894681,
+"pnl_mes": 2158.80169,
+"roi_mes": 0.1120491141,
+"roi_total": 20.1475480351,
+"pnl_total": 182091.624681,
+"rot_mes": 14.622823033557903
+},
+{
+"dir": "0xebec0a94bfc8508ade293387c38975c5c20c196e",
+"nombre": null,
+"capital": 358824.0,
+"pnl_mes": 36558.0,
+"roi_mes": 0.1134404498,
+"roi_total": 1.0301446127,
+"pnl_total": 182076.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0x97d2767db42135e1e2a5fd7dd3e11646ef4d2b28",
+"nombre": null,
+"capital": 41002.84725,
+"pnl_mes": 10624.031457,
+"roi_mes": 0.970756624,
+"roi_total": 72.6008082435,
+"pnl_total": 181857.45725,
+"rot_mes": 19.622566576763763
+},
+{
+"dir": "0xf8055ef09778438af1b36306c03e08a78f0c6169",
+"nombre": null,
+"capital": 359040.0,
+"pnl_mes": 36264.0,
+"roi_mes": 0.1123503606,
+"roi_total": 1.0255221203,
+"pnl_total": 181782.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0x3709c42def1a989f9e8adb6621a419ee6bfc4ebb",
+"nombre": "bozo",
+"capital": 83379.308963,
+"pnl_mes": 52.46,
+"roi_mes": 0.2356481897,
+"roi_total": 18.2826386345,
+"pnl_total": 180821.318963,
+"rot_mes": 0.1146170449102766
+},
+{
+"dir": "0xf04ac903c91a028c9a6de6dcb86875920f02206c",
+"nombre": null,
+"capital": 89277.032334,
+"pnl_mes": 64133.805816,
+"roi_mes": 1.0956111538,
+"roi_total": 3.9305832642,
+"pnl_total": 180806.830151,
+"rot_mes": 35.4924153184834
+},
+{
+"dir": "0xa51e86fc0c4cf6cb7e01bbe8af70802941b265c8",
+"nombre": null,
+"capital": 181347.637414,
+"pnl_mes": 67.41,
+"roi_mes": 0.100700617,
+"roi_total": 19.9732934139,
+"pnl_total": 180749.317414,
+"rot_mes": 0.18049879483829998
+},
+{
+"dir": "0x936d3eb7aa24935a8d36c5ab856dd7b911ad6244",
+"nombre": null,
+"capital": 359004.0,
+"pnl_mes": 37950.0,
+"roi_mes": 0.1182044142,
+"roi_total": 1.0080545021,
+"pnl_total": 180222.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0x15f8c55b71b5c44e9b653622b460f7991e1fbf5d",
+"nombre": null,
+"capital": 352360.37496,
+"pnl_mes": 35589.340011,
+"roi_mes": 0.1123503606,
+"roi_total": 1.0337831533,
+"pnl_total": 179106.71496,
+"rot_mes": 0.0
+},
+{
+"dir": "0x7d93e65089f457d7186355e1ff3c0f4c1f2e620b",
+"nombre": null,
+"capital": 32531.465679,
+"pnl_mes": 13505.573426,
+"roi_mes": 0.1774238548,
+"roi_total": 71.3917188447,
+"pnl_total": 178457.165679,
+"rot_mes": 51.58292456165728
+},
+{
+"dir": "0xee743dfef98fcfa5064ce38b21f888d84c490360",
+"nombre": null,
+"capital": 55805.540726,
+"pnl_mes": 2514.771431,
+"roi_mes": 0.1038897352,
+"roi_total": 1.2516405428,
+"pnl_total": 178046.260726,
+"rot_mes": 1.751323053742325
+},
+{
+"dir": "0xa3099587930a877e75ff4084c7b22505b72c2eca",
+"nombre": null,
+"capital": 119955.578375,
+"pnl_mes": 51766.618841,
+"roi_mes": 0.7591642283,
+"roi_total": 1.8100417089,
+"pnl_total": 177115.459179,
+"rot_mes": 0.05755455555736676
+},
+{
+"dir": "0x96ba4d04d889426b4b1eb051bf5daf00ec331004",
+"nombre": null,
+"capital": 336440.136891,
+"pnl_mes": 17762.401301,
+"roi_mes": 0.2181363522,
+"roi_total": 1.1095245389,
+"pnl_total": 176953.896891,
+"rot_mes": 0.0
+},
+{
+"dir": "0x081c9b59cf0cd905ba3d314196b4eb261f363adf",
+"nombre": null,
+"capital": 200591.746118,
+"pnl_mes": 257.786428,
+"roi_mes": 0.1418234982,
+"roi_total": 7.1598894215,
+"pnl_total": 176010.486118,
+"rot_mes": 0.17571111813975676
+},
+{
+"dir": "0x6f1ddd44fd6425f8b6befea6e17d32b087edbe05",
+"nombre": "moisy",
+"capital": 193769.714439,
+"pnl_mes": 26764.636836,
+"roi_mes": 1.1776662448,
+"roi_total": 9.5571318055,
+"pnl_total": 175415.324439,
+"rot_mes": 0.7890452873022722
+},
+{
+"dir": "0xcabb4907f2da8de4d48257a0bb23d4f5f5d27549",
+"nombre": null,
+"capital": 171303.190129,
+"pnl_mes": 5444.1976,
+"roi_mes": 0.1088834076,
+"roi_total": 1.0882829296,
+"pnl_total": 175339.640129,
+"rot_mes": 2.9352357047253737
+},
+{
+"dir": "0x4fb76562cf63f1e488de332dfdd2fd3be72d142b",
+"nombre": null,
+"capital": 175299.333289,
+"pnl_mes": 74498.086458,
+"roi_mes": 0.7390591764,
+"roi_total": 1752.99333289,
+"pnl_total": 175299.333289,
+"rot_mes": 0.0
+},
+{
+"dir": "0x107a3e62969957f4c0be0340f457f1298acfe78e",
+"nombre": null,
+"capital": 198526.050683,
+"pnl_mes": 78142.042762,
+"roi_mes": 0.6533695921,
+"roi_total": 1.1639855749,
+"pnl_total": 174664.462762,
+"rot_mes": 118.35301548167048
+},
+{
+"dir": "0xd005cd3497b15a6b5b9465b812409ef9447815c2",
+"nombre": null,
+"capital": 174682.5413,
+"pnl_mes": 27211.591693,
+"roi_mes": 0.2706694444,
+"roi_total": 3.5798580136,
+"pnl_total": 174302.8213,
+"rot_mes": 45.65187717474545
+},
+{
+"dir": "0xa3741ef42e309cb7df3a1e76223898f6877202ec",
+"nombre": null,
+"capital": 288934.646413,
+"pnl_mes": 6420.543228,
+"roi_mes": 0.4014625211,
+"roi_total": 1.3403839359,
+"pnl_total": 172924.486413,
+"rot_mes": 1.5747778456087842
+},
+{
+"dir": "0x56028331314e44720a5471c02b47d3e201738c0a",
+"nombre": null,
+"capital": 127095.220542,
+"pnl_mes": 24301.153065,
+"roi_mes": 0.2364061824,
+"roi_total": 15.0997032725,
+"pnl_total": 172441.970542,
+"rot_mes": 1.394808783870972
+},
+{
+"dir": "0x44306c23fc2ea97da18c349042dc62f504923a63",
+"nombre": "Retarded Bidder",
+"capital": 35281.197265,
+"pnl_mes": 9524.69,
+"roi_mes": 0.3697979576,
+"roi_total": 11.6841509668,
+"pnl_total": 170073.917265,
+"rot_mes": 94.30652211172912
+},
+{
+"dir": "0xcdf73290cb271fc6b5aa3723eae9a0086baaa50f",
+"nombre": "WAKEUP MAKEUP FEVER!",
+"capital": 132090.281152,
+"pnl_mes": 32484.597976,
+"roi_mes": 0.1901493812,
+"roi_total": 2.1219415619,
+"pnl_total": 169020.73,
+"rot_mes": 63.29912463717548
+},
+{
+"dir": "0x54a662957556207b62de39385e07c075878967cf",
+"nombre": null,
+"capital": 329323.5,
+"pnl_mes": 32895.5,
+"roi_mes": 0.110972985,
+"roi_total": 1.0510738876,
+"pnl_total": 168762.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0xf1203dd97fc77edbb38970c7757b8d1c7ce182ca",
+"nombre": null,
+"capital": 267755.262033,
+"pnl_mes": 27813.706896,
+"roi_mes": 0.1159186739,
+"roi_total": 1.6510474479,
+"pnl_total": 166755.462033,
+"rot_mes": 0.0
+},
+{
+"dir": "0xf39e1e2dd85ca64105e921b6f857a2f4fc565cb9",
+"nombre": null,
+"capital": 290666.326381,
+"pnl_mes": 166032.685073,
+"roi_mes": 1.7924520783,
+"roi_total": 1.7924520783,
+"pnl_total": 166032.685073,
+"rot_mes": 8.143745852752248
+},
+{
+"dir": "0x37749f66f360d9de7b8b1f7928d839aa52ab2f91",
+"nombre": null,
+"capital": 178594.230196,
+"pnl_mes": 1919.616658,
+"roi_mes": 0.1933797236,
+"roi_total": 11.8771040574,
+"pnl_total": 164725.100196,
+"rot_mes": 0.012824826409488897
+},
+{
+"dir": "0x38086ef2d45a7c16c87123c19e81488b0229a059",
+"nombre": null,
+"capital": 38807.196879,
+"pnl_mes": 11673.36513,
+"roi_mes": 0.4302143994,
+"roi_total": 8.3007351405,
+"pnl_total": 164687.136879,
+"rot_mes": 9.643641646338967
+},
+{
+"dir": "0x3b9f494944dc03da0571aeabb1c62fe741bfd305",
+"nombre": null,
+"capital": 122757.433846,
+"pnl_mes": 25338.960162,
+"roi_mes": 0.1649766268,
+"roi_total": 1.7815293223,
+"pnl_total": 164102.56274,
+"rot_mes": 6.089589498407052
+},
+{
+"dir": "0x00e2a26304d5d078593ebf3976168f314e502489",
+"nombre": null,
+"capital": 184299.779359,
+"pnl_mes": 1036.7296,
+"roi_mes": 0.1341911033,
+"roi_total": 2.0086542649,
+"pnl_total": 162845.8596,
+"rot_mes": 0.6970526521887912
+},
+{
+"dir": "0xb83b940b4a98ca913def17c8e892b4f051aeee5f",
+"nombre": null,
+"capital": 276159.977304,
+"pnl_mes": 87199.440543,
+"roi_mes": 0.4837572412,
+"roi_total": 1.423225209,
+"pnl_total": 162196.167304,
+"rot_mes": 0.0
+},
+{
+"dir": "0x9217a5ae00415f38a71fc4361624d7422b53b895",
+"nombre": null,
+"capital": 290145.991192,
+"pnl_mes": 19423.265346,
+"roi_mes": 0.6447244306,
+"roi_total": 1.238340133,
+"pnl_total": 160553.671192,
+"rot_mes": 0.04607104838872083
+},
+{
+"dir": "0x7759d4dca0b4467314ba08d22dfdb6dac9c22a8b",
+"nombre": null,
+"capital": 33850.933123,
+"pnl_mes": 4486.958705,
+"roi_mes": 0.1471038774,
+"roi_total": 291.8411714444,
+"pnl_total": 160220.803123,
+"rot_mes": 92.93815708325104
+},
+{
+"dir": "0x37c26d9ae358b99593713a824d440942ab2c9a53",
+"nombre": null,
+"capital": 31964.930762,
+"pnl_mes": 9238.824387,
+"roi_mes": 0.4066957569,
+"roi_total": 1.2420508553,
+"pnl_total": 158770.590762,
+"rot_mes": 2.6020857238608275
+},
+{
+"dir": "0x2eb43433e80b37ac7b3da2207fca84b17ce5764a",
+"nombre": null,
+"capital": 145821.564624,
+"pnl_mes": 158405.654624,
+"roi_mes": 266.9773222726,
+"roi_total": 266.9773222726,
+"pnl_total": 158405.654624,
+"rot_mes": 0.0
+},
+{
+"dir": "0x357ee6f4c002b857fccba0f8d2e271e5a6a44c75",
+"nombre": null,
+"capital": 138656.961429,
+"pnl_mes": 44234.75269,
+"roi_mes": 0.4684782667,
+"roi_total": 1.3150683886,
+"pnl_total": 155496.101429,
+"rot_mes": 1.742536166305073
+},
+{
+"dir": "0x77b17a6fefe5b9260bf7c4d85ef486042eb393ab",
+"nombre": null,
+"capital": 299200.0,
+"pnl_mes": 29355.0,
+"roi_mes": 0.1087846727,
+"roi_total": 1.0792216817,
+"pnl_total": 155300.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0x1425c88ce0780e5bce5f405333c81f9336dc52ea",
+"nombre": null,
+"capital": 197724.353038,
+"pnl_mes": 1277.91,
+"roi_mes": 0.4169635865,
+"roi_total": 1.3372237697,
+"pnl_total": 155197.843038,
+"rot_mes": 1.3004906884210734
+},
+{
+"dir": "0x4291cb90f903d1c213658bb3da89bb676efa54e2",
+"nombre": null,
+"capital": 284656.328215,
+"pnl_mes": 91257.944134,
+"roi_mes": 0.4718650808,
+"roi_total": 1.1985324357,
+"pnl_total": 155180.718215,
+"rot_mes": 0.6370536047350175
+},
+{
+"dir": "0x7f4c37f867f072c71f3ff0ffc90821a7bf3c4ad0",
+"nombre": null,
+"capital": 116797.195256,
+"pnl_mes": 15756.459729,
+"roi_mes": 0.3928101518,
+"roi_total": 15.3876953505,
+"pnl_total": 155107.815256,
+"rot_mes": 0.828102077177503
+},
+{
+"dir": "0x48cd090c9e8a9954b0955c8b87754031d90c4955",
+"nombre": null,
+"capital": 56017.002457,
+"pnl_mes": 23889.878846,
+"roi_mes": 0.403474755,
+"roi_total": 1.9796558982,
+"pnl_total": 154260.152457,
+"rot_mes": 1.6367800128252405
+},
+{
+"dir": "0x2850a72f6d4d1ef010fdb7f3ca4bd32bdde905a2",
+"nombre": null,
+"capital": 219083.379054,
+"pnl_mes": 21682.626,
+"roi_mes": 0.5095741811,
+"roi_total": 1.8828648289,
+"pnl_total": 154157.449054,
+"rot_mes": 0.0
+},
+{
+"dir": "0xf43a34220cc930b573554d5e1454d5c8d7ca8872",
+"nombre": null,
+"capital": 167311.764645,
+"pnl_mes": 42182.666794,
+"roi_mes": 0.4992682501,
+"roi_total": 1.5818987719,
+"pnl_total": 153373.47,
+"rot_mes": 116.98224671486011
+},
+{
+"dir": "0xa1f3eaa32ea016af5003023bafde34005da15405",
+"nombre": null,
+"capital": 182734.862588,
+"pnl_mes": 66938.834551,
+"roi_mes": 1.5543493127,
+"roi_total": 7.1226407653,
+"pnl_total": 152575.797268,
+"rot_mes": 8.617178231338798
+},
+{
+"dir": "0xb4bfb5f79bf6109ef70edb4c8c1b7c809155629b",
+"nombre": null,
+"capital": 166109.410165,
+"pnl_mes": 38000.440936,
+"roi_mes": 0.2476240496,
+"roi_total": 1.515918104,
+"pnl_total": 151454.923,
+"rot_mes": 50.401807890857604
+},
+{
+"dir": "0x39a2d441b8b673af72bc0ab919e24348e7b9cda3",
+"nombre": null,
+"capital": 380887.141256,
+"pnl_mes": 108268.322266,
+"roi_mes": 1.3172075651,
+"roi_total": 1.5558841892,
+"pnl_total": 151343.531202,
+"rot_mes": 2.3604090362182517
+},
+{
+"dir": "0x54fb2d85d4c6da7f71bba9f3a1b5047a25603f1c",
+"nombre": null,
+"capital": 262612.421935,
+"pnl_mes": 1233.082256,
+"roi_mes": 0.1525733127,
+"roi_total": 1.3387883364,
+"pnl_total": 150383.991935,
+"rot_mes": 2.9347113298043315
+},
+{
+"dir": "0xcbc651efb13c10ba00e441f1120c96321e8a6d9a",
+"nombre": null,
+"capital": 218348.356984,
+"pnl_mes": 20916.634935,
+"roi_mes": 0.161950533,
+"roi_total": 2.2118133398,
+"pnl_total": 150365.462977,
+"rot_mes": 0.0
+},
+{
+"dir": "0xe6fe2362f915d627ecbf401b0ceef3dd2b2b79bd",
+"nombre": null,
+"capital": 192899.415147,
+"pnl_mes": 19212.655058,
+"roi_mes": 0.1069788815,
+"roi_total": 3.0866910055,
+"pnl_total": 150158.535147,
+"rot_mes": 63.372577675698146
+},
+{
+"dir": "0x457ff1d2895d88206c782e7eed22a653d0bbe004",
+"nombre": null,
+"capital": 299170.0,
+"pnl_mes": 31625.0,
+"roi_mes": 0.1182044142,
+"roi_total": 1.0016726883,
+"pnl_total": 149710.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0x183c6497814803574c23866c7662dea4c044d0f9",
+"nombre": null,
+"capital": 53165.844564,
+"pnl_mes": 12672.154385,
+"roi_mes": 0.6915592478,
+"roi_total": 2.1204613591,
+"pnl_total": 148276.547251,
+"rot_mes": 42.6448288105483
+},
+{
+"dir": "0x848721233eee7906395c00fa45b0fd90427e1601",
+"nombre": null,
+"capital": 243802.332528,
+"pnl_mes": 70457.029623,
+"roi_mes": 0.4064547954,
+"roi_total": 1.5493226743,
+"pnl_total": 148168.172528,
+"rot_mes": 0.0
+},
+{
+"dir": "0x378defc39d5dcdfbecd4f1673a5e228f992fc08e",
+"nombre": null,
+"capital": 115246.65742,
+"pnl_mes": 22390.288403,
+"roi_mes": 0.1822402646,
+"roi_total": 2.3273886857,
+"pnl_total": 148082.85742,
+"rot_mes": 96.29176167389792
+},
+{
+"dir": "0xb7ad15ad3457d8b4a3f9c5007bbf27c1f80092bd",
+"nombre": null,
+"capital": 121481.206661,
+"pnl_mes": 10725.913188,
+"roi_mes": 0.4336999531,
+"roi_total": 2.6922381465,
+"pnl_total": 147971.546837,
+"rot_mes": 0.0
+},
+{
+"dir": "0x57da5ca2b92632426bedfe81671dd0c8c3111a50",
+"nombre": null,
+"capital": 115749.316709,
+"pnl_mes": 147659.316709,
+"roi_mes": 5.405328945,
+"roi_total": 5.405328945,
+"pnl_total": 147659.316709,
+"rot_mes": 195.41365161459544
+},
+{
+"dir": "0x77b70eb23449bd282aeebf12c7b657cb64af7740",
+"nombre": null,
+"capital": 157762.182857,
+"pnl_mes": 30886.81,
+"roi_mes": 0.5057058649,
+"roi_total": 2.7846269776,
+"pnl_total": 146743.27,
+"rot_mes": 24.955764548267403
+},
+{
+"dir": "0x143e1c74e7b4afc4077adc738790e6f4fe142fba",
+"nombre": null,
+"capital": 81368.78359,
+"pnl_mes": 16577.727866,
+"roi_mes": 0.3375829645,
+"roi_total": 1.1265455348,
+"pnl_total": 146722.99359,
+"rot_mes": 7.372993100436736
+},
+{
+"dir": "0xb2365a4b1e23ffe6d60ae1105658d5d0b2fa8297",
+"nombre": null,
+"capital": 218769.879502,
+"pnl_mes": 23367.051696,
+"roi_mes": 0.1132109087,
+"roi_total": 1.479656016,
+"pnl_total": 146023.449502,
+"rot_mes": 10.54285706629424
+},
+{
+"dir": "0x7b8529dfd37b7483faae2bfd3051a52b32e9a23b",
+"nombre": null,
+"capital": 98887.26858,
+"pnl_mes": 31592.31862,
+"roi_mes": 0.7624678933,
+"roi_total": 1.2477026102,
+"pnl_total": 144913.73858,
+"rot_mes": 0.015315823985721013
+},
+{
+"dir": "0xbdbefa4196d727e0fe390f2dd27b453e988d8310",
+"nombre": null,
+"capital": 189327.854313,
+"pnl_mes": 169.337701,
+"roi_mes": 0.2915833502,
+"roi_total": 3.1401690678,
+"pnl_total": 144053.874313,
+"rot_mes": 0.01874415158232914
+},
+{
+"dir": "0x5bbe71967adfb8cd79d85316966093aa4ced8e3d",
+"nombre": null,
+"capital": 612880.178597,
+"pnl_mes": 71989.094,
+"roi_mes": 0.435373242,
+"roi_total": 1.4667043834,
+"pnl_total": 141122.189,
+"rot_mes": 0.6606334878162788
+},
+{
+"dir": "0x70f2470004a76040836bbfbcb4fb8af0396e9039",
+"nombre": null,
+"capital": 70743.911838,
+"pnl_mes": 7195.653383,
+"roi_mes": 0.3474328337,
+"roi_total": 3.4506280295,
+"pnl_total": 140801.431838,
+"rot_mes": 4.21826320098553
+},
+{
+"dir": "0xcb16fc1b8902ea8902398ed87d325c45881907df",
+"nombre": null,
+"capital": 184414.567193,
+"pnl_mes": 3228.309234,
+"roi_mes": 0.2446158427,
+"roi_total": 2.6709651043,
+"pnl_total": 140476.397193,
+"rot_mes": 0.0
+},
+{
+"dir": "0xe5289a88c94c2ac15500fff9dcd171c256046f40",
+"nombre": null,
+"capital": 103478.193775,
+"pnl_mes": 24780.487638,
+"roi_mes": 0.2589454715,
+"roi_total": 5.6154808087,
+"pnl_total": 140370.173775,
+"rot_mes": 188.20047441439795
+},
+{
+"dir": "0xfe5021168d36b8af7d5ddbd98c5baea8b69b42f4",
+"nombre": null,
+"capital": 100518.738759,
+"pnl_mes": 560.097871,
+"roi_mes": 0.3424581429,
+"roi_total": 2.8728957194,
+"pnl_total": 140042.638759,
+"rot_mes": 0.04177877728916481
+},
+{
+"dir": "0xd59df3ce3c813c0427705371262753fd3045dd94",
+"nombre": null,
+"capital": 269280.0,
+"pnl_mes": 26419.5,
+"roi_mes": 0.1087846727,
+"roi_total": 1.0770565776,
+"pnl_total": 139635.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0xd3e625d2867d9986b8ec85018b1ac6a02650b736",
+"nombre": null,
+"capital": 38539.135355,
+"pnl_mes": 1847.983395,
+"roi_mes": 0.2050560868,
+"roi_total": 38.9693092363,
+"pnl_total": 139600.405355,
+"rot_mes": 1.083245112155423
+},
+{
+"dir": "0xf91a4b890303406e86d59e9284e91c492f74ef39",
+"nombre": null,
+"capital": 43471.739493,
+"pnl_mes": 18538.146071,
+"roi_mes": 0.7285614296,
+"roi_total": 2.1299991822,
+"pnl_total": 138370.209493,
+"rot_mes": 0.8053158306590702
+},
+{
+"dir": "0x55511e688074c90250e3bc470593e31b529d752a",
+"nombre": null,
+"capital": 231747.573628,
+"pnl_mes": 49984.514874,
+"roi_mes": 0.2749982049,
+"roi_total": 1.4776301588,
+"pnl_total": 138231.946724,
+"rot_mes": 27.129733319634493
+},
+{
+"dir": "0x01d4b01032d930bbd0e71efd64c4bb5ce9064ce9",
+"nombre": null,
+"capital": 217879.789057,
+"pnl_mes": 97276.897644,
+"roi_mes": 0.6459165341,
+"roi_total": 1.2598830222,
+"pnl_total": 138192.789057,
+"rot_mes": 9.848952485623206
+},
+{
+"dir": "0xb66be8cd74f16ca257120ddca3380f04960284d4",
+"nombre": null,
+"capital": 167330.032209,
+"pnl_mes": 50116.196201,
+"roi_mes": 0.410069742,
+"roi_total": 4.1549457789,
+"pnl_total": 137499.662209,
+"rot_mes": 83.93000033884312
+},
+{
+"dir": "0x8590fa4236f60c8a585293b1535d15c2fc60201f",
+"nombre": null,
+"capital": 171098.959838,
+"pnl_mes": 53407.964758,
+"roi_mes": 0.4537983453,
+"roi_total": 4.0227554763,
+"pnl_total": 137034.199838,
+"rot_mes": 0.0
+},
+{
+"dir": "0xad4518b0dd47c6601ef2bd8e2c19dfb4baa5b8e1",
+"nombre": null,
+"capital": 136561.940495,
+"pnl_mes": 451.546152,
+"roi_mes": 0.1387901129,
+"roi_total": 20.7164123811,
+"pnl_total": 136827.760495,
+"rot_mes": 0.0
+},
+{
+"dir": "0x0b8a08e801552d0933ae0a951d2277786d466ed0",
+"nombre": null,
+"capital": 169196.787029,
+"pnl_mes": 17577.740075,
+"roi_mes": 0.1079587456,
+"roi_total": 1.3621898368,
+"pnl_total": 136436.857029,
+"rot_mes": 4.605544193143805
+},
+{
+"dir": "0xe2681fc0a127cd390d0866b4eeb578de3de771cd",
+"nombre": null,
+"capital": 130234.530189,
+"pnl_mes": 112607.280667,
+"roi_mes": 1.086663336,
+"roi_total": 1.6990526846,
+"pnl_total": 136111.093575,
+"rot_mes": 42.147310717320195
+},
+{
+"dir": "0x94fb21bbfaed8927570a2d41af0c21527efbfd81",
+"nombre": null,
+"capital": 146391.683911,
+"pnl_mes": 70235.605491,
+"roi_mes": 0.6736884009,
+"roi_total": 2.6936163256,
+"pnl_total": 135283.943911,
+"rot_mes": 28.66828243161324
+},
+{
+"dir": "0xd1a78afcdc6ed3cc2acedfee8858de84626305a1",
+"nombre": null,
+"capital": 138280.342923,
+"pnl_mes": 35224.278306,
+"roi_mes": 0.3411352005,
+"roi_total": 3.9111360482,
+"pnl_total": 135043.172923,
+"rot_mes": 72.5815135242236
+},
+{
+"dir": "0xe19813d9fe290ba610a993f564abdfb0509908d2",
+"nombre": null,
+"capital": 150029.269385,
+"pnl_mes": 80970.37677,
+"roi_mes": 0.8491376112,
+"roi_total": 3.098782864,
+"pnl_total": 133828.53,
+"rot_mes": 79.9111553975125
+},
+{
+"dir": "0x1bb62428ca8bc2aab42a4050e9871fba9c417cdf",
+"nombre": null,
+"capital": 97196.804938,
+"pnl_mes": 13177.934509,
+"roi_mes": 0.8330472003,
+"roi_total": 1.1926646292,
+"pnl_total": 133275.734938,
+"rot_mes": 1.8359141549336593
+},
+{
+"dir": "0x2ba90dba46da390ca15d2ac24078d3a81bc85399",
+"nombre": null,
+"capital": 132842.25887,
+"pnl_mes": 16097.914574,
+"roi_mes": 0.1290630486,
+"roi_total": 2.1014557901,
+"pnl_total": 131521.396858,
+"rot_mes": 5.271561444053003
+},
+{
+"dir": "0xb87e055a70d4a82e4ba93dd5f86c5082f3d25c72",
+"nombre": null,
+"capital": 54798.434127,
+"pnl_mes": 10129.292207,
+"roi_mes": 0.2267626324,
+"roi_total": 3.7070445753,
+"pnl_total": 131345.844127,
+"rot_mes": 6.031193140191533
+},
+{
+"dir": "0x8bf4d019ca583866f20f01db34376e2de7c52a56",
+"nombre": null,
+"capital": 131271.505523,
+"pnl_mes": 55667.934101,
+"roi_mes": 0.7363135505,
+"roi_total": 1312.71505523,
+"pnl_total": 131271.505523,
+"rot_mes": 0.0
+},
+{
+"dir": "0x8cbe593aa5b6fffb5254429d1812abdbd1f06959",
+"nombre": null,
+"capital": 72422.197084,
+"pnl_mes": 22415.27471,
+"roi_mes": 0.4473488622,
+"roi_total": 18.8755781064,
+"pnl_total": 130181.087084,
+"rot_mes": 174.18256719509165
+},
+{
+"dir": "0x967c1b8d3777d16e3dd576a708ad69722b892acf",
+"nombre": null,
+"capital": 179369.533931,
+"pnl_mes": 25369.941262,
+"roi_mes": 0.1971054988,
+"roi_total": 2.59348163,
+"pnl_total": 129454.283931,
+"rot_mes": 19.66245829326127
+},
+{
+"dir": "0xa9062f5ba14189e0740eae6724357f5800cefc67",
+"nombre": null,
+"capital": 181556.303637,
+"pnl_mes": 11919.529029,
+"roi_mes": 0.1880941373,
+"roi_total": 1.1777574542,
+"pnl_total": 128680.393637,
+"rot_mes": 29.472421462702222
+},
+{
+"dir": "0x549de4f045f71d962fff89e8c023b52b9db89c2c",
+"nombre": null,
+"capital": 122977.045532,
+"pnl_mes": 19501.44928,
+"roi_mes": 0.5128141356,
+"roi_total": 4.9818160101,
+"pnl_total": 128283.605532,
+"rot_mes": 70.09288182774749
+},
+{
+"dir": "0x9a03d70e54de39b2ef6474a0efb4213037edb7c9",
+"nombre": null,
+"capital": 214585.629402,
+"pnl_mes": 43213.683315,
+"roi_mes": 1.3766932703,
+"roi_total": 1.2714717317,
+"pnl_total": 127147.071455,
+"rot_mes": 0.0
+},
+{
+"dir": "0x66d47066ed2db09e06a21f1e4e03c8384c5af245",
+"nombre": null,
+"capital": 99842.585732,
+"pnl_mes": 5415.78,
+"roi_mes": 0.235669322,
+"roi_total": 1.5811828932,
+"pnl_total": 127068.0,
+"rot_mes": 3.243451355208738
+},
+{
+"dir": "0x9466809c4118f31eff33a97da71f4e5e3969246a",
+"nombre": null,
+"capital": 85002.931509,
+"pnl_mes": 19.690546,
+"roi_mes": 0.19690546,
+"roi_total": 4.442288779,
+"pnl_total": 126861.171509,
+"rot_mes": 0.0
+},
+{
+"dir": "0x8ec425a78833bf28449c789dd6eacd34c7baad98",
+"nombre": null,
+"capital": 119443.744636,
+"pnl_mes": 13131.792149,
+"roi_mes": 0.1501444507,
+"roi_total": 1.9438352365,
+"pnl_total": 126130.064636,
+"rot_mes": 36.53771148334077
+},
+{
+"dir": "0x24d4a3e7ca67a986cdf2431751946640b19714f2",
+"nombre": null,
+"capital": 847589.378436,
+"pnl_mes": 66805.584071,
+"roi_mes": 0.451690772,
+"roi_total": 1.3995624913,
+"pnl_total": 125229.282838,
+"rot_mes": 0.0
+},
+{
+"dir": "0xb38498bb35531f0c49e41f5c3905fa628214401a",
+"nombre": null,
+"capital": 105404.269093,
+"pnl_mes": 14518.942785,
+"roi_mes": 0.1588760841,
+"roi_total": 10.6819958691,
+"pnl_total": 125070.469093,
+"rot_mes": 11.498032199537223
+},
+{
+"dir": "0x25dacd8a27eac9ad6eba5eb88e3b68f707eb1397",
+"nombre": "HEXAHEDGE B1397",
+"capital": 119603.027485,
+"pnl_mes": 86713.796863,
+"roi_mes": 0.4320006048,
+"roi_total": 1.1133729659,
+"pnl_total": 123913.501135,
+"rot_mes": 15.742460701809048
+},
+{
+"dir": "0x642c76d07a8a4d0a23deb09a24e9aed5f02d0f11",
+"nombre": null,
+"capital": 105115.026802,
+"pnl_mes": 6271.313508,
+"roi_mes": 0.1345273224,
+"roi_total": 3.0740575523,
+"pnl_total": 122844.196802,
+"rot_mes": 22.279284049570748
+},
+{
+"dir": "0xbba19064c75a5405a34c09f91472608c5ead58fb",
+"nombre": null,
+"capital": 198114.735357,
+"pnl_mes": 91833.496082,
+"roi_mes": 0.7081205885,
+"roi_total": 1.2239282736,
+"pnl_total": 121912.325357,
+"rot_mes": 2.7469534712768215
+},
+{
+"dir": "0x8c192f537fc64608fd3755308abed8ebbfd89f85",
+"nombre": null,
+"capital": 238748.0,
+"pnl_mes": 22344.0,
+"roi_mes": 0.1032513262,
+"roi_total": 1.0422568945,
+"pnl_total": 121844.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0xe3d9d040f80fc5af62d68fb28bf27b0c03edd0a2",
+"nombre": null,
+"capital": 164303.262967,
+"pnl_mes": 63600.661982,
+"roi_mes": 0.6315692083,
+"roi_total": 2.3131859464,
+"pnl_total": 121269.952967,
+"rot_mes": 0.3888207017095643
+},
+{
+"dir": "0xeeaf4055e581dae6a4eaea0a66181ecb207787f1",
+"nombre": null,
+"capital": 166849.50195,
+"pnl_mes": 28227.551065,
+"roi_mes": 0.3437073309,
+"roi_total": 2.6213492458,
+"pnl_total": 120775.65195,
+"rot_mes": 0.3264038511563564
+},
+{
+"dir": "0xa73edd3ed93968c33704379d5a9db024d7e89413",
+"nombre": null,
+"capital": 231087.786463,
+"pnl_mes": 21627.094261,
+"roi_mes": 0.1032513262,
+"roi_total": 1.0913455571,
+"pnl_total": 120590.606463,
+"rot_mes": 0.0
+},
+{
+"dir": "0x5e113f1ef9f359778015a69aa17469786a9fc615",
+"nombre": null,
+"capital": 115322.682801,
+"pnl_mes": 481.849266,
+"roi_mes": 0.4771023363,
+"roi_total": 8.5367264737,
+"pnl_total": 120137.692801,
+"rot_mes": 0.017334490938348733
+},
+{
+"dir": "0x3c1fd5a166e47f9d8b001f09fd95776b0bf6c0f7",
+"nombre": null,
+"capital": 69102.911371,
+"pnl_mes": 20189.069989,
+"roi_mes": 0.5668872272,
+"roi_total": 16.182726671,
+"pnl_total": 119031.551371,
+"rot_mes": 30.961199572524446
+},
+{
+"dir": "0x6248fa51d45630b51c888f0951003a52ef3634a3",
+"nombre": null,
+"capital": 213122.04103,
+"pnl_mes": 101605.339467,
+"roi_mes": 0.9111221731,
+"roi_total": 1.2459640168,
+"pnl_total": 118230.92103,
+"rot_mes": 13.303700810564633
+},
+{
+"dir": "0xc4694dfd31208fadff6a71526a7c10449317f527",
+"nombre": null,
+"capital": 105096.58621,
+"pnl_mes": 42.16,
+"roi_mes": 0.4216,
+"roi_total": 18.3234581131,
+"pnl_total": 117676.23621,
+"rot_mes": 8.450814836414658
+},
+{
+"dir": "0x39db08b75325c922f322f475be63a46e1b880824",
+"nombre": "Ayush Agarwal",
+"capital": 130250.660594,
+"pnl_mes": 1158.798778,
+"roi_mes": 0.2784662396,
+"roi_total": 3.2526195697,
+"pnl_total": 116273.050594,
+"rot_mes": 0.8075530636106834
+},
+{
+"dir": "0x6c6f87cc169f16b4a9ba91306b457940e06be3ce",
+"nombre": null,
+"capital": 115539.874564,
+"pnl_mes": 48350.760205,
+"roi_mes": 0.7196219308,
+"roi_total": 1155.39874564,
+"pnl_total": 115539.874564,
+"rot_mes": 0.0
+},
+{
+"dir": "0x7e320a6e5389c3c332745ebbaa3f982337154cf1",
+"nombre": null,
+"capital": 339045.055028,
+"pnl_mes": 49997.100679,
+"roi_mes": 0.5927232382,
+"roi_total": 2.7483902606,
+"pnl_total": 114684.361568,
+"rot_mes": 19.693064508634684
+},
+{
+"dir": "0xa6660aeee629c49d1c4787aff0181cadd142a8f2",
+"nombre": null,
+"capital": 208288.754431,
+"pnl_mes": 11.54,
+"roi_mes": 0.1154,
+"roi_total": 1.2244138751,
+"pnl_total": 114651.164431,
+"rot_mes": 0.05623928201020814
+},
+{
+"dir": "0xe71329a0cfa5bac51192ca17ef720e1bac4c42fc",
+"nombre": null,
+"capital": 114095.626144,
+"pnl_mes": 47746.375707,
+"roi_mes": 0.7196219308,
+"roi_total": 1140.95626144,
+"pnl_total": 114095.626144,
+"rot_mes": 0.0
+},
+{
+"dir": "0x9348699173963e7cd882e776ab44a835985df0a2",
+"nombre": null,
+"capital": 155742.386507,
+"pnl_mes": 42153.344808,
+"roi_mes": 0.3711039743,
+"roi_total": 1.032733305,
+"pnl_total": 113970.206507,
+"rot_mes": 62.90715937860405
+},
+{
+"dir": "0x87a6be3552386cc5266a5596c88022d7d8f4aa97",
+"nombre": null,
+"capital": 82845.203166,
+"pnl_mes": 2396.413535,
+"roi_mes": 0.20682585,
+"roi_total": 6.8851975853,
+"pnl_total": 113937.123166,
+"rot_mes": 29.035246074297735
+},
+{
+"dir": "0x36f710405eb044e78ef790e9f424f3cf1d8fc098",
+"nombre": null,
+"capital": 89235.919309,
+"pnl_mes": 21939.770975,
+"roi_mes": 0.3041724252,
+"roi_total": 1.8322390904,
+"pnl_total": 113663.318421,
+"rot_mes": 5.627210028073921
+},
+{
+"dir": "0x1404109f8cd4a79a0447365edbb7a13acd0b2f27",
+"nombre": null,
+"capital": 92414.309381,
+"pnl_mes": 3964.827719,
+"roi_mes": 0.1142482048,
+"roi_total": 1.845285582,
+"pnl_total": 113656.859381,
+"rot_mes": 8.556671854137957
+},
+{
+"dir": "0x508c76505a81d83d9fd382a19f9fe358f6b40d6d",
+"nombre": null,
+"capital": 209321.689875,
+"pnl_mes": 112895.688859,
+"roi_mes": 1.1708013157,
+"roi_total": 1.1838392389,
+"pnl_total": 113471.369875,
+"rot_mes": 4.808309308992483
+},
+{
+"dir": "0x7a26c8c737efabf5b4edbf4938a6fa9224aa3ac8",
+"nombre": null,
+"capital": 224926.227092,
+"pnl_mes": 84883.258867,
+"roi_mes": 0.6061229631,
+"roi_total": 1.0133334183,
+"pnl_total": 113207.907092,
+"rot_mes": 63.47280557087059
+},
+{
+"dir": "0x23b4564f88b0173243fbc6282e62088dbeb53651",
+"nombre": null,
+"capital": 615129.67121,
+"pnl_mes": 55310.459188,
+"roi_mes": 0.3459046823,
+"roi_total": 1.0750074542,
+"pnl_total": 111495.39787,
+"rot_mes": 8.345256927538937
+},
+{
+"dir": "0x74805f6415654852fc77fc944ef9126a086c358b",
+"nombre": null,
+"capital": 145503.181589,
+"pnl_mes": 40811.654364,
+"roi_mes": 1.0148252566,
+"roi_total": 1.2190949634,
+"pnl_total": 110104.524364,
+"rot_mes": 53.622791713510196
+},
+{
+"dir": "0x98d5c0b380e528ae8f1d5d75d0734622d9a2e930",
+"nombre": null,
+"capital": 89271.704928,
+"pnl_mes": 23705.39007,
+"roi_mes": 0.3848447266,
+"roi_total": 3.2415244844,
+"pnl_total": 109773.934928,
+"rot_mes": 14.214097076149882
+},
+{
+"dir": "0xd68dfb480e643f0c1a78b24d04de7cce7dfbbdfc",
+"nombre": null,
+"capital": 119056.395713,
+"pnl_mes": 80752.26334,
+"roi_mes": 2.1081867239,
+"roi_total": 10.9665974186,
+"pnl_total": 109107.335713,
+"rot_mes": 156.37130511559047
+},
+{
+"dir": "0x90cdb9fb802ca697f5bf2168d7451b5c9efcbc7d",
+"nombre": null,
+"capital": 310901.678066,
+"pnl_mes": 75402.63,
+"roi_mes": 1.1537728126,
+"roi_total": 2.8870504517,
+"pnl_total": 108827.54,
+"rot_mes": 4.005366158672344
+},
+{
+"dir": "0xd9f5cf395d4a812fc9488e5e81471344a1d54c73",
+"nombre": null,
+"capital": 108425.48991,
+"pnl_mes": 25133.611423,
+"roi_mes": 0.3014019126,
+"roi_total": 2.2521614784,
+"pnl_total": 108365.62991,
+"rot_mes": 0.0
+},
+{
+"dir": "0x173843227b64635171430607c3c9f32d92ba87dc",
+"nombre": null,
+"capital": 178068.568378,
+"pnl_mes": 480.217053,
+"roi_mes": 0.6563633513,
+"roi_total": 1.2098224173,
+"pnl_total": 106919.618378,
+"rot_mes": 0.03329745419985385
+},
+{
+"dir": "0xacdafa3f24e29ff28178e60cd11fc1b923b5431a",
+"nombre": null,
+"capital": 209314.0,
+"pnl_mes": 21325.5,
+"roi_mes": 0.1134404498,
+"roi_total": 1.0173385057,
+"pnl_total": 105556.5,
+"rot_mes": 0.0
+},
+{
+"dir": "0x8787e15b3bd497ca6008a0bad0a5c9706cb4eeed",
+"nombre": null,
+"capital": 110991.763793,
+"pnl_mes": 15336.736508,
+"roi_mes": 1.129116818,
+"roi_total": 2.4929090258,
+"pnl_total": 105340.363793,
+"rot_mes": 15.72846984624727
+},
+{
+"dir": "0x30a68666b5f91348e7fc78785802e0769d86e62b",
+"nombre": null,
+"capital": 61124.644917,
+"pnl_mes": 50185.532426,
+"roi_mes": 1.8464206837,
+"roi_total": 9.3549318676,
+"pnl_total": 104319.183989,
+"rot_mes": 115.62050347444148
+},
+{
+"dir": "0x2f7eb45927a2076d52e00463d8015a360a495405",
+"nombre": null,
+"capital": 28386.95044,
+"pnl_mes": 7181.745143,
+"roi_mes": 0.2604421278,
+"roi_total": 4.4393418601,
+"pnl_total": 104127.64044,
+"rot_mes": 13.180740241571367
+},
+{
+"dir": "0x9113ae4544a572fc0411d0eee00e04af87418627",
+"nombre": null,
+"capital": 74457.435836,
+"pnl_mes": 25282.996954,
+"roi_mes": 1.8875327195,
+"roi_total": 1.1627112638,
+"pnl_total": 103466.195836,
+"rot_mes": 51.63029557541262
+},
+{
+"dir": "0x2ef1697d832128ae14a19eb08f7074db6336b106",
+"nombre": null,
+"capital": 102629.263019,
+"pnl_mes": 8719.348519,
+"roi_mes": 0.1472258773,
+"roi_total": 1.6415953653,
+"pnl_total": 102647.201684,
+"rot_mes": 0.0
+},
+{
+"dir": "0x67ec9835ce51c7d405a30b8b575e6debbe244989",
+"nombre": null,
+"capital": 20443.145325,
+"pnl_mes": 2837.173977,
+"roi_mes": 0.1143704878,
+"roi_total": 13.6629479826,
+"pnl_total": 101178.365325,
+"rot_mes": 30.735933732839126
+},
+{
+"dir": "0xb70c6d3e997e6cdc94a5598f458c7cb7e915fd4d",
+"nombre": "clickbuyhopegoup",
+"capital": 61147.996709,
+"pnl_mes": 11234.758607,
+"roi_mes": 0.7865265247,
+"roi_total": 3.1389968602,
+"pnl_total": 99935.116709,
+"rot_mes": 0.0
+},
+{
+"dir": "0x24fdad92dceb3ed0cbbd7487df01fb6a5bf274b4",
+"nombre": null,
+"capital": 23118.941026,
+"pnl_mes": 72.816526,
+"roi_mes": 0.2080247213,
+"roi_total": 4.3203326121,
+"pnl_total": 99587.771026,
+"rot_mes": 0.13839388215929782
+},
+{
+"dir": "0xcc33d2eedf3d33ff28b5662330bd3171de259b6d",
+"nombre": null,
+"capital": 23962.526269,
+"pnl_mes": 7395.12083,
+"roi_mes": 1.0673316236,
+"roi_total": 76.8963907867,
+"pnl_total": 98989.096269,
+"rot_mes": 8.9900633840386
+},
+{
+"dir": "0x222a227a5dc77c643e836556e573cb266998a870",
+"nombre": null,
+"capital": 37658.187572,
+"pnl_mes": 4438.258828,
+"roi_mes": 0.3373346287,
+"roi_total": 6.5214786169,
+"pnl_total": 98214.917572,
+"rot_mes": 60.43939596530936
+},
+{
+"dir": "0x4a0b172b1f5bb70746c01583abcf2cb915e6e13a",
+"nombre": null,
+"capital": 46430.337384,
+"pnl_mes": 8284.379042,
+"roi_mes": 0.394442282,
+"roi_total": 2.2067743073,
+"pnl_total": 97970.267384,
+"rot_mes": 0.0
+},
+{
+"dir": "0x278ef53af0444862e7b0f871ccb7c407a6bece93",
+"nombre": null,
+"capital": 149525.20634,
+"pnl_mes": 9221.188155,
+"roi_mes": 0.4029160454,
+"roi_total": 1.8979623363,
+"pnl_total": 97928.53634,
+"rot_mes": 0.49307606258943487
+},
+{
+"dir": "0x3ebbc3beb2a29a7d42d98d1c2d2d4f54b1699869",
+"nombre": null,
+"capital": 26374.835882,
+"pnl_mes": 2068.64,
+"roi_mes": 20.6864,
+"roi_total": 2.2519057496,
+"pnl_total": 97527.515882,
+"rot_mes": 0.0
+},
+{
+"dir": "0x2aef0df4f3c258aec8160a2bf8171d4d33ea4d51",
+"nombre": null,
+"capital": 109920.36333,
+"pnl_mes": 1660.061964,
+"roi_mes": 0.1850585674,
+"roi_total": 4.2390935522,
+"pnl_total": 97140.05333,
+"rot_mes": 0.43877929929327864
+},
+{
+"dir": "0x248abd7d75d12896a0ad5a64e7b3d89551b3651a",
+"nombre": null,
+"capital": 150940.637832,
+"pnl_mes": 30962.529247,
+"roi_mes": 0.258068156,
+"roi_total": 1.5577643088,
+"pnl_total": 96766.807832,
+"rot_mes": 6.132987201434393
+},
+{
+"dir": "0x54c3bbda87e624e460d4ac44ee28cffdd92c17d0",
+"nombre": null,
+"capital": 88024.956134,
+"pnl_mes": 772.19,
+"roi_mes": 0.2970338543,
+"roi_total": 9.5361293074,
+"pnl_total": 95858.316134,
+"rot_mes": 38.98450588008333
+},
+{
+"dir": "0x5e7348aa9ab8ddbc44e22f90a402ba4d996befdb",
+"nombre": null,
+"capital": 128637.229361,
+"pnl_mes": 4244.629879,
+"roi_mes": 0.1005828119,
+"roi_total": 1.7946546601,
+"pnl_total": 95450.969361,
+"rot_mes": 16.797398006265663
+},
+{
+"dir": "0xb5be7ae6f69c5d3ad941e17200ea316db91aa9fb",
+"nombre": null,
+"capital": 36773.584759,
+"pnl_mes": 24802.743697,
+"roi_mes": 0.5579351104,
+"roi_total": 9.5131971562,
+"pnl_total": 95141.484759,
+"rot_mes": 126.7031974319466
+},
+{
+"dir": "0x3e05d227dfb496e8a64d1255c6658af424bd1374",
+"nombre": null,
+"capital": 179520.0,
+"pnl_mes": 18132.0,
+"roi_mes": 0.1123503606,
+"roi_total": 1.1192803513,
+"pnl_total": 94812.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0xc58f63a478169713fd77e3eef1b27929f5445535",
+"nombre": null,
+"capital": 130005.50235,
+"pnl_mes": 13438.9913,
+"roi_mes": 0.1152903281,
+"roi_total": 2.6462364257,
+"pnl_total": 94350.79235,
+"rot_mes": 0.0
+},
+{
+"dir": "0x5dbf6680da317f2aa196307ba7e420a75b0ee6c6",
+"nombre": null,
+"capital": 120692.960233,
+"pnl_mes": 50953.508794,
+"roi_mes": 0.7306267506,
+"roi_total": 3.5134757822,
+"pnl_total": 93952.380233,
+"rot_mes": 0.0
+},
+{
+"dir": "0xa31ba0a5a8e1edbafff9c9175848fe79c442c40c",
+"nombre": null,
+"capital": 147691.795463,
+"pnl_mes": 69642.361639,
+"roi_mes": 0.6803447871,
+"roi_total": 1.1968941678,
+"pnl_total": 93710.757051,
+"rot_mes": 6.123353617341351
+},
+{
+"dir": "0xba38760c6fbbe3d5bf22c73bd9625c087a123bf8",
+"nombre": null,
+"capital": 179412.0,
+"pnl_mes": 18279.0,
+"roi_mes": 0.1134404498,
+"roi_total": 1.0917803428,
+"pnl_total": 93642.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0x10d944a35f99c141b9121ec3693000531825bef8",
+"nombre": null,
+"capital": 128128.882067,
+"pnl_mes": 22522.377695,
+"roi_mes": 0.1994875022,
+"roi_total": 2.0413624811,
+"pnl_total": 93272.93422,
+"rot_mes": 42.33964241694736
+},
+{
+"dir": "0x5cf75ba541dd51e656e8d66498d351ee02a396a7",
+"nombre": null,
+"capital": 101000.0002,
+"pnl_mes": 85887.382144,
+"roi_mes": 2.9474780391,
+"roi_total": 3.3586050664,
+"pnl_total": 92841.0802,
+"rot_mes": 60.026054732621674
+},
+{
+"dir": "0xf441be904cc262c6317ccbdf87a8007dd0d380d5",
+"nombre": null,
+"capital": 122215.694357,
+"pnl_mes": 166.47,
+"roi_mes": 1.6647,
+"roi_total": 2.0325428635,
+"pnl_total": 92157.994357,
+"rot_mes": 0.0
+},
+{
+"dir": "0x3a1191221d6cf7584fa220378b1d911c5a051f95",
+"nombre": null,
+"capital": 103620.107287,
+"pnl_mes": 1097.831242,
+"roi_mes": 0.4386605752,
+"roi_total": 5.7494883499,
+"pnl_total": 92034.647287,
+"rot_mes": 0.008835157808361553
+},
+{
+"dir": "0x98e8c5e6af9f236b6b8a8f157095d711e41df8a7",
+"nombre": null,
+"capital": 179142.0,
+"pnl_mes": 18936.0,
+"roi_mes": 0.1181978203,
+"roi_total": 1.05005493,
+"pnl_total": 91758.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f",
+"nombre": null,
+"capital": 550998.858854,
+"pnl_mes": 91567.491636,
+"roi_mes": 1.3861084969,
+"roi_total": 1.3861084969,
+"pnl_total": 91567.491636,
+"rot_mes": 10.227902852142337
+},
+{
+"dir": "0x0ea4bd3817be71e53de8c12bfccd533a3c84d30f",
+"nombre": null,
+"capital": 123448.696125,
+"pnl_mes": 12950.5422,
+"roi_mes": 0.117201435,
+"roi_total": 2.7163338927,
+"pnl_total": 90230.826125,
+"rot_mes": 0.0
+},
+{
+"dir": "0xd6b46b5e6ee5052479a10fdf479190a01de5b1a9",
+"nombre": null,
+"capital": 39619.392723,
+"pnl_mes": 477.515792,
+"roi_mes": 0.1194479991,
+"roi_total": 1.4278818648,
+"pnl_total": 89800.752723,
+"rot_mes": 7.071387538894762
+},
+{
+"dir": "0xdb0d8784ab7974577dbc3d8c5239f2c3378ea8df",
+"nombre": null,
+"capital": 115585.894884,
+"pnl_mes": 747.928009,
+"roi_mes": 0.1192329473,
+"roi_total": 1.2401985317,
+"pnl_total": 88872.934884,
+"rot_mes": 0.09621658430867473
+},
+{
+"dir": "0x514fbafea2ae424084a67b8eb64a7063e4735803",
+"nombre": null,
+"capital": 133284.243584,
+"pnl_mes": 13982.352794,
+"roi_mes": 0.117201435,
+"roi_total": 1.9991393857,
+"pnl_total": 88843.413584,
+"rot_mes": 0.0
+},
+{
+"dir": "0x923cfad5804fe11f307c2a1f61807965a704d658",
+"nombre": null,
+"capital": 26608.213995,
+"pnl_mes": 1214.099924,
+"roi_mes": 0.1402065814,
+"roi_total": 7.0424860964,
+"pnl_total": 88414.963995,
+"rot_mes": 29.969290691582927
+},
+{
+"dir": "0x0abfd0fd0229f8565cb512d0e0093101ffc4c764",
+"nombre": null,
+"capital": 144180.239825,
+"pnl_mes": 33449.891964,
+"roi_mes": 0.4488794077,
+"roi_total": 1.0132327707,
+"pnl_total": 86824.199825,
+"rot_mes": 9.72279524365814
+},
+{
+"dir": "0xca7cd4c133338df50398d576c8cae48be76399a2",
+"nombre": null,
+"capital": 24415.936223,
+"pnl_mes": 9131.79073,
+"roi_mes": 1.6093217907,
+"roi_total": 3.4564748633,
+"pnl_total": 85750.726223,
+"rot_mes": 26.609230711701635
+},
+{
+"dir": "0xb42ed6f981a89d598871b212805870737f1a8c13",
+"nombre": null,
+"capital": 103033.244566,
+"pnl_mes": 28835.080089,
+"roi_mes": 0.3460950899,
+"roi_total": 1.6543880398,
+"pnl_total": 85667.554566,
+"rot_mes": 0.8731865174096279
+},
+{
+"dir": "0x8b36a95c23a853885f011c6113ac645ed622f001",
+"nombre": null,
+"capital": 138443.940359,
+"pnl_mes": 65784.754883,
+"roi_mes": 1.4076931002,
+"roi_total": 2.8188131801,
+"pnl_total": 85449.108107,
+"rot_mes": 2.3974672285353136
+},
+{
+"dir": "0x049db0bdc4a8569bacb8f33210af514a82aec838",
+"nombre": null,
+"capital": 132063.711338,
+"pnl_mes": 25165.216563,
+"roi_mes": 0.4652051692,
+"roi_total": 2.6323680174,
+"pnl_total": 85131.123892,
+"rot_mes": 0.34495827459675205
+},
+{
+"dir": "0xe1b8ebfc9196fa4341d564b9d8b8df81f9e9d0ed",
+"nombre": null,
+"capital": 82987.016332,
+"pnl_mes": 87.85,
+"roi_mes": 0.1609210141,
+"roi_total": 5.2595600793,
+"pnl_total": 84974.366332,
+"rot_mes": 2.3953144574418195
+},
+{
+"dir": "0x98d6fc98b3c26b9dd3b7e4bac3e11ceb3e7171da",
+"nombre": null,
+"capital": 20505.20872,
+"pnl_mes": 4343.747661,
+"roi_mes": 0.2057942915,
+"roi_total": 1.5404874938,
+"pnl_total": 84890.874077,
+"rot_mes": 71.71621074823179
+},
+{
+"dir": "0x4ee36a93b7794c04bde3c8941a62c5bd12f13267",
+"nombre": null,
+"capital": 71902.583567,
+"pnl_mes": 38278.287226,
+"roi_mes": 0.8917627192,
+"roi_total": 7.5996986851,
+"pnl_total": 84262.073567,
+"rot_mes": 57.57237465803508
+},
+{
+"dir": "0xc369ad451ff4f0e00ec26610b19d46a29ce3208d",
+"nombre": null,
+"capital": 167086.90331,
+"pnl_mes": 71432.341764,
+"roi_mes": 0.7467740232,
+"roi_total": 1.0111812061,
+"pnl_total": 84007.91331,
+"rot_mes": 18.971362310299558
+},
+{
+"dir": "0xdf1cdd59b69ee403bc38c5ea4f33234f9bb5948d",
+"nombre": null,
+"capital": 24863.754726,
+"pnl_mes": 1518.66,
+"roi_mes": 0.284754801,
+"roi_total": 6.6792152412,
+"pnl_total": 83267.104726,
+"rot_mes": 93.8895450717615
+},
+{
+"dir": "0x809fb2bd19345a443dbbf6eb8afd3f5804ffc436",
+"nombre": null,
+"capital": 71056.32213,
+"pnl_mes": 2342.405067,
+"roi_mes": 0.3207779212,
+"roi_total": 415.68691065,
+"pnl_total": 83137.38213,
+"rot_mes": 47.88107374563322
+},
+{
+"dir": "0x50e4a02362373d9dae47f340c82fa146e1d06158",
+"nombre": null,
+"capital": 116869.598595,
+"pnl_mes": 801.02,
+"roi_mes": 0.4814719088,
+"roi_total": 2.3037977435,
+"pnl_total": 81495.278595,
+"rot_mes": 9.681668317532907
+},
+{
+"dir": "0x2c5d30be67a97ef22b58adf636082a49ec9cff86",
+"nombre": null,
+"capital": 115498.151039,
+"pnl_mes": 52404.908226,
+"roi_mes": 1.3096271291,
+"roi_total": 1.0782971308,
+"pnl_total": 81197.111039,
+"rot_mes": 0.5637401067833037
+},
+{
+"dir": "0x97e87e0a699deab71756390a65b54eab729a3494",
+"nombre": null,
+"capital": 53862.374097,
+"pnl_mes": 10068.835703,
+"roi_mes": 0.2299160121,
+"roi_total": 3.2193808377,
+"pnl_total": 81010.954097,
+"rot_mes": 127.57596643670276
+},
+{
+"dir": "0xb28e2d5602280c42641471fae46e8def9458ae60",
+"nombre": null,
+"capital": 104208.797414,
+"pnl_mes": 22599.480035,
+"roi_mes": 0.2769227922,
+"roi_total": 1.2618727505,
+"pnl_total": 80251.132032,
+"rot_mes": 8.117384721746694
+},
+{
+"dir": "0x6fa86a8a3b8a582279a12ff798537fc012623032",
+"nombre": null,
+"capital": 137162.919543,
+"pnl_mes": 2719.639943,
+"roi_mes": 0.1028098541,
+"roi_total": 1.4067841855,
+"pnl_total": 80172.799543,
+"rot_mes": 0.34908290199370856
+},
+{
+"dir": "0xc41ea8305ed5ff3a08828d40c0b151d6bbdacaae",
+"nombre": null,
+"capital": 70772.37796,
+"pnl_mes": 2347.62,
+"roi_mes": 23.4762,
+"roi_total": 1.4994133475,
+"pnl_total": 79646.43796,
+"rot_mes": 23.592094940538576
+},
+{
+"dir": "0xf8e11bdc54955d8484a45f24693d3d0ebd8b6bfd",
+"nombre": null,
+"capital": 111938.238206,
+"pnl_mes": 305.142,
+"roi_mes": 0.314622196,
+"roi_total": 2.2074423374,
+"pnl_total": 78329.568206,
+"rot_mes": 0.06721688781766712
+},
+{
+"dir": "0xa71de7e1b7ed086b4ede0be541e7076c51244541",
+"nombre": null,
+"capital": 75142.982763,
+"pnl_mes": 433.21873,
+"roi_mes": 0.1244244553,
+"roi_total": 6.2169944566,
+"pnl_total": 78143.392763,
+"rot_mes": 0.5002180991211339
+},
+{
+"dir": "0x0063b1af64d4da674ef5c0724b8f5b1b73d96095",
+"nombre": null,
+"capital": 100559.095063,
+"pnl_mes": 56835.304142,
+"roi_mes": 1.2998713731,
+"roi_total": 3.36974071,
+"pnl_total": 77546.495063,
+"rot_mes": 96.75776590774073
+},
+{
+"dir": "0x5db5286cec9a28d76feb4ee22e0722e6a6912b22",
+"nombre": null,
+"capital": 194935.662535,
+"pnl_mes": 24726.462469,
+"roi_mes": 0.6799521962,
+"roi_total": 1.1118409622,
+"pnl_total": 76621.563726,
+"rot_mes": 0.0896385493180995
+},
+{
+"dir": "0xfc04bfe9d4ce8310432a1fedca39dc2674c3f442",
+"nombre": null,
+"capital": 151426.405201,
+"pnl_mes": 30914.442361,
+"roi_mes": 0.2565259218,
+"roi_total": 1.0070886014,
+"pnl_total": 75980.605201,
+"rot_mes": 2.8274581268153396
+},
+{
+"dir": "0xd5fe7dfaee5356f88c14115a87fd36034b9d10c0",
+"nombre": null,
+"capital": 24357.307081,
+"pnl_mes": 51780.38692,
+"roi_mes": 1.2125696666,
+"roi_total": 2.9069846461,
+"pnl_total": 75582.967081,
+"rot_mes": 8.435182892622333
+},
+{
+"dir": "0x06453f99650515950478a7f396fb266e33d2e453",
+"nombre": null,
+"capital": 213930.120303,
+"pnl_mes": 51874.134797,
+"roi_mes": 0.9506332015,
+"roi_total": 2.4142720449,
+"pnl_total": 75266.476135,
+"rot_mes": 1.1481018177904314
+},
+{
+"dir": "0x95bfa1c0b133bb39364bd0f9feb8390cfb6a8af5",
+"nombre": null,
+"capital": 60745.365252,
+"pnl_mes": 21744.192293,
+"roi_mes": 0.557526624,
+"roi_total": 9.9244619033,
+"pnl_total": 74967.905252,
+"rot_mes": 2.751023379425609
+},
+{
+"dir": "0xca4336bba924332e7f1a08db0cd91d456d5cd918",
+"nombre": null,
+"capital": 73981.388503,
+"pnl_mes": 67092.105392,
+"roi_mes": 3.9511724233,
+"roi_total": 7.5714352642,
+"pnl_total": 74263.968503,
+"rot_mes": 226.2277701008723
+},
+{
+"dir": "0xc687507e5b6198a788dfdaa76ee091956ab85767",
+"nombre": null,
+"capital": 143623.386899,
+"pnl_mes": 824.693327,
+"roi_mes": 0.1689371831,
+"roi_total": 1.0594993263,
+"pnl_total": 73886.346899,
+"rot_mes": 0.12899577429564849
+},
+{
+"dir": "0xccf595171e2e56655fb4d386b7424da16be69d42",
+"nombre": null,
+"capital": 48432.933721,
+"pnl_mes": 11095.629376,
+"roi_mes": 0.5459726144,
+"roi_total": 5.3580855349,
+"pnl_total": 73181.053721,
+"rot_mes": 19.221828175077935
+},
+{
+"dir": "0xbef157db44ea93171772138822a2c5e9c4a5d2e5",
+"nombre": null,
+"capital": 86931.506911,
+"pnl_mes": 75464.98,
+"roi_mes": 1.2801188909,
+"roi_total": 1.1888643812,
+"pnl_total": 73007.27,
+"rot_mes": 106.58761223921147
+},
+{
+"dir": "0x84235161b62c26b8286114fb103ddb60d234fe75",
+"nombre": null,
+"capital": 123461.896203,
+"pnl_mes": 5601.091747,
+"roi_mes": 0.2376178968,
+"roi_total": 1.4040812319,
+"pnl_total": 72801.036203,
+"rot_mes": 0.3286371038177372
+},
+{
+"dir": "0x21f2bef9e5317a55a4a27c9e27c819fd2dafc51a",
+"nombre": null,
+"capital": 107743.177544,
+"pnl_mes": 2721.70291,
+"roi_mes": 0.3799551295,
+"roi_total": 1.6050933696,
+"pnl_total": 71909.627544,
+"rot_mes": 0.02197846818684132
+},
+{
+"dir": "0x26b107c9cef11d21a7996a5e84cb29ae3f7e0ea3",
+"nombre": null,
+"capital": 147222.022544,
+"pnl_mes": 71611.967494,
+"roi_mes": 1.6903141475,
+"roi_total": 1.6903141475,
+"pnl_total": 71611.967494,
+"rot_mes": 5.605859271178957
+},
+{
+"dir": "0x18c4da3575dd8987e25007336fa165b955ccb5c6",
+"nombre": null,
+"capital": 88382.160468,
+"pnl_mes": 45247.433688,
+"roi_mes": 1.0489792579,
+"roi_total": 4.0540480842,
+"pnl_total": 70894.760468,
+"rot_mes": 110.55096592188004
+},
+{
+"dir": "0xbf975b1548f793f3bcc2ce84dcf8e78ece793914",
+"nombre": null,
+"capital": 283953.851862,
+"pnl_mes": 41909.439825,
+"roi_mes": 0.1731477272,
+"roi_total": 1.7630687493,
+"pnl_total": 68742.632347,
+"rot_mes": 1.2272460039364421
+},
+{
+"dir": "0xe5e096ff9413971c6b2377e7811af53e82ca4d70",
+"nombre": null,
+"capital": 125682.455825,
+"pnl_mes": 16865.457418,
+"roi_mes": 0.1548468803,
+"roi_total": 1.1550018062,
+"pnl_total": 67414.775825,
+"rot_mes": 28.691051955739425
+},
+{
+"dir": "0x2c75007816e6d9ff4bba3fdc3867759d9319bd4a",
+"nombre": null,
+"capital": 131850.573774,
+"pnl_mes": 53113.178514,
+"roi_mes": 0.6745610309,
+"roi_total": 1.0366731452,
+"pnl_total": 67112.363774,
+"rot_mes": 31.50501890966462
+},
+{
+"dir": "0x16d81b2dfd8d6650b2013ebed328588e7c26da24",
+"nombre": null,
+"capital": 87578.691325,
+"pnl_mes": 8433.658308,
+"roi_mes": 0.10655954,
+"roi_total": 3.2686179459,
+"pnl_total": 67061.821325,
+"rot_mes": 0.5344801262934377
+},
+{
+"dir": "0x85a0480eb0798e1a47cac33e1cc017cd605b2826",
+"nombre": null,
+"capital": 31756.264216,
+"pnl_mes": 526.4,
+"roi_mes": 0.3889319886,
+"roi_total": 78.5539884886,
+"pnl_total": 66071.124216,
+"rot_mes": 4.931619756491826
+},
+{
+"dir": "0xc65afe201ab9f7d6e672ae7b1ec423a343c11640",
+"nombre": null,
+"capital": 136377.064481,
+"pnl_mes": 30521.143381,
+"roi_mes": 0.2883272193,
+"roi_total": 1.0353416528,
+"pnl_total": 65893.232382,
+"rot_mes": 46.9613736325309
+},
+{
+"dir": "0xe16dbb62bf2c69c885078db0ec071da5307cc87c",
+"nombre": null,
+"capital": 28456.328734,
+"pnl_mes": 704.055857,
+"roi_mes": 0.2128847312,
+"roi_total": 2.9737904314,
+"pnl_total": 65550.438734,
+"rot_mes": 1.2716102747563938
+},
+{
+"dir": "0xcf8b283140415274eb35a0ddd38495e20b84fbbf",
+"nombre": null,
+"capital": 63911.666508,
+"pnl_mes": 2154.7936,
+"roi_mes": 0.1715206704,
+"roi_total": 1.0009009927,
+"pnl_total": 65394.036508,
+"rot_mes": 2.6833575052926077
+},
+{
+"dir": "0xf24504bb689f1461fbfd89712eb4872130ed4e47",
+"nombre": null,
+"capital": 83577.14313,
+"pnl_mes": 14044.732615,
+"roi_mes": 0.2019882888,
+"roi_total": 3.0278962812,
+"pnl_total": 65306.33313,
+"rot_mes": 155.2555010143956
+},
+{
+"dir": "0x2d34876d81c14d420b4513250d6e10214e3be333",
+"nombre": null,
+"capital": 111868.5888,
+"pnl_mes": 11564.25905,
+"roi_mes": 0.1152917235,
+"roi_total": 1.4002735407,
+"pnl_total": 65261.9888,
+"rot_mes": 0.0
+},
+{
+"dir": "0xfe4fdca48f113a9846896f3608251244fb13e79e",
+"nombre": null,
+"capital": 26077.196434,
+"pnl_mes": 12032.795699,
+"roi_mes": 0.856768183,
+"roi_total": 8.2330957669,
+"pnl_total": 64583.696434,
+"rot_mes": 193.6350720362104
+},
+{
+"dir": "0x85fea570d367a8080bb3bb84a17426f2f09f3c04",
+"nombre": null,
+"capital": 114427.400281,
+"pnl_mes": 47885.126362,
+"roi_mes": 0.7196196274,
+"roi_total": 1.0957214814,
+"pnl_total": 64320.560281,
+"rot_mes": 0.0
+},
+{
+"dir": "0xed0264295ee8e517fc0a90cbe6db788b349904ff",
+"nombre": null,
+"capital": 103497.717941,
+"pnl_mes": 53084.603746,
+"roi_mes": 2.23305454,
+"roi_total": 2.6611624678,
+"pnl_total": 64242.936854,
+"rot_mes": 5.453259658553461
+},
+{
+"dir": "0xb13380849b95f9c890987016f1565d1ac2d96b2e",
+"nombre": null,
+"capital": 55018.467684,
+"pnl_mes": 10798.38,
+"roi_mes": 0.2906900618,
+"roi_total": 5.3238175041,
+"pnl_total": 63896.457684,
+"rot_mes": 140.71098280062378
+},
+{
+"dir": "0xb4afc3217269e3c06908e3f30eb019a28f6e444e",
+"nombre": null,
+"capital": 45195.156392,
+"pnl_mes": 3044.045211,
+"roi_mes": 0.3742217461,
+"roi_total": 20.143666604,
+"pnl_total": 63767.266392,
+"rot_mes": 6.359020146036538
+},
+{
+"dir": "0x925dfe0dd6beaf7191441cf66d95ac806995bd44",
+"nombre": null,
+"capital": 30853.963683,
+"pnl_mes": 5051.098734,
+"roi_mes": 0.3083794901,
+"roi_total": 6.0758253312,
+"pnl_total": 63214.083683,
+"rot_mes": 0.8174029197388292
+},
+{
+"dir": "0x7bb7a463418ac02c6b3b033d6b6c87905fe0ffca",
+"nombre": null,
+"capital": 119690.0,
+"pnl_mes": 13168.0,
+"roi_mes": 0.1236176564,
+"roi_total": 1.1191572238,
+"pnl_total": 63210.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0xea36da2abea3b7b6b03fa391ea3af071a9bf76d2",
+"nombre": null,
+"capital": 88370.795656,
+"pnl_mes": 52190.291817,
+"roi_mes": 1.6110441822,
+"roi_total": 3.0423326666,
+"pnl_total": 62878.231817,
+"rot_mes": 99.00832492284965
+},
+{
+"dir": "0x798474cd98eaaf479cf38d18fdecfda792732b4f",
+"nombre": null,
+"capital": 124118.23692,
+"pnl_mes": 15630.392495,
+"roi_mes": 0.1440750582,
+"roi_total": 1.0262594171,
+"pnl_total": 62863.37692,
+"rot_mes": 0.9284306872186273
+},
+{
+"dir": "0x88e46f14c1eb489cff197897f66f78e5cd4826a8",
+"nombre": null,
+"capital": 37904.911734,
+"pnl_mes": 8323.7051,
+"roi_mes": 0.4055891394,
+"roi_total": 1.3442546753,
+"pnl_total": 62047.421734,
+"rot_mes": 15.016529361534905
+},
+{
+"dir": "0x252b0d1c7077894e5ba58b22c83118b26805e6b5",
+"nombre": null,
+"capital": 62219.56755,
+"pnl_mes": 9835.296295,
+"roi_mes": 0.4301646604,
+"roi_total": 2.2457133631,
+"pnl_total": 61738.74755,
+"rot_mes": 2.4131173827163637
+},
+{
+"dir": "0xdc2c2309cd68834b1e98e85fbf3130b57b0a20c1",
+"nombre": null,
+"capital": 119608.0,
+"pnl_mes": 12186.0,
+"roi_mes": 0.1134404498,
+"roi_total": 1.0197912797,
+"pnl_total": 60390.0,
+"rot_mes": 0.0
+},
+{
+"dir": "0xcbfd2246c47167fcf0488a2d90cec3bab658f486",
+"nombre": null,
+"capital": 108489.135787,
+"pnl_mes": 26806.133204,
+"roi_mes": 0.3281727208,
+"roi_total": 1.241799169,
+"pnl_total": 60095.355787,
+"rot_mes": 11.652349802859067
+},
+{
+"dir": "0x5478ba5548ad58006cfab51b51efb3c65bc08f42",
+"nombre": null,
+"capital": 67394.010039,
+"pnl_mes": 26960.249956,
+"roi_mes": 0.3249690725,
+"roi_total": 1.160653861,
+"pnl_total": 59122.930039,
+"rot_mes": 215.3737507472908
+},
+{
+"dir": "0x5ed3bff80debebaf61702ba46f146bc89569fe75",
+"nombre": null,
+"capital": 37384.915277,
+"pnl_mes": 8477.42,
+"roi_mes": 0.2932807205,
+"roi_total": 1.5225033592,
+"pnl_total": 58365.775277,
+"rot_mes": 11.506220271271902
+},
+{
+"dir": "0xe920fc268d9ba065db5d21e65339909c419b2408",
+"nombre": null,
+"capital": 107949.603564,
+"pnl_mes": 18783.045424,
+"roi_mes": 0.2602735404,
+"roi_total": 1.1590007073,
+"pnl_total": 57949.803564,
+"rot_mes": 0.0
+},
+{
+"dir": "0x16c08fa5f066be951ad1aa2727ef4eee1ccd927a",
+"nombre": null,
+"capital": 83500.333426,
+"pnl_mes": 24649.27117,
+"roi_mes": 0.4188415676,
+"roi_total": 2.6716225663,
+"pnl_total": 57495.241195,
+"rot_mes": 143.9905426324471
+},
+{
+"dir": "0x8f63b52142f44e5c4be705fe4c1ad6eb0bc47e29",
+"nombre": null,
+"capital": 44646.649816,
+"pnl_mes": 5961.833412,
+"roi_mes": 0.7963382293,
+"roi_total": 2.5600574937,
+"pnl_total": 56470.669816,
+"rot_mes": 10.151379596629397
+},
+{
+"dir": "0x2f8aa6943f04bd1d7eab4d358fc507d010630785",
+"nombre": null,
+"capital": 22897.752799,
+"pnl_mes": 162.08,
+"roi_mes": 0.8104,
+"roi_total": 6.1543105362,
+"pnl_total": 56198.282799,
+"rot_mes": 0.4026700821227605
+},
+{
+"dir": "0xedbe8bffb953fd19316d01e23ef902c119e5a0d2",
+"nombre": null,
+"capital": 67947.434293,
+"pnl_mes": 29254.789435,
+"roi_mes": 0.7256816856,
+"roi_total": 3.2041396878,
+"pnl_total": 55683.558103,
+"rot_mes": 34.32415887762622
+},
+{
+"dir": "0x1165647bdea6b9cb851f4ce99a2a0a66ea7d1356",
+"nombre": null,
+"capital": 56918.080937,
+"pnl_mes": 30040.974183,
+"roi_mes": 1.1139964966,
+"roi_total": 1.0644289721,
+"pnl_total": 55171.312172,
+"rot_mes": 90.60537504256581
+},
+{
+"dir": "0x6049ddfd35e4d9098a6367e36023f2a36792b642",
+"nombre": null,
+"capital": 45156.28795,
+"pnl_mes": 1861.588931,
+"roi_mes": 0.1542433267,
+"roi_total": 1.1004720559,
+"pnl_total": 55058.92795,
+"rot_mes": 6.437318327003893
+},
+{
+"dir": "0xa7093274095f438e0046a5f4e29741189c385c05",
+"nombre": null,
+"capital": 95386.133849,
+"pnl_mes": 1171.336096,
+"roi_mes": 0.7126018134,
+"roi_total": 1.3346732452,
+"pnl_total": 54712.433849,
+"rot_mes": 2.4966351018796074
+},
+{
+"dir": "0x628109e67d186ec988eb49256a544bdc94d65894",
+"nombre": null,
+"capital": 70653.270951,
+"pnl_mes": 34.798249,
+"roi_mes": 0.34798249,
+"roi_total": 3.3597628838,
+"pnl_total": 54447.510951,
+"rot_mes": 0.0
+},
+{
+"dir": "0xb15617cc71ece317e24360fc3b5643c6f5f51733",
+"nombre": null,
+"capital": 29802.869293,
+"pnl_mes": 6799.420123,
+"roi_mes": 0.2949416697,
+"roi_total": 4.9965427186,
+"pnl_total": 54256.299293,
+"rot_mes": 250.68041055210622
+},
+{
+"dir": "0xe987900e3caa15546b084054d880251f4393b2bd",
+"nombre": null,
+"capital": 55033.096863,
+"pnl_mes": 9406.334979,
+"roi_mes": 0.206158285,
+"roi_total": 2.5723703545,
+"pnl_total": 54209.386863,
+"rot_mes": 5.757298572325484
+},
+{
+"dir": "0x9378b60ccc9855be6a9e7151391610596ed93183",
+"nombre": null,
+"capital": 87452.662543,
+"pnl_mes": 37662.880813,
+"roi_mes": 0.774130828,
+"roi_total": 1.6524372143,
+"pnl_total": 53773.05,
+"rot_mes": 109.94412760471874
+},
+{
+"dir": "0x8d7d49eb9715a93eef4843b357cad5f5b9be7bda",
+"nombre": null,
+"capital": 27368.043424,
+"pnl_mes": 812.674215,
+"roi_mes": 0.219124913,
+"roi_total": 2.53763656,
+"pnl_total": 53249.283424,
+"rot_mes": 188.0012414584219
+},
+{
+"dir": "0x9d6ca7aad4c3cbb1cc18b5e7b8e59496a03bb22f",
+"nombre": null,
+"capital": 75793.832935,
+"pnl_mes": 24593.562191,
+"roi_mes": 0.4536697909,
+"roi_total": 1.965104661,
+"pnl_total": 52291.552935,
+"rot_mes": 33.9402864373691
+},
+{
+"dir": "0xf7cb9e5b3475929ea18162df268a7c1f3b79d4db",
+"nombre": null,
+"capital": 101734.463885,
+"pnl_mes": 10162.062703,
+"roi_mes": 0.110972985,
+"roi_total": 1.042538344,
+"pnl_total": 51926.603885,
+"rot_mes": 0.0
+},
+{
+"dir": "0xf924adb40063bf2985e6db1c61fec795e5235f3a",
+"nombre": null,
+"capital": 101204.519835,
+"pnl_mes": 9952.270777,
+"roi_mes": 0.109063293,
+"roi_total": 1.0335905182,
+"pnl_total": 51438.099835,
+"rot_mes": 0.0
+},
+{
+"dir": "0x0bcdc87fd9ea388824fed910ea148763ff8c2440",
+"nombre": null,
+"capital": 40251.85828,
+"pnl_mes": 12452.17665,
+"roi_mes": 0.9592634357,
+"roi_total": 10.7494267681,
+"pnl_total": 51398.96828,
+"rot_mes": 8.066884707316424
+},
+{
+"dir": "0x07b9f3d52de1f5d43f3d93a016550dbe26599c82",
+"nombre": null,
+"capital": 67355.517806,
+"pnl_mes": 19579.516352,
+"roi_mes": 0.4098190672,
+"roi_total": 3.2089272963,
+"pnl_total": 51357.597806,
+"rot_mes": 28.94771985297266
+},
+{
+"dir": "0xad09b906938de88f3e0edc414b1850123d0e9443",
+"nombre": null,
+"capital": 91068.325345,
+"pnl_mes": 15005.827424,
+"roi_mes": 0.1972828639,
+"roi_total": 1.2893338096,
+"pnl_total": 51288.925345,
+"rot_mes": 47.99210245101933
+},
+{
+"dir": "0x600653034b224b0f4d9a8e62ec82da1d440f8004",
+"nombre": null,
+"capital": 118367.09021,
+"pnl_mes": 41207.11,
+"roi_mes": 0.8296849936,
+"roi_total": 1.2816506469,
+"pnl_total": 51045.3,
+"rot_mes": 13.763279278976205
+},
+{
+"dir": "0x80474420d1d4d42e7bc25cfe0918eff0ddcc8852",
+"nombre": null,
+"capital": 71303.553906,
+"pnl_mes": 27639.921577,
+"roi_mes": 0.5075626948,
+"roi_total": 1.0766663105,
+"pnl_total": 50962.933906,
+"rot_mes": 153.523614326871
+},
+{
+"dir": "0xd02d176544df9aea39fc1f5a37cf4f342a61d331",
+"nombre": null,
+"capital": 35426.377845,
+"pnl_mes": 661.175914,
+"roi_mes": 0.6370127183,
+"roi_total": 74.3209503616,
+"pnl_total": 50205.347845,
+"rot_mes": 4.280879368010364
+},
+{
+"dir": "0xeff250ac099ed2e83d2ce0a145bf1bd1587461c8",
+"nombre": null,
+"capital": 40399.625296,
+"pnl_mes": 6409.73,
+"roi_mes": 0.3718652642,
+"roi_total": 8.3733188022,
+"pnl_total": 50115.485296,
+"rot_mes": 139.71197600584796
+},
+{
+"dir": "0x8abc3b8b07082cc8752a1342ece30b9798aac9ad",
+"nombre": null,
+"capital": 51219.223054,
+"pnl_mes": 21030.99135,
+"roi_mes": 0.6966619163,
+"roi_total": 23.1332579452,
+"pnl_total": 49096.87,
+"rot_mes": 140.29197362920232
+},
+{
+"dir": "0x1003d8c532e5178673668e5f3aa48dc399ee940c",
+"nombre": null,
+"capital": 54149.656281,
+"pnl_mes": 19231.917967,
+"roi_mes": 0.8752613931,
+"roi_total": 1.516579321,
+"pnl_total": 48547.736281,
+"rot_mes": 0.08238759590363945
+},
+{
+"dir": "0x7611e4026305e5f3afa659dae315d602bbb8387d",
+"nombre": null,
+"capital": 40297.211179,
+"pnl_mes": 2505.213456,
+"roi_mes": 0.1545094656,
+"roi_total": 1.109076281,
+"pnl_total": 47238.861179,
+"rot_mes": 166.8672144613375
+},
+{
+"dir": "0xadf961e147bfc54bbabd4d94fe31e7f072a8e6ef",
+"nombre": null,
+"capital": 271525.40907,
+"pnl_mes": 45618.475325,
+"roi_mes": 1.5550104493,
+"roi_total": 1.5570843212,
+"pnl_total": 47106.09827,
+"rot_mes": 0.937895465740178
+},
+{
+"dir": "0x19b1e36f874f7c5a3c99cbcc4ac865d4249bf73f",
+"nombre": null,
+"capital": 23342.233831,
+"pnl_mes": 4372.007119,
+"roi_mes": 1.0672899951,
+"roi_total": 71.3318043286,
+"pnl_total": 46708.223831,
+"rot_mes": 100.88189275495395
+},
+{
+"dir": "0xaa04e410add2d662e33cbdfbb5320764d39b1486",
+"nombre": "olivercryptos",
+"capital": 26076.079283,
+"pnl_mes": 4934.07,
+"roi_mes": 0.7121750765,
+"roi_total": 24.3407041727,
+"pnl_total": 45979.109283,
+"rot_mes": 38.41922894647459
+},
+{
+"dir": "0x1609f039a96ce10756f5c6d403a80400dc081a02",
+"nombre": null,
+"capital": 47331.948062,
+"pnl_mes": 26830.940446,
+"roi_mes": 1.9606858237,
+"roi_total": 1.028443965,
+"pnl_total": 45541.018062,
+"rot_mes": 13.111602953402224
+},
+{
+"dir": "0x184cd9380cc279c34443052775ab42fe63356b5e",
+"nombre": null,
+"capital": 53464.518821,
+"pnl_mes": 27368.363524,
+"roi_mes": 1.0487507915,
+"roi_total": 4.287719173,
+"pnl_total": 45177.638821,
+"rot_mes": 124.49491357594727
+},
+{
+"dir": "0x554a50f739472a34bdbdb9406b680a1b651cea88",
+"nombre": null,
+"capital": 21710.355413,
+"pnl_mes": 2816.424745,
+"roi_mes": 0.1490650513,
+"roi_total": 443.373,
+"pnl_total": 44337.3,
+"rot_mes": 0.0
+},
+{
+"dir": "0x21836295045f35c8a0e614acaed48d5fe074b907",
+"nombre": null,
+"capital": 39545.282619,
+"pnl_mes": 19362.33024,
+"roi_mes": 0.9593408277,
+"roi_total": 1.1331262629,
+"pnl_total": 42060.172619,
+"rot_mes": 0.0
+},
+{
+"dir": "0x79914208fc06eabb0a94e595c9a5f9da0551e3a2",
+"nombre": null,
+"capital": 28776.14367,
+"pnl_mes": 3619.981414,
+"roi_mes": 0.1122260418,
+"roi_total": 5.9390720114,
+"pnl_total": 42039.48367,
+"rot_mes": 75.59636777418132
+},
+{
+"dir": "0xfd041f7e1851da14e250b02251d12f896dc172fe",
+"nombre": null,
+"capital": 40826.579858,
+"pnl_mes": 16304.355329,
+"roi_mes": 0.6648807619,
+"roi_total": 1.9189369114,
+"pnl_total": 40979.8764,
+"rot_mes": 50.75979269407065
+},
+{
+"dir": "0xc1a6982bd01376ba8b8f51482b8cd4317d3bd9c8",
+"nombre": null,
+"capital": 60318.358396,
+"pnl_mes": 40835.568396,
+"roi_mes": 1.0580634766,
+"roi_total": 1.0580634766,
+"pnl_total": 40835.568396,
+"rot_mes": 207.3996962561501
+},
+{
+"dir": "0xcc1970b4370230b566246a754e564b9416c03003",
+"nombre": null,
+"capital": 49045.408663,
+"pnl_mes": 20656.893497,
+"roi_mes": 0.7276496631,
+"roi_total": 1.914752795,
+"pnl_total": 40016.418663,
+"rot_mes": 174.9209215269945
+},
+{
+"dir": "0xa4db748d91c6618c77a6f4598bf6b849d5b95f49",
+"nombre": null,
+"capital": 69560.006518,
+"pnl_mes": 29835.465691,
+"roi_mes": 1.9557284695,
+"roi_total": 1.283117976,
+"pnl_total": 39092.896518,
+"rot_mes": 169.2850767193771
+},
+{
+"dir": "0x074c9faa69a2d9a4acb75844e3afc82ad04a06cc",
+"nombre": null,
+"capital": 57874.040374,
+"pnl_mes": 7946.919821,
+"roi_mes": 0.6702148512,
+"roi_total": 1.5923472365,
+"pnl_total": 38461.300374,
+"rot_mes": 99.07501606844701
+},
+{
+"dir": "0xf7b07723b1b8ed3035018b1144caf4d19c6f380e",
+"nombre": null,
+"capital": 75660.598522,
+"pnl_mes": 26161.708147,
+"roi_mes": 0.5285312044,
+"roi_total": 1.0706455381,
+"pnl_total": 37969.212767,
+"rot_mes": 14.016569928291482
+},
+{
+"dir": "0xb4f9a85a424daef309bf1a7ad3b8476554abfb00",
+"nombre": null,
+"capital": 21906.124407,
+"pnl_mes": 2832.997164,
+"roi_mes": 0.1485334381,
+"roi_total": 1.8672964618,
+"pnl_total": 37509.504407,
+"rot_mes": 26.94200028424042
+},
+{
+"dir": "0x77cde3018132b8ffca948b83b99986cbc8715e7b",
+"nombre": null,
+"capital": 300949.390371,
+"pnl_mes": 37134.287697,
+"roi_mes": 1.2036445408,
+"roi_total": 1.1388772236,
+"pnl_total": 37134.287697,
+"rot_mes": 1.9932809940584786
+},
+{
+"dir": "0xc783f4470f065ff4d0a493af08ae64ba990c4011",
+"nombre": null,
+"capital": 55850.523511,
+"pnl_mes": 6928.299657,
+"roi_mes": 0.1416186574,
+"roi_total": 1.9390990449,
+"pnl_total": 36847.923511,
+"rot_mes": 72.98933069440464
+},
+{
+"dir": "0x1ac7f5d81b4521efd034cff1a1b7f4ef9ac9b4dd",
+"nombre": null,
+"capital": 29705.983739,
+"pnl_mes": 14066.69513,
+"roi_mes": 0.6040498439,
+"roi_total": 1.5866055529,
+"pnl_total": 36318.273739,
+"rot_mes": 263.785209702124
+},
+{
+"dir": "0xf58bbf5fa40c411569c6b2a97852571cd7eb2b95",
+"nombre": null,
+"capital": 45878.727868,
+"pnl_mes": 12893.970243,
+"roi_mes": 0.5072875295,
+"roi_total": 1.4284230874,
+"pnl_total": 35991.219468,
+"rot_mes": 24.063447730642732
+},
+{
+"dir": "0x535694f279284faee42c7764dc2eee958d255a14",
+"nombre": null,
+"capital": 762131.185651,
+"pnl_mes": 31630.807849,
+"roi_mes": 1.0298193239,
+"roi_total": 1.269672251,
+"pnl_total": 34876.677849,
+"rot_mes": 2.9789446656230276
+},
+{
+"dir": "0x4f73b5b09b278bb614c21e3af3d5189bf94c2a2a",
+"nombre": null,
+"capital": 40079.306914,
+"pnl_mes": 15263.464567,
+"roi_mes": 0.615069372,
+"roi_total": 2.4759634452,
+"pnl_total": 34823.286914,
+"rot_mes": 194.77305649896797
+},
+{
+"dir": "0xc92632d6c54e4dae56ca52262f5fb31b896f9bdb",
+"nombre": null,
+"capital": 52934.883484,
+"pnl_mes": 7611.103611,
+"roi_mes": 0.5860833942,
+"roi_total": 1.3027357339,
+"pnl_total": 34758.943484,
+"rot_mes": 0.0018891134431272682
+},
+{
+"dir": "0x6c069d5e94c64f9981ed6582c54530c3a2222083",
+"nombre": null,
+"capital": 282593.936579,
+"pnl_mes": 26006.05,
+"roi_mes": 0.9165063154,
+"roi_total": 1.6900875668,
+"pnl_total": 34165.83,
+"rot_mes": 44.438402260231676
+},
+{
+"dir": "0xd3d5228f4afea8a2c8417aa7f1af6f2b5277b153",
+"nombre": null,
+"capital": 31702.852986,
+"pnl_mes": 5608.283765,
+"roi_mes": 0.17075224,
+"roi_total": 3.4494875474,
+"pnl_total": 34053.892986,
+"rot_mes": 87.88966410153861
+},
+{
+"dir": "0xb1f5eff4968294bee2c3376ef915e2d1ff9222be",
+"nombre": null,
+"capital": 113132.446035,
+"pnl_mes": 20958.331987,
+"roi_mes": 0.4979648361,
+"roi_total": 1.1380893349,
+"pnl_total": 33534.177823,
+"rot_mes": 0.7073308569253725
+},
+{
+"dir": "0xb7db8de9cdcd914f08106db12a9097d2e29c9b1a",
+"nombre": null,
+"capital": 31898.116494,
+"pnl_mes": 3587.942127,
+"roi_mes": 1.5943305738,
+"roi_total": 2.3704492791,
+"pnl_total": 32983.616494,
+"rot_mes": 154.59063236312224
+},
+{
+"dir": "0xa91c2ceb9d2e343bfd5a12d5b3b3794346a8c473",
+"nombre": null,
+"capital": 52925.440883,
+"pnl_mes": 21482.353835,
+"roi_mes": 0.6832138906,
+"roi_total": 1.5689093394,
+"pnl_total": 32323.140883,
+"rot_mes": 64.44223539941295
+},
+{
+"dir": "0x9d948ee85505e9c05fb9f674538e73f26bcbc499",
+"nombre": null,
+"capital": 123591.084055,
+"pnl_mes": 11774.662787,
+"roi_mes": 0.2985601443,
+"roi_total": 1.7023402456,
+"pnl_total": 32262.462937,
+"rot_mes": 0.0823097400413849
+},
+{
+"dir": "0xd24e165c5a3ffb95272c52c0c7b199c96c8c73b4",
+"nombre": null,
+"capital": 33935.708928,
+"pnl_mes": 14398.223231,
+"roi_mes": 0.7369537439,
+"roi_total": 12.5754239068,
+"pnl_total": 31435.918928,
+"rot_mes": 244.21766604562976
+},
+{
+"dir": "0xc7aec2406d3b67cf635b9cf48361f888e75c920f",
+"nombre": null,
+"capital": 24532.911535,
+"pnl_mes": 4899.787807,
+"roi_mes": 0.2495674084,
+"roi_total": 7.0340764032,
+"pnl_total": 30719.851535,
+"rot_mes": 114.30687654008207
+},
+{
+"dir": "0x4276dcb71aa01041cecdac9eca20d621825927f1",
+"nombre": null,
+"capital": 33597.919852,
+"pnl_mes": 14944.667509,
+"roi_mes": 1.9888322855,
+"roi_total": 2.8216292905,
+"pnl_total": 29579.139852,
+"rot_mes": 160.8488618880464
+},
+{
+"dir": "0x96fdd79a269ac4a99b75acb6cec3c9d68619e64e",
+"nombre": null,
+"capital": 40330.476472,
+"pnl_mes": 34204.205428,
+"roi_mes": 4.807885751,
+"roi_total": 2.2030457955,
+"pnl_total": 28418.673909,
+"rot_mes": 279.9815516149303
+},
+{
+"dir": "0x0c23ed7ee4af4c3f2b78828b3459f46052a6f0d1",
+"nombre": null,
+"capital": 34563.093755,
+"pnl_mes": 16820.420062,
+"roi_mes": 0.9480205945,
+"roi_total": 4.1747510555,
+"pnl_total": 27883.913755,
+"rot_mes": 286.7454331563207
+},
+{
+"dir": "0x05524403df1a47515113200210a2a7f8d84144b0",
+"nombre": null,
+"capital": 119093.271761,
+"pnl_mes": 16353.522792,
+"roi_mes": 1.2466638739,
+"roi_total": 2.8593249723,
+"pnl_total": 27713.521209,
+"rot_mes": 1.8897141431435496
+},
+{
+"dir": "0x22439c28f279979d86f9851dfb37e7b279ac4f7b",
+"nombre": null,
+"capital": 40525.109186,
+"pnl_mes": 1719.03,
+"roi_mes": 0.2265383982,
+"roi_total": 1.3242724928,
+"pnl_total": 27179.289186,
+"rot_mes": 66.9183159397102
+},
+{
+"dir": "0xf996983c08c770dcd9bd311c43dfcb7f2e107ccd",
+"nombre": null,
+"capital": 150750.525838,
+"pnl_mes": 9922.66,
+"roi_mes": 1.4504183452,
+"roi_total": 2.7988385732,
+"pnl_total": 26296.04,
+"rot_mes": 1.3597625537988607
+},
+{
+"dir": "0x5345396ec16ad77995f72c6d4bbf189ea9731b0b",
+"nombre": null,
+"capital": 114227.142064,
+"pnl_mes": 9542.961737,
+"roi_mes": 0.8497453526,
+"roi_total": 2.1194884605,
+"pnl_total": 26073.29,
+"rot_mes": 1.999135983565581
+},
+{
+"dir": "0xd262ce155d8730b5948b3add1141ccea6fcf1a84",
+"nombre": null,
+"capital": 52230.267067,
+"pnl_mes": 2698.470134,
+"roi_mes": 0.4496041564,
+"roi_total": 1.0593193851,
+"pnl_total": 25927.7,
+"rot_mes": 10.032309797072935
+},
+{
+"dir": "0x20fc2e585707f274da6a48226d7886c433f73624",
+"nombre": null,
+"capital": 45277.099948,
+"pnl_mes": 10870.27065,
+"roi_mes": 0.3159335188,
+"roi_total": 1.3010421394,
+"pnl_total": 25600.319948,
+"rot_mes": 105.3003029230144
+},
+{
+"dir": "0x7d6885662f179fe54066ca7a88246d433faee6ee",
+"nombre": null,
+"capital": 39428.184923,
+"pnl_mes": 10705.665116,
+"roi_mes": 0.3713567394,
+"roi_total": 1.6756109278,
+"pnl_total": 24758.424923,
+"rot_mes": 65.36281888281027
+},
+{
+"dir": "0xf292b42e6167e0d591449ebd67d2e989a3479edf",
+"nombre": null,
+"capital": 106679.979999,
+"pnl_mes": 165.21,
+"roi_mes": 1.6521,
+"roi_total": 1.4396744639,
+"pnl_total": 24247.53,
+"rot_mes": 0.0
+},
+{
+"dir": "0xff216cf7ced1399701387a0b80b5a2ead7961081",
+"nombre": null,
+"capital": 28090.453378,
+"pnl_mes": 4230.830197,
+"roi_mes": 0.1773217525,
+"roi_total": 1.028735773,
+"pnl_total": 23423.233378,
+"rot_mes": 154.73781044076105
+},
+{
+"dir": "0x9d38c10c8bc8a9675268da9d888dbce8fbbb7168",
+"nombre": null,
+"capital": 172114.832705,
+"pnl_mes": 9483.98,
+"roi_mes": 94.8398,
+"roi_total": 3.5321779893,
+"pnl_total": 22574.75,
+"rot_mes": 10.285408422841718
+},
+{
+"dir": "0xaf3434560dae7c6ec1b66707d4a36127fa7f387a",
+"nombre": null,
+"capital": 31236.193006,
+"pnl_mes": 6104.177574,
+"roi_mes": 0.2428845228,
+"roi_total": 2.1484479612,
+"pnl_total": 21315.053006,
+"rot_mes": 77.39508491113592
+},
+{
+"dir": "0x429ef3951e3734f56f43d3066bc913b2b4a8a94a",
+"nombre": null,
+"capital": 255724.833604,
+"pnl_mes": 13498.609086,
+"roi_mes": 0.6518371369,
+"roi_total": 1.6285345262,
+"pnl_total": 21193.390047,
+"rot_mes": 0.29154243234527155
+},
+{
+"dir": "0x26407a88d2f1d894e05bb7bd3807a48383c0e527",
+"nombre": null,
+"capital": 33172.07259,
+"pnl_mes": 7646.79052,
+"roi_mes": 0.2995771212,
+"roi_total": 1.5446218853,
+"pnl_total": 20135.92259,
+"rot_mes": 95.80149541087206
+},
+{
+"dir": "0x28cab56685d713135f14928b67f9fd36acc9abf5",
+"nombre": null,
+"capital": 24877.98269,
+"pnl_mes": 6336.376771,
+"roi_mes": 0.3417382938,
+"roi_total": 2.3736536452,
+"pnl_total": 19516.32269,
+"rot_mes": 21.561504671985123
+},
+{
+"dir": "0x3bcc0a020f09dd10ec7a5a0b1a00095bd6e85146",
+"nombre": null,
+"capital": 27989.845471,
+"pnl_mes": 2071.86,
+"roi_mes": 0.3686918208,
+"roi_total": 1.5022547171,
+"pnl_total": 19312.205471,
+"rot_mes": 24.118082062990464
+},
+{
+"dir": "0x07c185d95a1aa3c8bc1cbdbe346cf3c49757a96d",
+"nombre": null,
+"capital": 230822.855095,
+"pnl_mes": 16975.036205,
+"roi_mes": 2.0063702806,
+"roi_total": 2.0063702806,
+"pnl_total": 16975.036205,
+"rot_mes": 1.4517184611640244
+},
+{
+"dir": "0x9c52a098d3e0fd597828f474fbf1c8d2820bd176",
+"nombre": null,
+"capital": 28283.191696,
+"pnl_mes": 2370.201014,
+"roi_mes": 0.1339824059,
+"roi_total": 1.2200080598,
+"pnl_total": 15411.581014,
+"rot_mes": 98.11837149880341
+},
+{
+"dir": "0x694a9073f6f660dd8036bf84db7fc2dad980639a",
+"nombre": null,
+"capital": 21285.515406,
+"pnl_mes": 912.860249,
+"roi_mes": 0.1247934795,
+"roi_total": 1.140368527,
+"pnl_total": 12149.235406,
+"rot_mes": 116.22450069039216
+},
+{
+"dir": "0xeb11902eb4166532f59893b36522e0bea3942eab",
+"nombre": null,
+"capital": 131995.649858,
+"pnl_mes": 7821.733162,
+"roi_mes": 1.0639266192,
+"roi_total": 1.0639266192,
+"pnl_total": 7821.733162,
+"rot_mes": 1.1033970449532418
+},
+{
+"dir": "0xbf300fbb0101db2ef5435af8eb4e2873554e162d",
+"nombre": null,
+"capital": 742769.696233,
+"pnl_mes": 3223.28,
+"roi_mes": 32.2328,
+"roi_total": 32.2327,
+"pnl_total": 3223.27,
+"rot_mes": 1.3147577976763087
+}
+]

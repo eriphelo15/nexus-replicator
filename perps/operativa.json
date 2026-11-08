@@ -1,0 +1,1040 @@
+[
+{
+"dir": "0xe6fe2362f915d627ecbf401b0ceef3dd2b2b79bd",
+"nombre": null,
+"capital": 192899.415147,
+"pnl_mes": 19212.655058,
+"roi_mes": 0.1069788815,
+"roi_total": 3.0866910055,
+"pnl_total": 150158.535147,
+"rot_mes": 63.372577675698146,
+"dias": 409,
+"meses": 14,
+"meses_pos": 14,
+"peor_caida": 0.011,
+"peor_caida_usd": 800,
+"capital_mediano": 70591,
+"pnl_hist": 150169.516573,
+"fills": 13884,
+"cierres": 9891,
+"acierto": 0.8012334445455465,
+"pnl_90d": 55811.9019139999,
+"top5_pct": 0.08642175157249217,
+"dur_med_min": 0.16266666666666665,
+"posiciones": 425,
+"monedas": [
+[
+"@260",
+793
+],
+[
+"PUMP",
+725
+],
+[
+"NEAR",
+528
+],
+[
+"VVV",
+510
+]
+]
+},
+{
+"dir": "0xc7aec2406d3b67cf635b9cf48361f888e75c920f",
+"nombre": null,
+"capital": 24532.911535,
+"pnl_mes": 4899.787807,
+"roi_mes": 0.2495674084,
+"roi_total": 7.0340764032,
+"pnl_total": 30719.851535,
+"rot_mes": 114.30687654008207,
+"dias": 206,
+"meses": 7,
+"meses_pos": 7,
+"peor_caida": 0.052,
+"peor_caida_usd": 563,
+"capital_mediano": 10877,
+"pnl_hist": 30719.89936,
+"fills": 6318,
+"cierres": 2194,
+"acierto": 0.6722880583409299,
+"pnl_90d": 8392.589300999984,
+"top5_pct": 0.24617462691208175,
+"dur_med_min": 0.4496916666666667,
+"posiciones": 256,
+"monedas": [
+[
+"@260",
+558
+],
+[
+"@272",
+528
+],
+[
+"@700",
+495
+],
+[
+"para:ANSEM",
+431
+]
+]
+},
+{
+"dir": "0xe31501c472d557bfa145ce105d325fb2dd4cb867",
+"nombre": null,
+"capital": 2062685.349113,
+"pnl_mes": 938053.135903,
+"roi_mes": 0.8340976942,
+"roi_total": 7.2507413965,
+"pnl_total": 1812685.349113,
+"rot_mes": 249.09820592896057,
+"dias": 192,
+"meses": 7,
+"meses_pos": 7,
+"peor_caida": 0.056,
+"peor_caida_usd": 57016,
+"capital_mediano": 1018742,
+"pnl_hist": 1812463.898042,
+"fills": 25209,
+"cierres": 16941,
+"acierto": 0.6368573283749484,
+"pnl_90d": 154812.8284919995,
+"top5_pct": 0.2560399033407522,
+"dur_med_min": 3.4461833333333334,
+"posiciones": 697,
+"monedas": [
+[
+"xyz:SNXX",
+2407
+],
+[
+"xyz:HO",
+2383
+],
+[
+"xyz:MU",
+2032
+],
+[
+"xyz:NATGAS",
+1735
+]
+]
+},
+{
+"dir": "0xb13380849b95f9c890987016f1565d1ac2d96b2e",
+"nombre": null,
+"capital": 55018.467684,
+"pnl_mes": 10798.38,
+"roi_mes": 0.2906900618,
+"roi_total": 5.3238175041,
+"pnl_total": 63896.457684,
+"rot_mes": 140.71098280062378,
+"dias": 241,
+"meses": 9,
+"meses_pos": 9,
+"peor_caida": 0.045,
+"peor_caida_usd": 2022,
+"capital_mediano": 45145,
+"pnl_hist": 63888.983412,
+"fills": 29626,
+"cierres": 16868,
+"acierto": 0.5933720654493716,
+"pnl_90d": 30277.791129999743,
+"top5_pct": 0.10288727845517792,
+"dur_med_min": 1.653975,
+"posiciones": 738,
+"monedas": [
+[
+"LIT",
+3504
+],
+[
+"PUMP",
+2902
+],
+[
+"VVV",
+2614
+],
+[
+"KAITO",
+1886
+]
+]
+},
+{
+"dir": "0x5e7348aa9ab8ddbc44e22f90a402ba4d996befdb",
+"nombre": null,
+"capital": 128637.229361,
+"pnl_mes": 4244.629879,
+"roi_mes": 0.1005828119,
+"roi_total": 1.7946546601,
+"pnl_total": 95450.969361,
+"rot_mes": 16.797398006265663,
+"dias": 549,
+"meses": 19,
+"meses_pos": 19,
+"peor_caida": 0.056,
+"peor_caida_usd": 3262,
+"capital_mediano": 57966,
+"pnl_hist": 95379.943373,
+"fills": 14292,
+"cierres": 5464,
+"acierto": 0.4167276720351391,
+"pnl_90d": -663.9407700000205,
+"top5_pct": null,
+"dur_med_min": null,
+"posiciones": 0,
+"monedas": [
+[
+"PURR/USDC",
+4725
+],
+[
+"PURR",
+4420
+],
+[
+"FARTCOIN",
+2190
+],
+[
+"ETH",
+1378
+]
+]
+},
+{
+"dir": "0x7759d4dca0b4467314ba08d22dfdb6dac9c22a8b",
+"nombre": null,
+"capital": 33850.933123,
+"pnl_mes": 4486.958705,
+"roi_mes": 0.1471038774,
+"roi_total": 291.8411714444,
+"pnl_total": 160220.803123,
+"rot_mes": 92.93815708325104,
+"dias": 395,
+"meses": 14,
+"meses_pos": 11,
+"peor_caida": 0.176,
+"peor_caida_usd": 5557,
+"capital_mediano": 31512,
+"pnl_hist": 160220.825158,
+"fills": 2641,
+"cierres": 1742,
+"acierto": 0.7950631458094145,
+"pnl_90d": 11205.748564999913,
+"top5_pct": 0.1546436301821496,
+"dur_med_min": 0.27086666666666664,
+"posiciones": 117,
+"monedas": [
+[
+"@260",
+303
+],
+[
+"ZEC",
+209
+],
+[
+"LINK",
+205
+],
+[
+"PUMP",
+159
+]
+]
+},
+{
+"dir": "0x8bae3527e5a33fa0cf184f37bc112d071463ab6d",
+"nombre": null,
+"capital": 3204423.748203,
+"pnl_mes": 890008.927142,
+"roi_mes": 0.7202710428,
+"roi_total": 25.5817291145,
+"pnl_total": 12790838.975542,
+"rot_mes": 6.0505824458681206,
+"dias": 479,
+"meses": 16,
+"meses_pos": 14,
+"peor_caida": 0.127,
+"peor_caida_usd": 491834,
+"capital_mediano": 3867555,
+"pnl_hist": 12785430.87535,
+"fills": 2554,
+"cierres": 1795,
+"acierto": 0.6991643454038997,
+"pnl_90d": 2427522.6882219953,
+"top5_pct": 0.6206309616770194,
+"dur_med_min": 13434.923,
+"posiciones": 14,
+"monedas": [
+[
+"xyz:NVDA",
+490
+],
+[
+"xyz:SKHY",
+470
+],
+[
+"DOGE",
+302
+],
+[
+"xyz:INTC",
+224
+]
+]
+},
+{
+"dir": "0x8cbe593aa5b6fffb5254429d1812abdbd1f06959",
+"nombre": null,
+"capital": 72422.197084,
+"pnl_mes": 22415.27471,
+"roi_mes": 0.4473488622,
+"roi_total": 18.8755781064,
+"pnl_total": 130181.087084,
+"rot_mes": 174.18256719509165,
+"dias": 262,
+"meses": 9,
+"meses_pos": 9,
+"peor_caida": 0.133,
+"peor_caida_usd": 4570,
+"capital_mediano": 34272,
+"pnl_hist": 118383.697084,
+"fills": 8355,
+"cierres": 3334,
+"acierto": 0.859628074385123,
+"pnl_90d": 46365.993498999975,
+"top5_pct": 0.16730694795027545,
+"dur_med_min": 28.907833333333333,
+"posiciones": 146,
+"monedas": [
+[
+"xyz:SILVER",
+1505
+],
+[
+"xyz:SPCX",
+1084
+],
+[
+"xyz:NATGAS",
+813
+],
+[
+"xyz:MU",
+430
+]
+]
+},
+{
+"dir": "0xdf1cdd59b69ee403bc38c5ea4f33234f9bb5948d",
+"nombre": null,
+"capital": 24863.754726,
+"pnl_mes": 1518.66,
+"roi_mes": 0.284754801,
+"roi_total": 6.6792152412,
+"pnl_total": 83267.104726,
+"rot_mes": 93.8895450717615,
+"dias": 213,
+"meses": 8,
+"meses_pos": 8,
+"peor_caida": 0.122,
+"peor_caida_usd": 3510,
+"capital_mediano": 28683,
+"pnl_hist": 83611.134726,
+"fills": 9755,
+"cierres": 4790,
+"acierto": 0.4524008350730689,
+"pnl_90d": 22240.780417999966,
+"top5_pct": 0.19431781928399805,
+"dur_med_min": 21.858466666666665,
+"posiciones": 212,
+"monedas": [
+[
+"xyz:CL",
+8891
+],
+[
+"HYPE",
+265
+],
+[
+"BTC",
+134
+],
+[
+"io:OAI",
+117
+]
+]
+},
+{
+"dir": "0x79914208fc06eabb0a94e595c9a5f9da0551e3a2",
+"nombre": null,
+"capital": 28776.14367,
+"pnl_mes": 3619.981414,
+"roi_mes": 0.1122260418,
+"roi_total": 5.9390720114,
+"pnl_total": 42039.48367,
+"rot_mes": 75.59636777418132,
+"dias": 276,
+"meses": 10,
+"meses_pos": 10,
+"peor_caida": 0.108,
+"peor_caida_usd": 1862,
+"capital_mediano": 17280,
+"pnl_hist": 42039.498059,
+"fills": 5113,
+"cierres": 3674,
+"acierto": 0.7253674469243332,
+"pnl_90d": 22066.004082999978,
+"top5_pct": 0.11770527981552367,
+"dur_med_min": 0.14944166666666667,
+"posiciones": 308,
+"monedas": [
+[
+"PONS",
+532
+],
+[
+"VVV",
+433
+],
+[
+"MORPHO",
+418
+],
+[
+"CASHCAT",
+324
+]
+]
+},
+{
+"dir": "0x8d7d49eb9715a93eef4843b357cad5f5b9be7bda",
+"nombre": null,
+"capital": 27368.043424,
+"pnl_mes": 812.674215,
+"roi_mes": 0.219124913,
+"roi_total": 2.53763656,
+"pnl_total": 53249.283424,
+"rot_mes": 188.0012414584219,
+"dias": 227,
+"meses": 8,
+"meses_pos": 7,
+"peor_caida": 0.059,
+"peor_caida_usd": 2712,
+"capital_mediano": 45935,
+"pnl_hist": 53234.457938,
+"fills": 12209,
+"cierres": 10611,
+"acierto": 0.5250212044105174,
+"pnl_90d": 55.512776000000876,
+"top5_pct": 4.206877422235132,
+"dur_med_min": 12.098,
+"posiciones": 375,
+"monedas": [
+[
+"AERO",
+2077
+],
+[
+"GRASS",
+1577
+],
+[
+"INJ",
+1361
+],
+[
+"XPL",
+962
+]
+]
+},
+{
+"dir": "0xd46979f07f5d1e86ae2dcc5e6e0f3af5fe270471",
+"nombre": null,
+"capital": 132161.190862,
+"pnl_mes": 21927.599917,
+"roi_mes": 0.2971812249,
+"roi_total": 6.4988190734,
+"pnl_total": 312601.840862,
+"rot_mes": 5.914843645864606,
+"dias": 437,
+"meses": 15,
+"meses_pos": 13,
+"peor_caida": 0.253,
+"peor_caida_usd": 17407,
+"capital_mediano": 68784,
+"pnl_hist": 308726.124499,
+"fills": 2630,
+"cierres": 1199,
+"acierto": 0.7022518765638032,
+"pnl_90d": 69485.96232700007,
+"top5_pct": 0.3769390708549289,
+"dur_med_min": 970.9754333333333,
+"posiciones": 38,
+"monedas": [
+[
+"ZEC",
+662
+],
+[
+"CASHCAT",
+495
+],
+[
+"PONS",
+193
+],
+[
+"NIL",
+183
+]
+]
+},
+{
+"dir": "0xca7cd4c133338df50398d576c8cae48be76399a2",
+"nombre": null,
+"capital": 24415.936223,
+"pnl_mes": 9131.79073,
+"roi_mes": 1.6093217907,
+"roi_total": 3.4564748633,
+"pnl_total": 85750.726223,
+"rot_mes": 26.609230711701635,
+"dias": 1081,
+"meses": 37,
+"meses_pos": 28,
+"peor_caida": 0.258,
+"peor_caida_usd": 5734,
+"capital_mediano": 22216,
+"pnl_hist": 85441.498903,
+"fills": 2114,
+"cierres": 989,
+"acierto": 0.5510616784630941,
+"pnl_90d": 8185.769889000015,
+"top5_pct": 0.20967691448380965,
+"dur_med_min": 1500.6479833333333,
+"posiciones": 23,
+"monedas": [
+[
+"xyz:GOOGL",
+367
+],
+[
+"xyz:MRNA",
+299
+],
+[
+"io:NBIS",
+255
+],
+[
+"xyz:AMD",
+193
+]
+]
+},
+{
+"dir": "0xf83858e57d9f804f5ca1603bce82558119aeac7b",
+"nombre": null,
+"capital": 149063.263961,
+"pnl_mes": 37401.696579,
+"roi_mes": 0.6139600417,
+"roi_total": 6.1461273764,
+"pnl_total": 348016.663961,
+"rot_mes": 10.843283093699652,
+"dias": 1025,
+"meses": 35,
+"meses_pos": 25,
+"peor_caida": 0.218,
+"peor_caida_usd": 27881,
+"capital_mediano": 127820,
+"pnl_hist": 347860.470318,
+"fills": 5763,
+"cierres": 2684,
+"acierto": 0.5264530551415797,
+"pnl_90d": 70212.14640399978,
+"top5_pct": 0.21049998745171603,
+"dur_med_min": 1157.1468333333332,
+"posiciones": 134,
+"monedas": [
+[
+"LIT",
+1471
+],
+[
+"MON",
+615
+],
+[
+"BTC",
+608
+],
+[
+"XPL",
+540
+]
+]
+},
+{
+"dir": "0x4276dcb71aa01041cecdac9eca20d621825927f1",
+"nombre": null,
+"capital": 33597.919852,
+"pnl_mes": 14944.667509,
+"roi_mes": 1.9888322855,
+"roi_total": 2.8216292905,
+"pnl_total": 29579.139852,
+"rot_mes": 160.8488618880464,
+"dias": 220,
+"meses": 8,
+"meses_pos": 6,
+"peor_caida": 0.189,
+"peor_caida_usd": 2903,
+"capital_mediano": 15371,
+"pnl_hist": 29547.694092,
+"fills": 11075,
+"cierres": 5477,
+"acierto": 0.550849004929706,
+"pnl_90d": 22412.001661000046,
+"top5_pct": 0.20563639230938532,
+"dur_med_min": 4.01305,
+"posiciones": 332,
+"monedas": [
+[
+"CASHCAT",
+2838
+],
+[
+"XMR",
+1060
+],
+[
+"PURR",
+734
+],
+[
+"PONS",
+723
+]
+]
+},
+{
+"dir": "0x2c229d22b100a7beb69122eed721cee9b24011dd",
+"nombre": "ChinaToxicFlow2",
+"capital": 115067.284412,
+"pnl_mes": 12451.146402,
+"roi_mes": 0.1213371176,
+"roi_total": 20.3427669061,
+"pnl_total": 304956.384412,
+"rot_mes": 3.6784749215464956,
+"dias": 738,
+"meses": 25,
+"meses_pos": 18,
+"peor_caida": 0.209,
+"peor_caida_usd": 35188,
+"capital_mediano": 168179,
+"pnl_hist": 304956.384412,
+"fills": 592,
+"cierres": 425,
+"acierto": 0.9247058823529412,
+"pnl_90d": 15261.543823,
+"top5_pct": 0.5422619120306804,
+"dur_med_min": 2.2268666666666665,
+"posiciones": 10,
+"monedas": [
+[
+"HYPE",
+403
+],
+[
+"RSR",
+94
+],
+[
+"CRV",
+57
+],
+[
+"xyz:AAPL",
+15
+]
+]
+},
+{
+"dir": "0x378defc39d5dcdfbecd4f1673a5e228f992fc08e",
+"nombre": null,
+"capital": 115246.65742,
+"pnl_mes": 22390.288403,
+"roi_mes": 0.1822402646,
+"roi_total": 2.3273886857,
+"pnl_total": 148082.85742,
+"rot_mes": 96.29176167389792,
+"dias": 598,
+"meses": 20,
+"meses_pos": 16,
+"peor_caida": 0.177,
+"peor_caida_usd": 17182,
+"capital_mediano": 96893,
+"pnl_hist": 148082.856785,
+"fills": 8859,
+"cierres": 3282,
+"acierto": 0.8226691042047533,
+"pnl_90d": 44526.26287500031,
+"top5_pct": 0.13538534569863017,
+"dur_med_min": 95.99223333333333,
+"posiciones": 105,
+"monedas": [
+[
+"xyz:SPCX",
+1185
+],
+[
+"xyz:SNDK",
+840
+],
+[
+"xyz:SILVER",
+776
+],
+[
+"xyz:ZHIPU",
+698
+]
+]
+},
+{
+"dir": "0xe06532a98a541b48f6330d2dd88e2b4b96010d6b",
+"nombre": null,
+"capital": 78033.042701,
+"pnl_mes": 79272.458376,
+"roi_mes": 0.546226014,
+"roi_total": 1.0238890112,
+"pnl_total": 796224.422701,
+"rot_mes": 87.72487119629228,
+"dias": 689,
+"meses": 23,
+"meses_pos": 17,
+"peor_caida": 0.234,
+"peor_caida_usd": 92961,
+"capital_mediano": 397643,
+"pnl_hist": 796231.50682,
+"fills": 2563,
+"cierres": 1124,
+"acierto": 0.5240213523131673,
+"pnl_90d": 1599.7401030000071,
+"top5_pct": 7.515680725545922,
+"dur_med_min": 4087.7977333333333,
+"posiciones": 22,
+"monedas": [
+[
+"HYPE",
+337
+],
+[
+"@107",
+333
+],
+[
+"xyz:XYZ100",
+307
+],
+[
+"PURR/USDC",
+288
+]
+]
+},
+{
+"dir": "0x739ccf4aa388ddade09316f7aee5ed0ec7ae5739",
+"nombre": null,
+"capital": 1072345.987558,
+"pnl_mes": 11201.694256,
+"roi_mes": 0.1305813302,
+"roi_total": 2.4846415231,
+"pnl_total": 767769.287558,
+"rot_mes": 46.1167206422034,
+"dias": 276,
+"meses": 10,
+"meses_pos": 8,
+"peor_caida": 0.124,
+"peor_caida_usd": 92038,
+"capital_mediano": 743019,
+"pnl_hist": 767774.349509,
+"fills": 15044,
+"cierres": 6791,
+"acierto": 0.6345162715358563,
+"pnl_90d": 147640.86789100023,
+"top5_pct": 0.23428379184642073,
+"dur_med_min": 309.6979583333333,
+"posiciones": 142,
+"monedas": [
+[
+"UNI",
+4886
+],
+[
+"ETH",
+4051
+],
+[
+"HYPE",
+2735
+],
+[
+"BTC",
+1616
+]
+]
+},
+{
+"dir": "0x3999dfa662fd548950bbcb7d9fabedeba39456e6",
+"nombre": null,
+"capital": 173648.347356,
+"pnl_mes": 22649.124,
+"roi_mes": 0.5994309394,
+"roi_total": 1.3422547371,
+"pnl_total": 311846.351781,
+"rot_mes": 4.546069467517587,
+"dias": 626,
+"meses": 21,
+"meses_pos": 20,
+"peor_caida": 0.025,
+"peor_caida_usd": 5034,
+"capital_mediano": 200765,
+"pnl_hist": 40917.0834,
+"fills": 148,
+"cierres": 91,
+"acierto": 0.0,
+"pnl_90d": -15268.184641999998,
+"top5_pct": null,
+"dur_med_min": null,
+"posiciones": 0,
+"monedas": [
+[
+"HYPE",
+91
+],
+[
+"@107",
+57
+]
+]
+},
+{
+"dir": "0x69b05701f8175c276ecd0138387a197948e240bb",
+"nombre": null,
+"capital": 623561.729544,
+"pnl_mes": 36208.93367,
+"roi_mes": 0.2146410038,
+"roi_total": 1.1523996798,
+"pnl_total": 751470.139544,
+"rot_mes": 16.62151867078086,
+"dias": 514,
+"meses": 18,
+"meses_pos": 13,
+"peor_caida": 0.196,
+"peor_caida_usd": 109453,
+"capital_mediano": 559399,
+"pnl_hist": 806926.63833,
+"fills": 3010,
+"cierres": 1139,
+"acierto": 0.4433713784021071,
+"pnl_90d": 136193.08068099985,
+"top5_pct": 0.38227565746857584,
+"dur_med_min": 1943.7642333333333,
+"posiciones": 26,
+"monedas": [
+[
+"BTC",
+1219
+],
+[
+"@188",
+767
+],
+[
+"PUMP",
+671
+],
+[
+"HYPE",
+176
+]
+]
+},
+{
+"dir": "0x1404109f8cd4a79a0447365edbb7a13acd0b2f27",
+"nombre": null,
+"capital": 92414.309381,
+"pnl_mes": 3964.827719,
+"roi_mes": 0.1142482048,
+"roi_total": 1.845285582,
+"pnl_total": 113656.859381,
+"rot_mes": 8.556671854137957,
+"dias": 626,
+"meses": 21,
+"meses_pos": 15,
+"peor_caida": 0.236,
+"peor_caida_usd": 17630,
+"capital_mediano": 74804,
+"pnl_hist": 113029.231063,
+"fills": 2352,
+"cierres": 1053,
+"acierto": 0.9287749287749287,
+"pnl_90d": 17078.397250000005,
+"top5_pct": 0.11695751637349924,
+"dur_med_min": 681.2292333333334,
+"posiciones": 104,
+"monedas": [
+[
+"LIT",
+755
+],
+[
+"HYPE",
+474
+],
+[
+"PURR",
+368
+],
+[
+"PONS",
+174
+]
+]
+},
+{
+"dir": "0x1ac7f5d81b4521efd034cff1a1b7f4ef9ac9b4dd",
+"nombre": null,
+"capital": 29705.983739,
+"pnl_mes": 14066.69513,
+"roi_mes": 0.6040498439,
+"roi_total": 1.5866055529,
+"pnl_total": 36318.273739,
+"rot_mes": 263.785209702124,
+"dias": 206,
+"meses": 7,
+"meses_pos": 6,
+"peor_caida": 0.236,
+"peor_caida_usd": 6593,
+"capital_mediano": 27885,
+"pnl_hist": 36318.273739,
+"fills": 7140,
+"cierres": 3626,
+"acierto": 0.5256480970766685,
+"pnl_90d": 23026.105460999966,
+"top5_pct": 0.22437422345479144,
+"dur_med_min": 49.51075,
+"posiciones": 102,
+"monedas": [
+[
+"PUMP",
+2254
+],
+[
+"xyz:CL",
+1169
+],
+[
+"TAO",
+317
+],
+[
+"PONS",
+285
+]
+]
+},
+{
+"dir": "0xb2365a4b1e23ffe6d60ae1105658d5d0b2fa8297",
+"nombre": null,
+"capital": 218769.879502,
+"pnl_mes": 23367.051696,
+"roi_mes": 0.1132109087,
+"roi_total": 1.479656016,
+"pnl_total": 146023.449502,
+"rot_mes": 10.54285706629424,
+"dias": 185,
+"meses": 7,
+"meses_pos": 5,
+"peor_caida": 0.139,
+"peor_caida_usd": 28110,
+"capital_mediano": 202328,
+"pnl_hist": 146023.449546,
+"fills": 836,
+"cierres": 0,
+"acierto": 0.0,
+"pnl_90d": 0,
+"top5_pct": null,
+"dur_med_min": 12469.265766666667,
+"posiciones": 5,
+"monedas": [
+[
+"@107",
+630
+],
+[
+"@142",
+113
+],
+[
+"@151",
+93
+]
+]
+},
+{
+"dir": "0x26407a88d2f1d894e05bb7bd3807a48383c0e527",
+"nombre": null,
+"capital": 33172.07259,
+"pnl_mes": 7646.79052,
+"roi_mes": 0.2995771212,
+"roi_total": 1.5446218853,
+"pnl_total": 20135.92259,
+"rot_mes": 95.80149541087206,
+"dias": 668,
+"meses": 23,
+"meses_pos": 17,
+"peor_caida": 0.326,
+"peor_caida_usd": 4153,
+"capital_mediano": 12722,
+"pnl_hist": 20032.32837,
+"fills": 5210,
+"cierres": 2888,
+"acierto": 0.7053324099722992,
+"pnl_90d": 13412.865326999978,
+"top5_pct": 0.2626490246575787,
+"dur_med_min": 246.23548333333332,
+"posiciones": 80,
+"monedas": [
+[
+"HYPE",
+2103
+],
+[
+"xyz:SKHX",
+1627
+],
+[
+"CASHCAT",
+681
+],
+[
+"xyz:NVDA",
+330
+]
+]
+}
+]
