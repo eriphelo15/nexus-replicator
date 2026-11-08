@@ -1,0 +1,56 @@
+name: Copybot simulado
+
+# Ejecuta el bot de copia en modo SIMULADO (no toca dinero) en tandas de ~5 h 40 min,
+# guarda copybot/datos_bot en la rama `copybot-datos` cada 10 min y se relanza solo.
+# Se detiene solo a partir de la fecha HASTA. Para pararlo antes: Actions -> Copybot
+# simulado -> "..." -> Disable workflow.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: copybot-simulado
+  cancel-in-progress: false
+
+env:
+  HASTA: "2026-11-11T00:00:00Z"
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - name: ¿Sigue dentro del plazo?
+        id: plazo
+        run: |
+          if [ "$(date -u +%s)" -lt "$(date -u -d "$HASTA" +%s)" ]; then echo "ok=1" >> "$GITHUB_OUTPUT"; fi
+      - uses: actions/checkout@v4
+        if: steps.plazo.outputs.ok == '1'
+      - uses: actions/setup-python@v5
+        if: steps.plazo.outputs.ok == '1'
+        with:
+          python-version: "3.12"
+      - name: Ejecutar en simulado
+        if: steps.plazo.outputs.ok == '1'
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          pip install -q -r copybot/requirements.txt
+          git config user.name "copybot"; git config user.email "copybot@users.noreply.github.com"
+          if git fetch -q origin copybot-datos; then git worktree add -q _datos origin/copybot-datos && git -C _datos checkout -q -B copybot-datos
+          else git worktree add -q --detach _datos && git -C _datos checkout -q --orphan copybot-datos && git -C _datos rm -rfq . ; fi
+          jq '.modo="simulado" | .datos="../_datos"' copybot/config.ejemplo.json > copybot/config.json
+          guardar() { (cd _datos && git add -A && { git diff --cached --quiet || { git commit -qm "copybot $(date -u +'%F %H:%M')" && git push -q origin copybot-datos; }; }) || true; }
+          (while true; do sleep 600; guardar; done) &
+          cd copybot && timeout 340m python -u bot.py config.json | tee -a ../_datos/bot.log || true
+          cd .. && guardar
+      - name: Relanzar
+        if: always() && steps.plazo.outputs.ok == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run copybot-simulado.yml --ref main --repo "$GITHUB_REPOSITORY"
