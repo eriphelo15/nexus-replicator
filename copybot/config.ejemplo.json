@@ -1,0 +1,24 @@
+{
+  "modo": "simulado",
+  "rpc_http": "https://api.mainnet-beta.solana.com",
+  "rpc_ws": "wss://api.mainnet-beta.solana.com",
+  "jupiter_url": "https://lite-api.jup.ag/swap/v1",
+  "carteras": {
+    "AH75Bn6QHSt5K2Ad4p1otns3JTwpSJWZTwiwKWNhmnKx": {
+      "nombre": "bystevenr",
+      "capital_referencia_usd": 20000,
+      "peso": 1.0
+    }
+  },
+  "capital_usd": 400,
+  "min_operacion_usd": 1,
+  "max_operacion_usd": 40,
+  "max_por_token_usd": 60,
+  "perdida_dia_max_usd": 80,
+  "impacto_max_pct": 5,
+  "slippage_bps": 1000,
+  "prioridad_max_lamports": 300000,
+  "retraso_max_s": 20,
+  "respaldo_s": 20,
+  "datos": "datos_bot"
+}

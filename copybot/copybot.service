@@ -1,0 +1,13 @@
+[Unit]
+Description=Bot de copia de carteras (Solana)
+After=network-online.target
+
+[Service]
+WorkingDirectory=/opt/copybot
+EnvironmentFile=/opt/copybot/.env
+ExecStart=/opt/copybot/venv/bin/python bot.py config.json
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
