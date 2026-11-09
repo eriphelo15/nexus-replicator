@@ -6,15 +6,15 @@
   "carteras": {
     "AH75Bn6QHSt5K2Ad4p1otns3JTwpSJWZTwiwKWNhmnKx": {
       "nombre": "bystevenr",
-      "capital_referencia_usd": 20000,
+      "capital_referencia_usd": 259149,
       "peso": 1.0
     }
   },
-  "capital_usd": 400,
+  "capital_usd": 5000,
   "min_operacion_usd": 1,
-  "max_operacion_usd": 40,
-  "max_por_token_usd": 60,
-  "perdida_dia_max_usd": 80,
+  "max_operacion_usd": 5000,
+  "max_por_token_usd": 500,
+  "perdida_dia_max_usd": 1000,
   "impacto_max_pct": 5,
   "slippage_bps": 1000,
   "prioridad_max_lamports": 300000,

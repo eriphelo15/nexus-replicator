@@ -18,7 +18,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HASTA: "2026-11-11T00:00:00Z"
+  HASTA: "2026-11-14T00:00:00Z"
 
 jobs:
   bot:

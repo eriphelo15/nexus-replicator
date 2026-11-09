@@ -5,9 +5,11 @@ Estudio previo: `../radar-memecoins/estudios/copia/` (copiar a bystevenr a 1-30 
 ~+17-22% al mes en sus 29 tokens principales, frente a su +46%).
 
 ## Cómo decide
-- **Compra:** el importe de su compra × `capital_usd / capital_referencia_usd` × `peso`
-  (con la configuración de ejemplo, el 2%: su compra típica de $250 → $5), con tope
-  `max_operacion_usd`, `max_por_token_usd` y el capital total. No compra si el impacto en
+- **Compra:** el importe de su compra × `capital_usd / capital_referencia_usd` × `peso`.
+  `capital_referencia_usd` es su exposición máxima (bystevenr: $259K), así que el factor es
+  proporcional (con $5K, ~1.9%). Tope por token `max_por_token_usd` = **10% del capital**: en sus
+  3 meses (ago-nov) la copia sin tope perdía un 8% y con tope del 10% ganaba un 33%
+  (`../radar-memecoins/estudios/copia/topes.py`). No compra si el impacto en
   precio supera `impacto_max_pct` o si se alcanzó `perdida_dia_max_usd`.
 - **Venta:** vende el mismo % de la posición que vende él (todo si él se queda a cero).
 - Ignora operaciones suyas de hace más de `retraso_max_s` segundos (p. ej., tras un corte).
