@@ -1,10 +1,5 @@
 {
  "posiciones": {
-  "2StNe98imN7M6K341a7a4xvc8eNTvLCde5EugAKfLoat": {
-   "tokens": 42847.212543723705,
-   "coste": 22.34577074983592,
-   "decimales": 6
-  },
   "FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat": {
    "tokens": 162901.533373,
    "coste": 60.0,
@@ -12,6 +7,6 @@
   }
  },
  "dia": "2026-11-09",
- "realizado_dia": -1.2836612301642205,
+ "realizado_dia": -12.133395980000142,
  "pausado": false
 }
