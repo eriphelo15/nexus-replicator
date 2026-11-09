@@ -47,7 +47,7 @@ jobs:
           jq '.modo="simulado" | .datos="../_datos/v2"' copybot/config.ejemplo.json > copybot/config.json
           guardar() { (cd _datos && git add -A && { git diff --cached --quiet || { git commit -qm "copybot $(date -u +'%F %H:%M')" && git push -q origin copybot-datos; }; }) || true; }
           (while true; do sleep 600; guardar; done) &
-          cd copybot && timeout 340m python -u bot.py config.json | mkdir -p ../_datos/v2 && tee -a ../_datos/v2/bot.log || true
+          mkdir -p _datos/v2 && cd copybot && timeout 340m python -u bot.py config.json | tee -a ../_datos/v2/bot.log || true
           cd .. && guardar
       - name: Relanzar
         if: always() && steps.plazo.outputs.ok == '1'
