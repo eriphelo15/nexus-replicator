@@ -3,6 +3,8 @@
 Replica las compras y ventas de las carteras de `config.json` con 1-3 s de retraso, vía Jupiter.
 Estudio previo: `../radar-memecoins/estudios/copia/` (copiar a bystevenr a 1-30 s conservaba
 ~+17-22% al mes en sus 29 tokens principales, frente a su +46%).
+**Revisión del 10-nov-2026 (`ESTUDIO_HISTORIAL.md`):** esa cifra salió de un subconjunto favorable; con todo su
+historial la copia va de −42 % a +70 % según el mes. No usarla como expectativa.
 
 ## Cómo decide
 - **Compra:** el importe de su compra × `capital_usd / capital_referencia_usd` × `peso`.
@@ -36,8 +38,12 @@ Seguridad de las órdenes: en ntfy.sh cualquiera que conozca el nombre de un tem
   mismo tema: sirve contra quien adivine el nombre, no contra quien ya lo esté leyendo.
 
 ## Antes de pasar a real
-Pendiente: al menos 100 operaciones en simulado con resultado positivo después de costes. Los primeros
-datos (8–9 nov, 22 operaciones) dieron −25,69 USD sobre 166 USD comprados.
+Condiciones acordadas el 10-nov-2026 (detalle y datos en `ESTUDIO_HISTORIAL.md`). Todas a la vez:
+1. Al menos 4 semanas de simulación, 100 ventas cerradas y 30 tokens distintos.
+2. Precio frente al suyo (mediana): compras como mucho un 3 % peor; ventas como mucho un 5 % peor.
+3. Resultado simulado positivo después de un 1 % por lado de comisiones.
+4. Si la simulación cae más de un 30 % en cualquier momento, no se pasa a real.
+5. Empezar con 500 USD que se puedan perder enteros; subir solo tras 100 operaciones reales parecidas a la simulación.
 
 Pruebas sin red: `python -m pytest copybot/test_bot.py`.
 
