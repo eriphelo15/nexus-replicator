@@ -68,9 +68,12 @@ class Solana:
             return None
         return sum(float(a["account"]["data"]["parsed"]["info"]["tokenAmount"]["uiAmount"] or 0) for a in r["value"])
 
-    async def enviar(self, tx_bytes):
+    async def enviar(self, tx_bytes, comprobar=True):
+        # comprobar=True: el nodo simula la transacción antes de enviarla y la rechaza si iba a fallar
+        # (p. ej. por deslizamiento), en vez de enviarla a ciegas y pagar la comisión.
         return await self.rpc("sendTransaction", [base64.b64encode(tx_bytes).decode(),
-                                                  {"encoding": "base64", "skipPreflight": True, "maxRetries": 3}])
+                                                  {"encoding": "base64", "skipPreflight": not comprobar,
+                                                   "preflightCommitment": "confirmed", "maxRetries": 3}])
 
     async def confirmar(self, firma, segundos=40):
         for _ in range(segundos * 2):
@@ -117,23 +120,30 @@ class Jupiter:
 class Avisos:
     """ntfy: avisos al móvil y órdenes desde el móvil (tema <tema>-bot)."""
 
-    def __init__(self, tema, sesion):
+    def __init__(self, tema, sesion, tema_ordenes="", token=""):
         self.tema, self.s, self.vistos = tema, sesion, set()
+        # Tema de órdenes propio (NTFY_ORDENES) para que no se deduzca del de avisos; si no, <tema>-bot.
+        self.tema_ordenes = tema_ordenes or (f"{tema}-bot" if tema else "")
+        # Token de ntfy (tema reservado/protegido): sin él nadie más puede leer ni publicar.
+        self.token = token
+        self.cab = {"Authorization": f"Bearer {token}"} if token else {}
 
     async def enviar(self, titulo, texto, etiqueta="robot"):
         if not self.tema:
             return
         try:
             await self.s.post("https://ntfy.sh/", json={"topic": self.tema, "title": titulo,
-                                                        "message": texto, "tags": [etiqueta]}, timeout=10)
+                                                        "message": texto, "tags": [etiqueta]},
+                              headers=self.cab, timeout=10)
         except (aiohttp.ClientError, asyncio.TimeoutError):
             pass
 
     async def ordenes(self):
-        if not self.tema:
+        if not self.tema_ordenes:
             return []
         try:
-            async with self.s.get(f"https://ntfy.sh/{self.tema}-bot/json?poll=1&since=10m", timeout=10) as r:
+            async with self.s.get(f"https://ntfy.sh/{self.tema_ordenes}/json?poll=1&since=10m",
+                                  headers=self.cab, timeout=10) as r:
                 lineas = (await r.text()).splitlines()
         except (aiohttp.ClientError, asyncio.TimeoutError):
             return []

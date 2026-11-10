@@ -2,3 +2,4 @@ datos_bot/
 config.json
 .env
 __pycache__/
+.pytest_cache/

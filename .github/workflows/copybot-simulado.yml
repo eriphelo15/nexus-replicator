@@ -2,8 +2,9 @@ name: Copybot simulado
 
 # Ejecuta el bot de copia en modo SIMULADO (no toca dinero) en tandas de ~5 h 40 min,
 # guarda copybot/datos_bot en la rama `copybot-datos` cada 10 min y se relanza solo.
-# Se detiene solo a partir de la fecha HASTA. Para pararlo antes: Actions -> Copybot
-# simulado -> "..." -> Disable workflow.
+# A partir de la fecha HASTA se detiene y se desactiva solo (deja de dispararse cada 30 min).
+# Para pararlo antes: Actions -> Copybot simulado -> "..." -> Disable workflow.
+# Para una prueba nueva: cambiar HASTA y volver a activarlo (Enable workflow).
 on:
   workflow_dispatch:
   schedule:
@@ -29,6 +30,11 @@ jobs:
         id: plazo
         run: |
           if [ "$(date -u +%s)" -lt "$(date -u -d "$HASTA" +%s)" ]; then echo "ok=1" >> "$GITHUB_OUTPUT"; fi
+      - name: Fuera de plazo: desactivar el flujo
+        if: steps.plazo.outputs.ok != '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow disable copybot-simulado.yml --repo "$GITHUB_REPOSITORY"
       - uses: actions/checkout@v4
         if: steps.plazo.outputs.ok == '1'
       - uses: actions/setup-python@v5
