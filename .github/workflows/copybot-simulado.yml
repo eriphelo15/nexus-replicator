@@ -30,7 +30,7 @@ jobs:
         id: plazo
         run: |
           if [ "$(date -u +%s)" -lt "$(date -u -d "$HASTA" +%s)" ]; then echo "ok=1" >> "$GITHUB_OUTPUT"; fi
-      - name: Fuera de plazo: desactivar el flujo
+      - name: Fuera de plazo, desactivar el flujo
         if: steps.plazo.outputs.ok != '1'
         env:
           GH_TOKEN: ${{ github.token }}
