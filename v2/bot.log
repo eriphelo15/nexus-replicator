@@ -125,3 +125,13 @@
 2026-11-11 21:58:30 impacto 5.5% demasiado alto en FZxHLUGi
 2026-11-11 21:59:52 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-11 21:59:53 escuchando 1 cartera(s)
+2026-11-11 22:05:18 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-11 22:05:19 escuchando 1 cartera(s)
+2026-11-11 22:08:16 compra $77.18 de FZxHLUGi… (5.4 s tras él; precio +2.0% frente al suyo)
+2026-11-11 22:08:36 venta $54.71 de 4rYsDHMf… (13.6 s tras él; precio +1.2% frente al suyo) · resultado -32.11 $
+2026-11-11 22:10:12 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-11 22:10:13 escuchando 1 cartera(s)
+2026-11-11 22:11:18 compra $19.29 de FZxHLUGi… (2.0 s tras él; precio +0.5% frente al suyo)
+2026-11-11 22:11:18 compra $19.29 de FZxHLUGi… (1.1 s tras él; precio -1.3% frente al suyo)
+2026-11-11 22:12:42 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-11 22:12:43 escuchando 1 cartera(s)
