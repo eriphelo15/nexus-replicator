@@ -90,3 +90,11 @@
 2026-11-11 18:52:55 escuchando 1 cartera(s)
 2026-11-11 19:00:01 venta $29.47 de GydpvgKp… (19.2 s tras él; precio -9.9% frente al suyo) · resultado -28.41 $
 2026-11-11 19:00:21 venta $25.61 de GydpvgKp… (18.4 s tras él; precio -3.9% frente al suyo) · resultado -32.27 $
+2026-11-11 19:03:19 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-11 19:03:21 escuchando 1 cartera(s)
+2026-11-11 19:04:25 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-11 19:04:25 compra $9.65 de HXxJdaQb… (10.4 s tras él; precio +17.6% frente al suyo)
+2026-11-11 19:04:25 compra $9.65 de HXxJdaQb… (9.5 s tras él; precio +9.1% frente al suyo)
+2026-11-11 19:04:26 escuchando 1 cartera(s)
+2026-11-11 19:12:33 compra $9.65 de HXxJdaQb… (16.2 s tras él; precio +12.2% frente al suyo)
+2026-11-11 19:12:33 compra $9.65 de HXxJdaQb… (13.2 s tras él; precio +1.1% frente al suyo)
