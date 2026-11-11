@@ -116,3 +116,7 @@
 2026-11-11 21:38:40 compra ignorada por antigua (21 s): 25CLk4bpHWAa
 2026-11-11 21:40:27 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-11 21:40:28 escuchando 1 cartera(s)
+2026-11-11 21:47:22 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-11 21:47:24 escuchando 1 cartera(s)
+2026-11-11 21:49:03 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-11 21:49:05 escuchando 1 cartera(s)
