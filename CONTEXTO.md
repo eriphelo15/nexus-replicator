@@ -43,4 +43,6 @@ repositorio (nada de acciones ni del repo An-lisis-cuantitativo / Smallcaps-AI).
   FOMO, pero la cartera del trader es la dueña de las cuentas de tokens, no el firmante.
 - Candidato Solana de GuavaGuy2001: `C481ZKiw4TZGs4EjNkhm6TB7s17swzmqAmCcNm73vGnW` (4.74M KITTY y 10.34M mihao;
   2,077 firmas desde 4-dic-2025; tiene transacciones a las 08:41 del 20-oct y 01:46 del 19-sep), **sin confirmar**:
-  a las 08:41 compró 9.23M de `D42TjMjz…` por $15,000, no vendió KITTY. Verificar con otra operación.
+  a las 08:41 compró 9.23M de `D42TjMjz…` por $15,000, no vendió KITTY. **Descartado.**
+- BSC: publicnode no da registros antiguos sin token; GeckoTerminal top_holders y Etherscan V2 piden clave.
+  Carteras de Guava y fomopumpguy sin identificar. Ver INFORME_TRADERS.md.
