@@ -32,3 +32,15 @@ repositorio (nada de acciones ni del repo An-lisis-cuantitativo / Smallcaps-AI).
 - Horas de las capturas del usuario: UTC-4 hasta el 1-nov y UTC-5 después (comprobar).
 - Siguiente: identificar carteras, extraer historial completo y repetir el análisis
   (mes a mes, copia con retraso y topes) como con bystevenr.
+
+## Avances (11-nov, madrugada)
+- Helius funciona (`HELIUS_API_KEY` cargada).
+- **牛来 está en BNB Chain** (`0xbeea1d618e533a387d941f58a7d4c9b7bd377777`, ~$0.059): GuavaGuy2001 (4.4M)
+  y fomopumpguy (9.6M) operan también en BSC con una cartera EVM. Buscar sus direcciones EVM entre los
+  poseedores de 牛来 (necesita un explorador/API de BSC o eth_getLogs de Transfer en un RPC de BSC).
+- **Las transacciones de FOMO en Solana las firma un "relayer" de FOMO** (`AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51`),
+  no la cartera del usuario: por eso aparecía en todos los tokens. Se puede usar para listar operaciones de
+  FOMO, pero la cartera del trader es la dueña de las cuentas de tokens, no el firmante.
+- Candidato Solana de GuavaGuy2001: `C481ZKiw4TZGs4EjNkhm6TB7s17swzmqAmCcNm73vGnW` (4.74M KITTY y 10.34M mihao;
+  2,077 firmas desde 4-dic-2025; tiene transacciones a las 08:41 del 20-oct y 01:46 del 19-sep), **sin confirmar**:
+  a las 08:41 compró 9.23M de `D42TjMjz…` por $15,000, no vendió KITTY. Verificar con otra operación.
