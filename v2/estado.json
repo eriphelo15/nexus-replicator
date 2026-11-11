@@ -1,8 +1,13 @@
 {
  "posiciones": {
   "HXxJdaQbrYRvwTAM8M8mUPyoRPvmyuUbPFBRkiAAMASS": {
-   "tokens": 314054.77994299994,
-   "coste": 135.057437998989,
+   "tokens": 346588.18070599996,
+   "coste": 144.70439785605964,
+   "decimales": 6
+  },
+  "4rYsDHMfKmt6VuVGcM8cGzBgkZNgQT3w2DhdEmtVpump": {
+   "tokens": 197523.386261,
+   "coste": 86.82263871363578,
    "decimales": 6
   }
  },

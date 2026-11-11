@@ -111,3 +111,8 @@
 2026-11-11 21:24:33 compra $9.65 de HXxJdaQb… (5.4 s tras él; precio +8.5% frente al suyo)
 2026-11-11 21:30:03 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-11 21:30:05 escuchando 1 cartera(s)
+2026-11-11 21:37:59 compra $86.82 de 4rYsDHMf… (17.9 s tras él; precio +30.8% frente al suyo)
+2026-11-11 21:38:20 compra $9.65 de HXxJdaQb… (10.0 s tras él; precio +9.6% frente al suyo)
+2026-11-11 21:38:40 compra ignorada por antigua (21 s): 25CLk4bpHWAa
+2026-11-11 21:40:27 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-11 21:40:28 escuchando 1 cartera(s)
