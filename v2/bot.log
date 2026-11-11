@@ -98,3 +98,5 @@
 2026-11-11 19:04:26 escuchando 1 cartera(s)
 2026-11-11 19:12:33 compra $9.65 de HXxJdaQb… (16.2 s tras él; precio +12.2% frente al suyo)
 2026-11-11 19:12:33 compra $9.65 de HXxJdaQb… (13.2 s tras él; precio +1.1% frente al suyo)
+2026-11-11 19:18:10 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-11 19:18:12 escuchando 1 cartera(s)
