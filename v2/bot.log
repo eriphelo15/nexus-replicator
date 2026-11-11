@@ -65,3 +65,7 @@
 2026-11-11 03:20:24 venta $12.21 de X5TfHtAW… (3.9 s tras él; precio -44.0% frente al suyo) · resultado -37.96 $
 2026-11-11 03:20:49 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-11 03:20:50 escuchando 1 cartera(s)
+2026-11-11 03:26:27 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-11 03:26:28 escuchando 1 cartera(s)
+2026-11-11 03:31:45 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-11 03:31:46 escuchando 1 cartera(s)
