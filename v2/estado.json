@@ -10,19 +10,14 @@
    "coste": 212.23311685555413,
    "decimales": 6
   },
-  "2Er3UtbQGWyNgeKMyUs218i11Z6v4gtfgwmqoSNPpump": {
-   "tokens": 478855.670364,
-   "coste": 104.18505095513206,
-   "decimales": 6
-  },
   "2T56GBrvcyeWWyhUAzsTFW4AcFag1nr7xyzrtZn7pump": {
-   "tokens": 197014.685363,
-   "coste": 28.940744262953,
+   "tokens": 242560.310692,
+   "coste": 48.234663977094286,
    "decimales": 6
   }
  },
  "dia": "2026-11-12",
- "realizado_dia": -64.66738599898899,
+ "realizado_dia": -125.00245095412104,
  "pausado": false,
  "ventas_pendientes": {}
 }

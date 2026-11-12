@@ -195,3 +195,6 @@
 2026-11-12 20:58:08 compra $9.65 de 2T56GBrv… (9.3 s tras él; precio -4.9% frente al suyo)
 2026-11-12 21:01:25 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-12 21:01:26 escuchando 1 cartera(s)
+2026-11-12 21:11:32 compra $19.29 de 2T56GBrv… (1.5 s tras él; precio +3.4% frente al suyo)
+2026-11-12 21:11:49 venta $24.95 de 2Er3UtbQ… (1.1 s tras él; precio -4.1% frente al suyo) · resultado -27.14 $
+2026-11-12 21:11:58 venta $18.90 de 2Er3UtbQ… (1.5 s tras él; precio -2.8% frente al suyo) · resultado -33.19 $
