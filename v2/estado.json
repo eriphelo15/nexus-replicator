@@ -6,18 +6,18 @@
    "decimales": 6
   },
   "FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat": {
-   "tokens": 298399.600231,
-   "coste": 212.23311685555413,
+   "tokens": 149199.8001155,
+   "coste": 106.11655842777706,
    "decimales": 6
   },
   "2T56GBrvcyeWWyhUAzsTFW4AcFag1nr7xyzrtZn7pump": {
-   "tokens": 301820.060569,
-   "coste": 86.82250340537685,
+   "tokens": 362019.03013500007,
+   "coste": 144.7042625478007,
    "decimales": 6
   }
  },
  "dia": "2026-11-12",
- "realizado_dia": -125.00245095412104,
+ "realizado_dia": -170.48879538189811,
  "pausado": false,
  "ventas_pendientes": {}
 }
