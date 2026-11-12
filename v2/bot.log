@@ -177,3 +177,5 @@
 2026-11-12 16:54:45 compra ignorada por antigua (20 s): 5rmqMrazgLSp
 2026-11-12 17:08:57 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-12 17:08:58 escuchando 1 cartera(s)
+2026-11-12 17:34:20 modo simulado · cartera del bot simulado · capital $5000
+2026-11-12 17:34:32 escuchando 1 cartera(s)
