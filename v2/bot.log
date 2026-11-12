@@ -160,3 +160,5 @@
 2026-11-12 06:13:42 escuchando 1 cartera(s)
 2026-11-12 11:54:01 modo simulado · cartera del bot simulado · capital $5000
 2026-11-12 11:54:13 escuchando 1 cartera(s)
+2026-11-12 15:13:16 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-12 15:13:17 escuchando 1 cartera(s)
