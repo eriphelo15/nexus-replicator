@@ -1,0 +1,527 @@
+{
+ "AgNaa6DLja2Nc5KEu3oEJ9Aan7shFFDB96fg6N7unxWS": {
+  "final": 35,
+  "ret_pct": -99.3,
+  "caja": 9,
+  "abierto": 26,
+  "compras": 370
+ },
+ "CRp7jEiku5KwrXpQfKNN9ci7eEGXz2HRkS7PdfgBKgEB": {
+  "final": 23,
+  "ret_pct": -99.5,
+  "caja": 3,
+  "abierto": 20,
+  "compras": 477
+ },
+ "DjnTejjkwt4K1QgRfENuxKpqXDaSseXdDLTzkAY6TifK": {
+  "final": 30,
+  "ret_pct": -99.4,
+  "caja": 0,
+  "abierto": 30,
+  "compras": 415
+ },
+ "DSmkz9ztNRJGjqWMB3zmxR6bTg1y42AvSZciWj3f74Ut": {
+  "final": 541,
+  "ret_pct": -89.2,
+  "caja": 5,
+  "abierto": 535,
+  "compras": 345
+ },
+ "FLGW5etibcTAwvj3aS5HGqqjwXgJ2tNRdSjibPaUrj84": {
+  "final": 62,
+  "ret_pct": -98.8,
+  "caja": 10,
+  "abierto": 52,
+  "compras": 358
+ },
+ "66B95ED19CLsJtsVYPkTBQT3EZPPpEawCimCPruVucSX": {
+  "final": 15924,
+  "ret_pct": 218.5,
+  "caja": 8275,
+  "abierto": 7648,
+  "compras": 1245
+ },
+ "BnnNJJgy9w2MLQ9XBKJKG9FQa2r9qdW7u5VpzEkwUcc3": {
+  "final": 9,
+  "ret_pct": -99.8,
+  "caja": 6,
+  "abierto": 3,
+  "compras": 807
+ },
+ "7BuAFcBcZ7ZRkGr9FHUMahrLFXmzfz2Er2Kqih7oJeXU": {
+  "final": 28,
+  "ret_pct": -99.4,
+  "caja": 9,
+  "abierto": 18,
+  "compras": 362
+ },
+ "3XSYLa8VqkTV4RxKGG92nQb3gPziFFFEVLCYkEaEtZ5k": {
+  "final": 56,
+  "ret_pct": -98.9,
+  "caja": 3,
+  "abierto": 53,
+  "compras": 720
+ },
+ "8LBfYVFKUucSmzRE4sued1VYAb6CoDSEhpnoBsH4aQxA": {
+  "final": 74,
+  "ret_pct": -98.5,
+  "caja": 2,
+  "abierto": 72,
+  "compras": 498
+ },
+ "3VjkDRH1M9mZ9gNfHWzTmSvydJ6CwXamsN74rndZrrpk": {
+  "final": 12305,
+  "ret_pct": 146.1,
+  "caja": 8,
+  "abierto": 12297,
+  "compras": 1858
+ },
+ "F5CymCUo7E2MQGxfYFxBSTk6PaBbQyqMporpPdu6iWF9": {
+  "final": 7699,
+  "ret_pct": 54.0,
+  "caja": 7,
+  "abierto": 7692,
+  "compras": 931
+ },
+ "FHgfsbUcqdd9iXY75yN2KErCnVsxNYwo486nYzFuTVc8": {
+  "final": 36248,
+  "ret_pct": 625.0,
+  "caja": 30919,
+  "abierto": 5329,
+  "compras": 2280
+ },
+ "9H8xpLFE9p7kHDJG3S2JLqigy1VuvuohgFfECnVJtUBj": {
+  "final": 5497,
+  "ret_pct": 9.9,
+  "caja": 6,
+  "abierto": 5491,
+  "compras": 1613
+ },
+ "6dtUFfjQfQ35tkwGRMs3NFsF9sYn3mRV4UtGaC4uBh8J": {
+  "final": 8871,
+  "ret_pct": 77.4,
+  "caja": 0,
+  "abierto": 8871,
+  "compras": 2300
+ },
+ "3tgpbmw99da6WFPfPh7uRPMLpEhSjuj8JMRXrPD2wiYA": {
+  "final": 21689,
+  "ret_pct": 333.8,
+  "caja": 10841,
+  "abierto": 10849,
+  "compras": 2288
+ },
+ "777777UupVYr364fUHXwqBRMnNaVcpAw2z3uhFkspnNn": {
+  "final": 25,
+  "ret_pct": -99.5,
+  "caja": 7,
+  "abierto": 18,
+  "compras": 554
+ },
+ "G3g1CKqKWSVEVURZDNMazDBv7YAhMNTjhJBVRTiKZygk": {
+  "final": 10,
+  "ret_pct": -99.8,
+  "caja": 10,
+  "abierto": 0,
+  "compras": 433
+ },
+ "GTbewYgEC6YqQqkWpSJdb7PkJdQ1eGxvUGYNyaMioMq": {
+  "final": 5,
+  "ret_pct": -99.9,
+  "caja": 5,
+  "abierto": 0,
+  "compras": 279
+ },
+ "81EdcQ2ocKm4AcF6vz9RCR53c2GVEd8TsJaQAU92JwAm": {
+  "final": 3,
+  "ret_pct": -99.9,
+  "caja": 3,
+  "abierto": 0,
+  "compras": 256
+ },
+ "GpNHGPQXQEnrrbL8paxGdEWrNEvdFcZFVtC6ztMoYuYo": {
+  "final": 28,
+  "ret_pct": -99.4,
+  "caja": 10,
+  "abierto": 18,
+  "compras": 401
+ },
+ "A1igHDVAzKcGUAbVMFV8HrCCSUfcs5YzVfW3i9895pdW": {
+  "final": 14,
+  "ret_pct": -99.7,
+  "caja": 10,
+  "abierto": 5,
+  "compras": 351
+ },
+ "ZZGtLggQHdZ2LgkDtnbJ1eVQMYLpQN7H1fjCGZAw8G1": {
+  "final": 26,
+  "ret_pct": -99.5,
+  "caja": 9,
+  "abierto": 17,
+  "compras": 424
+ },
+ "Ebux1vXaJYiugKxnBNgQbsBjbjjFK1K2k1zXjkD3tqDk": {
+  "final": 46,
+  "ret_pct": -99.1,
+  "caja": 7,
+  "abierto": 38,
+  "compras": 921
+ },
+ "B7cRRKmjDt5KkFKfhD3NicgwywvkicgHvqVySU4LN4od": {
+  "final": 145,
+  "ret_pct": -97.1,
+  "caja": 8,
+  "abierto": 137,
+  "compras": 497
+ },
+ "D5r4WKC9U1S2eGXEAoq4skicE8moTZ8RTCtnhoX4dDLY": {
+  "final": 66,
+  "ret_pct": -98.7,
+  "caja": 9,
+  "abierto": 57,
+  "compras": 219
+ },
+ "xMAs4Be4Ln62n5uBo1DcGkSkfUx6bHbb4jSCb9vvu9U": {
+  "final": 15,
+  "ret_pct": -99.7,
+  "caja": 6,
+  "abierto": 9,
+  "compras": 823
+ },
+ "5PE3gSfywhfjq5u5SHf6G3XRNeWkqoy6URZYSRCsXwEf": {
+  "final": 48,
+  "ret_pct": -99.0,
+  "caja": 0,
+  "abierto": 48,
+  "compras": 201
+ },
+ "8YpojbwdE8k5Qj7VnvCsjjuTL7CAQVCS8Ft9HBcEtMxt": {
+  "final": 3180,
+  "ret_pct": -36.4,
+  "caja": 3101,
+  "abierto": 79,
+  "compras": 1704
+ },
+ "pau23UpU2BFwF4JZrLxAnf4ZqgnD3xLnz6ESu7vPsao": {
+  "final": 9,
+  "ret_pct": -99.8,
+  "caja": 9,
+  "abierto": 0,
+  "compras": 587
+ },
+ "6smonisYPY4FxvSuF1FxX6iXwX6dSkrAybqFfDod988u": {
+  "final": 151,
+  "ret_pct": -97.0,
+  "caja": 5,
+  "abierto": 146,
+  "compras": 212
+ },
+ "CMcdFuBcRi68oKhUCmG6NXEGaxzRaQGvPpaD9jZfLTPq": {
+  "final": 156,
+  "ret_pct": -96.9,
+  "caja": 9,
+  "abierto": 146,
+  "compras": 535
+ },
+ "CdiaH9LhKFLZTebpN3qgSqva3DnYUrwizxBmTFSTntMr": {
+  "final": 2352,
+  "ret_pct": -53.0,
+  "caja": 9,
+  "abierto": 2343,
+  "compras": 929
+ },
+ "EqgpVyzFTpuDTDmsSi9a8t5WXoAwfXxvBKBdLeXTyr4w": {
+  "final": 8,
+  "ret_pct": -99.8,
+  "caja": 8,
+  "abierto": 0,
+  "compras": 531
+ },
+ "FAFKKrWCpP3ayUnvuDCFUXroE8C63c4sbNDaGJbouC62": {
+  "final": 102,
+  "ret_pct": -98.0,
+  "caja": 0,
+  "abierto": 102,
+  "compras": 513
+ },
+ "365ox2yoGYXQfzubohqCgzhg2MrG5PKxBRi4p9gpNQGi": {
+  "final": 0,
+  "ret_pct": -100.0,
+  "caja": 0,
+  "abierto": 0,
+  "compras": 442
+ },
+ "CCCCQCrL6zVjnDeucDzcxJgxAs5ahNmrhw1CDexPhqrd": {
+  "final": 38,
+  "ret_pct": -99.2,
+  "caja": 9,
+  "abierto": 29,
+  "compras": 1053
+ },
+ "FmNRWeuCDAzS9ZE15VaNJHo3cti9QLLrZ1csezPeNf8j": {
+  "final": 8,
+  "ret_pct": -99.8,
+  "caja": 0,
+  "abierto": 8,
+  "compras": 385
+ },
+ "BXGo9i9bWJPBNyjpfhjGF8NdYaJLeZvmhNsCLZLxZLxD": {
+  "final": 73,
+  "ret_pct": -98.5,
+  "caja": 7,
+  "abierto": 66,
+  "compras": 565
+ },
+ "xHT3HtNsBUoGdUvZZErujef57PtkD95fDRVmQFPzeqz": {
+  "final": 768,
+  "ret_pct": -84.6,
+  "caja": 0,
+  "abierto": 768,
+  "compras": 249
+ },
+ "vv4FfLXETqKSrezvc2ygQoWZANyygW4T5xE9bqNfEJQ": {
+  "final": 4170,
+  "ret_pct": -16.6,
+  "caja": 0,
+  "abierto": 4170,
+  "compras": 344
+ },
+ "9YzsADihJcvGx4cgnZfHxQ1jM13dgLNV8CB21iiby9yo": {
+  "final": 2377,
+  "ret_pct": -52.5,
+  "caja": 0,
+  "abierto": 2377,
+  "compras": 287
+ },
+ "7a459iH3KKLSogfGPaVpkrePnogHHRCdGLVkZ9LcENx5": {
+  "final": 8,
+  "ret_pct": -99.8,
+  "caja": 8,
+  "abierto": 0,
+  "compras": 431
+ },
+ "HJtmHy8PJiWacBgNRaRHSQU3o9ZAGA1Y1mpab7BVgRv3": {
+  "final": 10,
+  "ret_pct": -99.8,
+  "caja": 10,
+  "abierto": 0,
+  "compras": 177
+ },
+ "9fpUmh3Tv3UCdeHLyq3o4QhkTBu5XAbEiKP9FtGaSndb": {
+  "final": 3,
+  "ret_pct": -99.9,
+  "caja": 0,
+  "abierto": 3,
+  "compras": 503
+ },
+ "9bEz2KaB3fsEUrRJFuCx46Zt8kR7o1HL19q4P8NMERij": {
+  "final": 8,
+  "ret_pct": -99.8,
+  "caja": 8,
+  "abierto": 0,
+  "compras": 359
+ },
+ "4PY3MLrKPV4H3k477XYNC5ngGnYivstKhjc4e28ajYRu": {
+  "final": 75,
+  "ret_pct": -98.5,
+  "caja": 7,
+  "abierto": 67,
+  "compras": 375
+ },
+ "QcfEcSUmAnwbVbZ6eVzkoazHKePaAJK6Sf96xC7Hba6": {
+  "final": 7,
+  "ret_pct": -99.9,
+  "caja": 7,
+  "abierto": 0,
+  "compras": 320
+ },
+ "6yUEc3nZPs12WnDXJwSDyPBUWktnz2tYgAyU5KpK74zK": {
+  "final": 607,
+  "ret_pct": -87.9,
+  "caja": 8,
+  "abierto": 599,
+  "compras": 265
+ },
+ "EiARpY3ySYhBUxhVpDENLDobn56azHPEZeP6ExdNk4TQ": {
+  "final": 0,
+  "ret_pct": -100.0,
+  "caja": 0,
+  "abierto": 0,
+  "compras": 220
+ },
+ "5DxSJt88LYpwceUrjyNbxtqRTNHDtpYq7H5gTbFEcUuF": {
+  "final": 6318,
+  "ret_pct": 26.4,
+  "caja": 4069,
+  "abierto": 2249,
+  "compras": 1834
+ },
+ "richrE1u1qg6xaoQp5pdt26Yz8QXsiEPJj27zR1Ecr5": {
+  "final": 140,
+  "ret_pct": -97.2,
+  "caja": 7,
+  "abierto": 133,
+  "compras": 205
+ },
+ "CJhf7uawjdHmxb3nrpLBcUcDzgiy1TWWiBbXtEjyjtRQ": {
+  "final": 10,
+  "ret_pct": -99.8,
+  "caja": 8,
+  "abierto": 2,
+  "compras": 347
+ },
+ "sAsaRifnQWvxQoQp6EKGX8KnNT2StrTL1ugwdM63Mao": {
+  "final": 282,
+  "ret_pct": -94.4,
+  "caja": 7,
+  "abierto": 275,
+  "compras": 336
+ },
+ "7WpEMRyV2Drs7FRNeD9XpdT3nCpqyqj2QYyVSJ4XKYnn": {
+  "final": 4817,
+  "ret_pct": -3.7,
+  "caja": 4800,
+  "abierto": 17,
+  "compras": 2
+ },
+ "FSonjuxwRm4Je4y3ZDz2HjNtonFtgZJzGaUigurovFDu": {
+  "final": 4817,
+  "ret_pct": -3.7,
+  "caja": 4800,
+  "abierto": 17,
+  "compras": 2
+ },
+ "2HdMUxayPKVUxEqb2jP9m1LVFJ4bnEACXAKsSEyaLcjT": {
+  "final": 9,
+  "ret_pct": -99.8,
+  "caja": 9,
+  "abierto": 0,
+  "compras": 136
+ },
+ "CgX91SKMB7ecBGa9Cdcp9wKjTbvqK4GjCRZc8xm4Jr3E": {
+  "final": 8,
+  "ret_pct": -99.8,
+  "caja": 8,
+  "abierto": 0,
+  "compras": 300
+ },
+ "5QWTntgGLtsnag7rDTLFd8MDZ4KRgi6ErPfitdWYQsm6": {
+  "final": 9,
+  "ret_pct": -99.8,
+  "caja": 9,
+  "abierto": 0,
+  "compras": 395
+ },
+ "GKC43VVbJob1HSLLsA6bhXNQgmqD98kpbwe43n7awKDh": {
+  "final": 27,
+  "ret_pct": -99.5,
+  "caja": 0,
+  "abierto": 27,
+  "compras": 384
+ },
+ "EHg5YkU2SZBTvuT87rUsvxArGp3HLeye1fXaSDfuMyaf": {
+  "final": 1097,
+  "ret_pct": -78.1,
+  "caja": 3,
+  "abierto": 1094,
+  "compras": 789
+ },
+ "DwxG2MRq2KxYkNMXHSewkFtDKpoytsB5CzwmW1g3Tat1": {
+  "final": 10,
+  "ret_pct": -99.8,
+  "caja": 10,
+  "abierto": 0,
+  "compras": 539
+ },
+ "5Q7sU7RaR6XNcztFRzDgyDRod2CPmiuq8apJp6DpjsUM": {
+  "final": 27,
+  "ret_pct": -99.5,
+  "caja": 10,
+  "abierto": 18,
+  "compras": 530
+ },
+ "CHvWpTWTZXUMvWfX7jmy8vhHbAqn6YvLc8wBxXYi4KiW": {
+  "final": 26,
+  "ret_pct": -99.5,
+  "caja": 10,
+  "abierto": 17,
+  "compras": 351
+ },
+ "8HjCkASq2W2U4thveYTpgqTEW9526hLAk8sMK9ihBH5Y": {
+  "final": 9,
+  "ret_pct": -99.8,
+  "caja": 5,
+  "abierto": 3,
+  "compras": 365
+ },
+ "7k1xbXDgf7fdLqe6CQGiqgiMKsBptYEz9e7f588sWd4r": {
+  "final": 9,
+  "ret_pct": -99.8,
+  "caja": 9,
+  "abierto": 0,
+  "compras": 1412
+ },
+ "DxhpC9c4kGkYJR34xUrfFeDx9vwb6yoHUMWrTCZybwtH": {
+  "final": 32,
+  "ret_pct": -99.4,
+  "caja": 0,
+  "abierto": 32,
+  "compras": 498
+ },
+ "EsToPAbqqcEkDijns17sejTNi9FvE2bT3rMRZxCY7Gca": {
+  "final": 13,
+  "ret_pct": -99.7,
+  "caja": 9,
+  "abierto": 4,
+  "compras": 442
+ },
+ "7bRKHriCHw5keDPPsTXx8vWZo3npMtuGeevMyMEseUTb": {
+  "final": 10,
+  "ret_pct": -99.8,
+  "caja": 1,
+  "abierto": 9,
+  "compras": 588
+ },
+ "9QTHeFTWysTe4NEriJoQSbMP7enGFGKKUkrD4JJUFDxx": {
+  "final": 5,
+  "ret_pct": -99.9,
+  "caja": 0,
+  "abierto": 5,
+  "compras": 398
+ },
+ "348Xv4PvbMXLR4HFUbmowskWgwTnP5bVTzKVmD1fin97": {
+  "final": 74,
+  "ret_pct": -98.5,
+  "caja": 9,
+  "abierto": 64,
+  "compras": 394
+ },
+ "5jAjuoyB5zBLTjqRRML7CHxVkaL5bSZaV3rYZehVLEDV": {
+  "final": 74,
+  "ret_pct": -98.5,
+  "caja": 9,
+  "abierto": 65,
+  "compras": 269
+ },
+ "4Xt42F1RdP3hmS44Nf94C4atsmsrfPgiqqKCVkhhrhvP": {
+  "final": 38,
+  "ret_pct": -99.2,
+  "caja": 8,
+  "abierto": 30,
+  "compras": 545
+ },
+ "FBvxneTq8dY7WKxj924CseuveWzDL5tN9JuSW3S9nJkN": {
+  "final": 14689,
+  "ret_pct": 193.8,
+  "caja": 0,
+  "abierto": 14689,
+  "compras": 352
+ },
+ "D6Fuvs4DATozxeV5fdr14xtZYCQDRfZzEmhGrjm3BgwG": {
+  "final": 426,
+  "ret_pct": -91.5,
+  "caja": 7,
+  "abierto": 419,
+  "compras": 525
+ }
+}
