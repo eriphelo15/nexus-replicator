@@ -1,18 +1,18 @@
 {
  "posiciones": {
   "HXxJdaQbrYRvwTAM8M8mUPyoRPvmyuUbPFBRkiAAMASS": {
-   "tokens": 384797.01613899996,
-   "coste": 163.99831757020092,
+   "tokens": 192398.50806950754,
+   "coste": 81.99915878510369,
    "decimales": 6
   },
   "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump": {
-   "tokens": 104127.270925,
-   "coste": 212.23311685555416,
+   "tokens": 139920.39328900003,
+   "coste": 289.4087957121193,
    "decimales": 6
   }
  },
  "dia": "2026-11-13",
- "realizado_dia": -268.65866740284935,
+ "realizado_dia": -281.18455818794655,
  "pausado": false,
  "ventas_pendientes": {}
 }
