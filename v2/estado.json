@@ -5,11 +5,6 @@
    "coste": 144.70439785605964,
    "decimales": 6
   },
-  "FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat": {
-   "tokens": 149199.8001155,
-   "coste": 106.11655842777706,
-   "decimales": 6
-  },
   "2T56GBrvcyeWWyhUAzsTFW4AcFag1nr7xyzrtZn7pump": {
    "tokens": 591157.692197,
    "coste": 318.3495399750723,
@@ -17,7 +12,7 @@
   }
  },
  "dia": "2026-11-13",
- "realizado_dia": 0.0,
+ "realizado_dia": -55.73668042777707,
  "pausado": false,
  "ventas_pendientes": {}
 }
