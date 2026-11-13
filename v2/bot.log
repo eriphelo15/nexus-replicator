@@ -302,3 +302,5 @@
 2026-11-13 17:01:14 escuchando 1 cartera(s)
 2026-11-13 17:04:48 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-13 17:04:50 escuchando 1 cartera(s)
+2026-11-13 17:09:31 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-13 17:09:34 escuchando 1 cartera(s)
