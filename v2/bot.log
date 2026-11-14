@@ -404,3 +404,5 @@
 2026-11-14 16:44:18 compra $9.65 de 7SL2VnfY… (1.9 s tras él; precio +1.0% frente al suyo)
 2026-11-14 16:48:37 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-14 16:48:38 escuchando 1 cartera(s)
+2026-11-14 20:20:32 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-14 20:20:34 escuchando 1 cartera(s)
