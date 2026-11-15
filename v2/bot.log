@@ -429,3 +429,9 @@
 2026-11-15 19:17:24 compra $1.93 de 9HFUEab7… (2.0 s tras él; precio -1.4% frente al suyo)
 2026-11-15 19:17:24 compra $1.93 de 9HFUEab7… (2.3 s tras él; precio -3.7% frente al suyo)
 2026-11-15 19:17:25 compra $1.93 de 9HFUEab7… (2.2 s tras él; precio -3.1% frente al suyo)
+2026-11-15 19:19:05 modo simulado · cartera del bot simulado · capital $5000
+2026-11-15 19:19:06 escuchando 1 cartera(s)
+2026-11-15 19:21:13 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-15 19:21:14 escuchando 1 cartera(s)
+2026-11-15 19:25:27 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-15 19:25:28 escuchando 1 cartera(s)
