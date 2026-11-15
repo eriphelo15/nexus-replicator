@@ -497,3 +497,8 @@
 2026-11-15 21:38:20 escuchando 1 cartera(s)
 2026-11-15 21:38:22 compra $1.93 de 8dbLrW3Z… (12.4 s tras él; precio +14.8% frente al suyo)
 2026-11-15 21:38:22 compra $1.93 de 8dbLrW3Z… (11.5 s tras él; precio -5.9% frente al suyo)
+2026-11-15 21:45:07 compra $1.93 de 8dbLrW3Z… (11.5 s tras él; precio +1.9% frente al suyo)
+2026-11-15 21:46:22 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-15 21:46:23 escuchando 1 cartera(s)
+2026-11-15 21:49:09 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-15 21:49:11 escuchando 1 cartera(s)
