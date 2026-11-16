@@ -1,0 +1,218 @@
+[
+ {
+  "dir": "0xe6fe2362f915d627ecbf401b0ceef3dd2b2b79bd",
+  "final": 10055.257517471979,
+  "ret": 0.005525751747197827,
+  "peor_dd": 0.11473877010241484,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 86.44183079861111
+ },
+ {
+  "dir": "0xc7aec2406d3b67cf635b9cf48361f888e75c920f",
+  "final": 9931.73520877445,
+  "ret": -0.006826479122555074,
+  "peor_dd": 0.2178866307008206,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 86.21440885416666
+ },
+ {
+  "dir": "0xe31501c472d557bfa145ce105d325fb2dd4cb867",
+  "final": 9725.266468510577,
+  "ret": -0.02747335314894228,
+  "peor_dd": 0.09204377691882049,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 5.26930619212963
+ },
+ {
+  "dir": "0xb13380849b95f9c890987016f1565d1ac2d96b2e",
+  "final": 10976.071612296517,
+  "ret": 0.09760716122965163,
+  "peor_dd": 0.2913317479832588,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 88.61249527777778
+ },
+ {
+  "dir": "0x5e7348aa9ab8ddbc44e22f90a402ba4d996befdb",
+  "final": 10071.3607102344,
+  "ret": 0.007136071023440049,
+  "peor_dd": 0.13884012999052575,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 28.78256929398148
+ },
+ {
+  "dir": "0x7759d4dca0b4467314ba08d22dfdb6dac9c22a8b",
+  "final": 10323.278879027124,
+  "ret": 0.03232788790271246,
+  "peor_dd": 0.12144407042531324,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 87.67851178240741
+ },
+ {
+  "dir": "0x8bae3527e5a33fa0cf184f37bc112d071463ab6d",
+  "final": 17103.141201375653,
+  "ret": 0.7103141201375653,
+  "peor_dd": 0.09451723940720935,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 85.3083028125
+ },
+ {
+  "dir": "0x8cbe593aa5b6fffb5254429d1812abdbd1f06959",
+  "final": 8536.361710195719,
+  "ret": -0.1463638289804281,
+  "peor_dd": 0.33462026517633314,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 88.51596291666667
+ },
+ {
+  "dir": "0xdf1cdd59b69ee403bc38c5ea4f33234f9bb5948d",
+  "final": 4021.1366262825736,
+  "ret": -0.5978863373717427,
+  "peor_dd": 0.6050210330847918,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 88.35525616898148
+ },
+ {
+  "dir": "0x79914208fc06eabb0a94e595c9a5f9da0551e3a2",
+  "final": 15202.507245112767,
+  "ret": 0.5202507245112766,
+  "peor_dd": 0.12724970189879792,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 88.18265743055555
+ },
+ {
+  "dir": "0x8d7d49eb9715a93eef4843b357cad5f5b9be7bda",
+  "final": 9754.487298398779,
+  "ret": -0.02455127016012215,
+  "peor_dd": 0.06635043221892445,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 9.237446122685185
+ },
+ {
+  "dir": "0xd46979f07f5d1e86ae2dcc5e6e0f3af5fe270471",
+  "final": 20378.704692247906,
+  "ret": 1.0378704692247904,
+  "peor_dd": 0.2600305108761056,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 86.10997778935184
+ },
+ {
+  "dir": "0xca7cd4c133338df50398d576c8cae48be76399a2",
+  "final": 13081.038538444831,
+  "ret": 0.30810385384448313,
+  "peor_dd": 0.12577445692203681,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 77.0381930324074
+ },
+ {
+  "dir": "0xf83858e57d9f804f5ca1603bce82558119aeac7b",
+  "final": 13931.376406556925,
+  "ret": 0.39313764065569257,
+  "peor_dd": 0.23626229620599315,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 87.96818483796297
+ },
+ {
+  "dir": "0x4276dcb71aa01041cecdac9eca20d621825927f1",
+  "final": 12047.318965445595,
+  "ret": 0.20473189654455948,
+  "peor_dd": 0.4120889655903942,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 82.86454847222222
+ },
+ {
+  "dir": "0x2c229d22b100a7beb69122eed721cee9b24011dd",
+  "final": 11460.812885993875,
+  "ret": 0.14608128859938763,
+  "peor_dd": 0.04598017006946431,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 69.80992407407408
+ },
+ {
+  "dir": "0x378defc39d5dcdfbecd4f1673a5e228f992fc08e",
+  "final": 10425.796477364076,
+  "ret": 0.042579647736407544,
+  "peor_dd": 0.14912346220835782,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 83.47342622685186
+ },
+ {
+  "dir": "0xe06532a98a541b48f6330d2dd88e2b4b96010d6b",
+  "final": 9439.009330627568,
+  "ret": -0.0560990669372432,
+  "peor_dd": 0.24774352932125376,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 84.03469929398148
+ },
+ {
+  "dir": "0x739ccf4aa388ddade09316f7aee5ed0ec7ae5739",
+  "final": 10810.95873049951,
+  "ret": 0.08109587304995092,
+  "peor_dd": 0.10650080014896512,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 84.27847025462962
+ },
+ {
+  "dir": "0x3999dfa662fd548950bbcb7d9fabedeba39456e6",
+  "final": 5628.741750745997,
+  "ret": -0.4371258249254003,
+  "peor_dd": 0.5832019478494244,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 70.86185644675926
+ },
+ {
+  "dir": "0x69b05701f8175c276ecd0138387a197948e240bb",
+  "final": 11497.4564875003,
+  "ret": 0.14974564875002994,
+  "peor_dd": 0.06675273047621832,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 89.11303657407407
+ },
+ {
+  "dir": "0x1404109f8cd4a79a0447365edbb7a13acd0b2f27",
+  "final": 11013.545900503268,
+  "ret": 0.10135459005032676,
+  "peor_dd": 0.14444139506090536,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 88.00869359953704
+ },
+ {
+  "dir": "0x1ac7f5d81b4521efd034cff1a1b7f4ef9ac9b4dd",
+  "final": 11317.060227698845,
+  "ret": 0.13170602276988452,
+  "peor_dd": 0.4230533513337862,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 78.95578873842592
+ },
+ {
+  "dir": "0x26407a88d2f1d894e05bb7bd3807a48383c0e527",
+  "final": 12906.404546977086,
+  "ret": 0.2906404546977086,
+  "peor_dd": 0.2775616915136374,
+  "cuenta_perdida": false,
+  "dias_cortados": 0,
+  "dias": 89.84618739583334
+ }
+]
