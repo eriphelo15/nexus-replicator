@@ -7,6 +7,9 @@ name: Perps simulado
 # Para una prueba nueva: cambiar HASTA y volver a activarlo (Enable workflow).
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["perps/bot/**", ".github/workflows/perps-simulado.yml"]
   schedule:
     - cron: "*/30 * * * *"
 
