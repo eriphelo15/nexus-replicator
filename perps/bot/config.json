@@ -1,0 +1,19 @@
+{
+  "capital_usd": 10000,
+  "apalancamiento_max": 3.0,
+  "comision": 0.00045,
+  "desliz": {"normal": 0.0005, "hip3": 0.0015},
+  "min_operacion_usd": 5,
+  "traders": {
+    "0x8bae3527e5a33fa0cf184f37bc112d071463ab6d": {"nombre": "8bae", "perfil": "conservador", "peso": 0.1},
+    "0xca7cd4c133338df50398d576c8cae48be76399a2": {"nombre": "ca7c", "perfil": "conservador", "peso": 0.1},
+    "0x03ef8f736498047c3349bb2c18311d1bb4a79054": {"nombre": "03ef", "perfil": "conservador", "peso": 0.1},
+    "0x69b05701f8175c276ecd0138387a197948e240bb": {"nombre": "69b0", "perfil": "conservador", "peso": 0.1},
+    "0x2312171890250347dbf1b082bdf7950504909e92": {"nombre": "2312", "perfil": "conservador", "peso": 0.1},
+    "0xd46979f07f5d1e86ae2dcc5e6e0f3af5fe270471": {"nombre": "d469", "perfil": "agresivo", "peso": 0.1},
+    "0xf53cab0c6f25f48f985d1e2c40e03fc7c1963364": {"nombre": "f53c", "perfil": "agresivo", "peso": 0.1},
+    "0xf83858e57d9f804f5ca1603bce82558119aeac7b": {"nombre": "f838", "perfil": "agresivo", "peso": 0.1},
+    "0x838d8e13ec1010e7851b3dc333699db885f2520c": {"nombre": "838d", "perfil": "agresivo", "peso": 0.1},
+    "0x92ec1dd166d6271a4f2780e8223d00f4ba3d3f44": {"nombre": "92ec", "perfil": "agresivo", "peso": 0.1}
+  }
+}
