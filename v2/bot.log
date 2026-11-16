@@ -540,3 +540,5 @@
 2026-11-16 00:13:39 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-16 00:13:40 escuchando 1 cartera(s)
 2026-11-16 00:16:50 venta $10.42 de 8dbLrW3Z… (3.4 s tras él; precio -0.5% frente al suyo) · resultado -30.09 $
+2026-11-16 00:40:52 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-16 00:40:57 escuchando 1 cartera(s)
