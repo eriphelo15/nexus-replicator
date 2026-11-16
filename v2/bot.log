@@ -563,3 +563,5 @@
 2026-11-16 14:20:09 venta $141.09 de 9HFUEab7… (0.9 s tras él; precio -2.5% frente al suyo) · resultado +105.40 $
 2026-11-16 14:28:21 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-16 14:28:22 escuchando 1 cartera(s)
+2026-11-16 14:35:42 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-16 14:35:43 escuchando 1 cartera(s)
