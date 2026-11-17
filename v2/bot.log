@@ -661,3 +661,6 @@
 2026-11-17 16:11:12 escuchando 1 cartera(s)
 2026-11-17 16:41:55 modo simulado · cartera del bot simulado · capital $5000
 2026-11-17 16:41:59 escuchando 1 cartera(s)
+2026-11-17 19:40:08 venta $38.44 de Dys6SYbj… (2.0 s tras él; precio -8.8% frente al suyo) · resultado -4.01 $
+2026-11-17 19:40:44 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-17 19:40:46 escuchando 1 cartera(s)
