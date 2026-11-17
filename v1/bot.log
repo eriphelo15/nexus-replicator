@@ -29,3 +29,5 @@
 2026-11-17 11:52:51 838d cierra HYPE +4.114 -> +0 @ 69.0904 (284 $) realizado +1.52 $ [fill]
 2026-11-17 12:53:33 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-17 12:53:34 escuchando 10 traders
+2026-11-17 14:30:53 838d abre HYPE +0 -> +2.454 @ 69.5062 (171 $) realizado +0.00 $ [fill]
+2026-11-17 14:36:07 838d ajusta HYPE +2.454 -> +3.264 @ 69.7931 (57 $) realizado +0.00 $ [fill]
