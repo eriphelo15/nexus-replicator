@@ -22,3 +22,6 @@
 2026-11-17 11:10:00 modo simulado · capital 10000 $ · 10 traders
 2026-11-17 11:10:00 escuchando 10 traders
 2026-11-17 11:11:20 838d cierra HYPE +3.308 -> +0 @ 68.6501 (227 $) realizado +0.91 $ [fill]
+2026-11-17 11:20:35 838d abre BTC +0 -> +0.004408 @ 64396.2 (284 $) realizado +0.00 $ [fill]
+2026-11-17 11:25:35 838d cierra BTC +0.004408 -> +0 @ 64333.8 (284 $) realizado -0.27 $ [fill]
+2026-11-17 11:27:58 838d abre HYPE +0 -> +3.292 @ 68.6461 (226 $) realizado +0.00 $ [fill]
