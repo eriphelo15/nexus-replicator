@@ -1,18 +1,7 @@
 {
- "posiciones": {
-  "MAXXib7SQAQn4ymrwhhR9qMRUcYv8BNhbQxizJn5CCk": {
-   "tokens": 325719.42091000004,
-   "coste": 35.69188761604406,
-   "decimales": 6
-  },
-  "HCNhQCu5nrmWhSE3mo7fRU9eGiGLmi2fnE8omgLpump": {
-   "tokens": 206481.50822299998,
-   "coste": 86.82263871363574,
-   "decimales": 6
-  }
- },
+ "posiciones": {},
  "dia": "2026-11-18",
- "realizado_dia": -53.738466927527575,
+ "realizado_dia": -152.98712525720737,
  "pausado": false,
  "ventas_pendientes": {}
 }
