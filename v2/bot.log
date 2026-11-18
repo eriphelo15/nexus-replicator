@@ -751,3 +751,5 @@
 2026-11-18 21:52:26 compra de Ffsmhbvk demasiado pequeña o límites llenos ($0.19)
 2026-11-18 21:52:48 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-18 21:52:49 escuchando 1 cartera(s)
+2026-11-18 21:59:49 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-18 21:59:50 escuchando 1 cartera(s)
