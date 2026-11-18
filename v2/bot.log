@@ -672,3 +672,5 @@
 2026-11-17 23:27:58 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-17 23:28:02 escuchando 1 cartera(s)
 2026-11-18 00:51:27 impacto 9.9% demasiado alto en 6ZeMsPdH
+2026-11-18 01:09:41 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-18 01:09:44 escuchando 1 cartera(s)
