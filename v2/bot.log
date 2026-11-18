@@ -705,3 +705,7 @@
 2026-11-18 02:42:01 compra $9.65 de HCNhQCu5… (13.3 s tras él; precio +21.1% frente al suyo)
 2026-11-18 02:42:03 compra $9.65 de HCNhQCu5… (13.5 s tras él; precio +6.9% frente al suyo)
 2026-11-18 02:42:20 venta $33.17 de 35zAdop7… (0.4 s tras él; precio -6.5% frente al suyo) · resultado -24.71 $
+2026-11-18 02:47:15 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-18 02:47:16 escuchando 1 cartera(s)
+2026-11-18 02:50:30 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-18 02:50:31 escuchando 1 cartera(s)
