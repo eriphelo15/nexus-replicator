@@ -735,3 +735,5 @@
 2026-11-18 17:04:50 impacto 57.1% demasiado alto en Ffsmhbvk
 2026-11-18 17:09:17 compra $1.93 de Ffsmhbvk… (5.8 s tras él; precio +7.5% frente al suyo)
 2026-11-18 17:17:45 compra $1.93 de Ffsmhbvk… (1.2 s tras él; precio +8.3% frente al suyo)
+2026-11-18 18:40:50 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-18 18:40:51 escuchando 1 cartera(s)
