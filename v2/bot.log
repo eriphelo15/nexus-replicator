@@ -737,3 +737,5 @@
 2026-11-18 17:17:45 compra $1.93 de Ffsmhbvk… (1.2 s tras él; precio +8.3% frente al suyo)
 2026-11-18 18:40:50 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-18 18:40:51 escuchando 1 cartera(s)
+2026-11-18 20:20:14 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-18 20:20:16 escuchando 1 cartera(s)
