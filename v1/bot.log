@@ -126,3 +126,9 @@
 2026-11-19 00:03:28 escuchando 10 traders
 2026-11-19 02:52:46 modo simulado · capital 10000 $ · 10 traders
 2026-11-19 02:52:47 escuchando 10 traders
+2026-11-19 05:33:10 2312 ajusta xyz:ANT +3.004 -> +2.278 @ 99.9746 (73 $) realizado +1.90 $ [fill]
+2026-11-19 05:34:04 2312 ajusta xyz:ANT +2.278 -> +1.55 @ 99.9562 (73 $) realizado +1.89 $ [fill]
+2026-11-19 05:34:14 2312 ajusta xyz:ANT +1.55 -> +0.8217 @ 99.9685 (73 $) realizado +1.90 $ [fill]
+2026-11-19 05:34:19 2312 ajusta xyz:ANT +0.8217 -> +1.458e-05 @ 99.8653 (82 $) realizado +2.06 $ [fill]
+2026-11-19 05:34:29 2312 cierra xyz:ANT +1.458e-05 -> +0 @ 99.86 (0 $) realizado +0.00 $ [fill]
+2026-11-19 05:42:10 escuchando 10 traders
