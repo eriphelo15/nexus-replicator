@@ -869,3 +869,7 @@
 2026-11-19 20:18:11 escuchando 1 cartera(s)
 2026-11-19 20:22:25 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-19 20:22:27 escuchando 1 cartera(s)
+2026-11-19 20:36:59 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-19 20:37:00 escuchando 1 cartera(s)
+2026-11-19 20:37:08 venta $41.80 de 6MKD1NkL… (1.7 s tras él; precio +1.5% frente al suyo) · resultado +12.86 $
+2026-11-19 20:37:30 venta $35.76 de 6MKD1NkL… (5.0 s tras él; precio -4.6% frente al suyo) · resultado +8.11 $

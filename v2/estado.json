@@ -1,13 +1,13 @@
 {
  "posiciones": {
   "6MKD1NkLvWRqdbFtqmgACBwUV5o6GJpZry8HkNgzpump": {
-   "tokens": 328417.014365,
-   "coste": 115.7635182848477,
+   "tokens": 167860.19155368867,
+   "coste": 59.16893919700155,
    "decimales": 6
   }
  },
  "dia": "2026-11-19",
- "realizado_dia": -107.09236908474664,
+ "realizado_dia": -86.12844117259277,
  "pausado": false,
  "ventas_pendientes": {}
 }
