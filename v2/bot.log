@@ -899,3 +899,12 @@
 2026-11-19 22:06:11 escuchando 1 cartera(s)
 2026-11-19 22:48:26 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-19 22:48:27 escuchando 1 cartera(s)
+2026-11-19 22:57:13 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-19 22:57:18 escuchando 1 cartera(s)
+2026-11-19 23:02:44 compra $96.47 de Q8epAD6h… (7.9 s tras él; precio +51.9% frente al suyo)
+2026-11-19 23:02:59 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-19 23:03:01 escuchando 1 cartera(s)
+2026-11-19 23:03:45 venta $17.64 de Q8epAD6h… (5.2 s tras él; precio +1.6% frente al suyo) · resultado -6.48 $
+2026-11-19 23:04:03 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-19 23:04:04 escuchando 1 cartera(s)
+2026-11-19 23:04:05 venta $33.65 de 6MKD1NkL… (1.8 s tras él; precio -4.2% frente al suyo) · resultado -25.52 $
