@@ -777,3 +777,9 @@
 2026-11-19 00:21:36 escuchando 1 cartera(s)
 2026-11-19 00:27:34 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-19 00:27:40 escuchando 1 cartera(s)
+2026-11-19 00:38:56 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-19 00:38:57 escuchando 1 cartera(s)
+2026-11-19 00:41:02 compra $1.93 de EadD2LMp… (3.7 s tras él; precio +3.5% frente al suyo)
+2026-11-19 00:41:02 compra $1.93 de EadD2LMp… (2.7 s tras él; precio -1.1% frente al suyo)
+2026-11-19 00:43:38 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-19 00:43:39 escuchando 1 cartera(s)
