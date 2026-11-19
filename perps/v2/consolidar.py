@@ -1,9 +1,10 @@
 """Cartera consolidada de los 10 traders del bot (10% del capital cada uno), copia simulada de 90 días.
 Misma lógica que simular_copia.simular (apalancamiento máx. 3x por porción, comisión + deslizamiento, sin funding),
 guardando la curva horaria de cada porción y la ganancia de cada cierre (para PF y % de acierto)."""
-import json, sys, time, bisect, collections
+import json, os, sys, time, bisect, collections
 sys.path.insert(0, ".."); import simular_copia as S
 CAP = 10_000
+MULT = float(os.environ.get("MULT", "1"))   # tamaño de copia respecto a lo proporcional
 TR = json.load(open("../bot/config.json"))["traders"]
 
 def simular(dir_, fills):
@@ -32,9 +33,9 @@ def simular(dir_, fills):
             f = fills[i]; c, px = f["coin"], float(f["px"]); ultimo[c] = px
             suya[c] = float(f["startPosition"]) + float(f["sz"]) * (1 if f["side"] == "B" else -1)
             k = equity(f["time"]) / S.capital_suyo(dir_)(f["time"]) if False else equity(f["time"]) / cap_suyo(f["time"])
-            obj = {cc: q * k for cc, q in suya.items()}
+            obj = {cc: q * k * MULT for cc, q in suya.items()}
             noc = sum(abs(q) * S.precio(cc, f["time"], ultimo.get(cc, px)) for cc, q in obj.items())
-            s = min(1.0, S.APALANCAMIENTO_MAX * equity(f["time"]) / noc) if noc else 1.0
+            s = min(1.0, S.APALANCAMIENTO_MAX * MULT * equity(f["time"]) / noc) if noc else 1.0
             operar(c, obj[c] * s, px); i += 1
         curva[h] = equity(h); h += 3600_000
     return curva, cierres
@@ -70,4 +71,4 @@ r = {"desde": time.strftime("%Y-%m-%d", time.gmtime(inicio / 1000)), "hasta": li
      "dias_positivos": f"{sum(x > 0 for x in rd)}/{len(rd)}", "semanas_positivas": f"{sum(x > 0 for x in semanas)}/{len(semanas)}",
      "peor_dia": round(min(rd), 4), "mejor_dia": round(max(rd), 4), "meses": {k: round(v, 4) for k, v in mres.items()},
      "por_trader": {n: round(val(c, horas[-1]) / val(c, inicio) - 1, 4) for n, c in curvas.items()}}
-json.dump(r, open("consolidado.json", "w"), indent=1); print(json.dumps(r, indent=1))
+json.dump(r, open(f"consolidado{'' if MULT == 1 else f'_x{MULT:g}'}.json", "w"), indent=1); print(json.dumps(r, indent=1))

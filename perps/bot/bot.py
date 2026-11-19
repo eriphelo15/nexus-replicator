@@ -2,7 +2,7 @@
 
 Uso: python bot.py config.json <carpeta_datos>
 - Escucha los fills de cada trader por WebSocket (userFills) y, tras cada fill, ajusta nuestra posición en esa
-  moneda a: su posición x (capital de su porción / capital del trader). Cada trader tiene una porción del capital
+  moneda a: su posición x (capital de su porción / capital del trader) x multiplicador. Cada trader tiene una porción del capital
   (peso) que gana o pierde por separado. Apalancamiento máximo por porción: apalancamiento_max x su capital.
 - Las posiciones que el trader ya tenía al arrancar el bot no se copian (se espera a que las cierre).
 - Precio simulado: el del fill del trader con deslizamiento + comisión de taker.
@@ -112,7 +112,7 @@ class Bot:
             if abs(suya) < 1e-12: ign.remove(c); self.guardar()
             return
         px = float(f["px"]); cap = self.capital(t); k = cap / self.capital_suyo.get(t, 1e18)
-        objetivo = suya * k
+        objetivo = suya * k * CFG.get("multiplicador", 1)
         # tope de apalancamiento de la porción
         otras = sum(abs(q) * self.precios.get(cc, e) for cc, (q, e) in self.porc[t]["pos"].items() if cc != c)
         libre = max(CFG["apalancamiento_max"] * cap - otras, 0)
@@ -184,7 +184,7 @@ class Bot:
             for t in T: self.ignorar[t] = list((await self.posiciones_trader(t, dexes)).keys())
             log("posiciones previas (no se copian): " + ", ".join(f"{T[t]['nombre']}={len(v)}" for t, v in self.ignorar.items()))
             self.guardar()
-        log(f"modo simulado · capital {CFG['capital_usd']} $ · {len(T)} traders")
+        log(f"modo simulado · capital {CFG['capital_usd']} $ · {len(T)} traders · tamaño x{CFG.get('multiplicador', 1)}")
         await asyncio.gather(self.escuchar(), self.revisar(), self.periodico())
 
 async def main():

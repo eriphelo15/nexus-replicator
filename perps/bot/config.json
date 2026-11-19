@@ -1,6 +1,7 @@
 {
   "capital_usd": 10000,
-  "apalancamiento_max": 3.0,
+  "multiplicador": 3,
+  "apalancamiento_max": 9.0,
   "comision": 0.00045,
   "desliz": {"normal": 0.0005, "hip3": 0.0015},
   "min_operacion_usd": 5,
