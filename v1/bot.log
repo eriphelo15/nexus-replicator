@@ -156,3 +156,6 @@
 2026-11-19 10:28:10 f53c ajusta io:ANTH -0.03797 -> -0.05787 @ 1856.51 (37 $) realizado +0.00 $ [fill]
 2026-11-19 10:31:43 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-19 10:31:44 escuchando 10 traders
+2026-11-19 11:02:22 69b0 ajusta xyz:ANT +1.219 -> +2.067 @ 104.607 (89 $) realizado +0.00 $ [fill]
+2026-11-19 11:02:25 69b0 ajusta xyz:ANT +2.067 -> +2.121 @ 104.607 (6 $) realizado +0.00 $ [fill]
+2026-11-19 11:02:26 69b0 ajusta xyz:ANT +2.121 -> +2.529 @ 104.607 (43 $) realizado +0.00 $ [fill]
