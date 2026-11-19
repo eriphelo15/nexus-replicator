@@ -1,23 +1,7 @@
 {
- "posiciones": {
-  "FfsmhbvkTZ2TBYTuLgYCWiwhqeosVyH3imuUtWWypump": {
-   "tokens": 27478.444529,
-   "coste": 3.858783942828257,
-   "decimales": 6
-  },
-  "EadD2LMp6EbH9PrbXUFWcrZKMhoKVrZN1gpwRhH5pump": {
-   "tokens": 63981.95500399999,
-   "coste": 21.22331168555541,
-   "decimales": 6
-  },
-  "64Uf4fkAWepSjBF8QKWdftHjtgKb2FG6gZsgmx6Fpump": {
-   "tokens": 311737.573253,
-   "coste": 104.18716645636296,
-   "decimales": 6
-  }
- },
+ "posiciones": {},
  "dia": "2026-11-19",
- "realizado_dia": 0.0,
+ "realizado_dia": -107.09236908474664,
  "pausado": false,
  "ventas_pendientes": {}
 }
