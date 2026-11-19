@@ -132,3 +132,5 @@
 2026-11-19 05:34:19 2312 ajusta xyz:ANT +0.8217 -> +1.458e-05 @ 99.8653 (82 $) realizado +2.06 $ [fill]
 2026-11-19 05:34:29 2312 cierra xyz:ANT +1.458e-05 -> +0 @ 99.86 (0 $) realizado +0.00 $ [fill]
 2026-11-19 05:42:10 escuchando 10 traders
+2026-11-19 05:58:41 f838 abre ZEC +0 -> +0.1581 @ 940.981 (149 $) realizado +0.00 $ [fill]
+2026-11-19 05:59:34 f838 cierra ZEC +0.1581 -> +0 @ 939.805 (149 $) realizado -0.19 $ [fill]
