@@ -829,3 +829,5 @@
 2026-11-19 04:20:15 compra $1.93 de 64Uf4fkA… (0.7 s tras él; precio -0.3% frente al suyo)
 2026-11-19 04:20:16 compra $1.93 de 64Uf4fkA… (0.6 s tras él; precio -0.6% frente al suyo)
 2026-11-19 04:20:17 compra $1.93 de 64Uf4fkA… (0.7 s tras él; precio +0.6% frente al suyo)
+2026-11-19 04:45:19 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-19 04:45:20 escuchando 1 cartera(s)
