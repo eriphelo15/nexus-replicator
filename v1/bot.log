@@ -150,3 +150,9 @@
 2026-11-19 09:49:13 f53c ajusta io:ANTH -0.02042 -> -0.02858 @ 1829.25 (15 $) realizado +0.00 $ [fill]
 2026-11-19 10:13:42 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-19 10:13:43 escuchando 10 traders
+2026-11-19 10:28:08 f53c ajusta io:ANTH -0.02858 -> -0.032 @ 1856.51 (6 $) realizado +0.00 $ [fill]
+2026-11-19 10:28:08 f53c ajusta io:ANTH -0.032 -> -0.0352 @ 1856.51 (6 $) realizado +0.00 $ [fill]
+2026-11-19 10:28:10 f53c ajusta io:ANTH -0.0352 -> -0.03797 @ 1856.51 (5 $) realizado +0.00 $ [fill]
+2026-11-19 10:28:10 f53c ajusta io:ANTH -0.03797 -> -0.05787 @ 1856.51 (37 $) realizado +0.00 $ [fill]
+2026-11-19 10:31:43 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-19 10:31:44 escuchando 10 traders
