@@ -245,3 +245,7 @@
 2026-11-20 10:59:26 escuchando 10 traders
 2026-11-20 11:34:27 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-20 11:34:28 escuchando 10 traders
+2026-11-20 12:06:46 838d ajusta HYPE +30.57 -> +33 @ 63.5499 (155 $) realizado +0.00 $ [fill]
+2026-11-20 12:08:10 838d ajusta HYPE +33 -> +36.55 @ 63.2637 (224 $) realizado +0.00 $ [fill]
+2026-11-20 12:09:11 838d ajusta ZEC +0.7855 -> +1.108 @ 813.735 (263 $) realizado +0.00 $ [fill]
+2026-11-20 12:09:15 838d ajusta ZEC +1.108 -> +1.481 @ 814.899 (304 $) realizado +0.00 $ [fill]
