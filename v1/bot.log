@@ -241,3 +241,5 @@
 2026-11-20 09:09:27 838d ajusta ZEC +0.6919 -> +0.7855 @ 850.296 (80 $) realizado +0.00 $ [fill]
 2026-11-20 10:05:23 escuchando 10 traders
 2026-11-20 10:09:23 f838 ajusta XPL -1363 -> -4408 @ 0.0455318 (139 $) realizado +0.00 $ [fill]
+2026-11-20 10:59:25 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-20 10:59:26 escuchando 10 traders
