@@ -1,5 +1,11 @@
 {
- "posiciones": {},
+ "posiciones": {
+  "GT8WxWKEgxzZiKL89Uu288vb8jnescwpNSrvyHzcpump": {
+   "tokens": 255499.49147199997,
+   "coste": 135.05743799760526,
+   "decimales": 6
+  }
+ },
  "dia": "2026-11-20",
  "realizado_dia": -21.8695749280309,
  "pausado": false,
