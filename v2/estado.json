@@ -1,13 +1,7 @@
 {
- "posiciones": {
-  "GT8WxWKEgxzZiKL89Uu288vb8jnescwpNSrvyHzcpump": {
-   "tokens": 361071.5025029999,
-   "coste": 163.99831756881719,
-   "decimales": 6
-  }
- },
+ "posiciones": {},
  "dia": "2026-11-20",
- "realizado_dia": -21.8695749280309,
+ "realizado_dia": -166.9842084968481,
  "pausado": false,
  "ventas_pendientes": {}
 }
