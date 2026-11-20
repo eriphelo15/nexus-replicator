@@ -911,3 +911,5 @@
 2026-11-20 00:49:52 venta $50.48 de Q8epAD6h… (8.9 s tras él; precio -1.8% frente al suyo) · resultado -21.87 $
 2026-11-20 00:53:57 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-20 00:53:58 escuchando 1 cartera(s)
+2026-11-20 01:26:00 modo simulado · cartera del bot simulado · capital $5000
+2026-11-20 01:26:13 escuchando 1 cartera(s)
