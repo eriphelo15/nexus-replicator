@@ -420,3 +420,8 @@
 2026-11-21 11:33:34 838d cierra PUMP +1.657e+05 -> +0 @ 0.002355 (390 $) realizado +11.15 $ [fill]
 2026-11-21 11:33:38 838d cierra BTC +0.03492 -> +0 @ 58455.8 (2,041 $) realizado +16.74 $ [fill]
 2026-11-21 11:34:22 838d abre HYPE +0 -> +16.04 @ 59.3109 (951 $) realizado +0.00 $ [fill]
+2026-11-21 11:36:29 modo simulado · capital 10000 $ · 10 traders · tamaño x3
+2026-11-21 11:36:29 escuchando 10 traders
+2026-11-21 11:38:50 838d abre ZEC +0 -> +0.3629 @ 759.694 (276 $) realizado +0.00 $ [fill]
+2026-11-21 11:43:29 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-21 11:43:31 escuchando 10 traders
