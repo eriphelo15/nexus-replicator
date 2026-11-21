@@ -415,3 +415,8 @@
 2026-11-21 09:33:48 f53c cierra xyz:LLY -0.04845 -> +0 @ 1353.18 (66 $) realizado +2.70 $ [revisión: él ya no la tiene]
 2026-11-21 09:33:48 f53c cierra xyz:RKLB +0.9924 -> +0 @ 47.2465 (47 $) realizado -3.12 $ [revisión: él ya no la tiene]
 2026-11-21 09:33:48 f53c cierra xyz:NVDA +2.592 -> +0 @ 128.292 (332 $) realizado -7.17 $ [revisión: él ya no la tiene]
+2026-11-21 11:33:15 838d cierra HYPE +26.01 -> +0 @ 59.3337 (1,543 $) realizado +25.92 $ [fill]
+2026-11-21 11:33:22 838d cierra ZEC +0.681 -> +0 @ 771.121 (525 $) realizado +17.87 $ [fill]
+2026-11-21 11:33:34 838d cierra PUMP +1.657e+05 -> +0 @ 0.002355 (390 $) realizado +11.15 $ [fill]
+2026-11-21 11:33:38 838d cierra BTC +0.03492 -> +0 @ 58455.8 (2,041 $) realizado +16.74 $ [fill]
+2026-11-21 11:34:22 838d abre HYPE +0 -> +16.04 @ 59.3109 (951 $) realizado +0.00 $ [fill]
