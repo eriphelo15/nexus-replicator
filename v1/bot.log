@@ -452,3 +452,6 @@
 2026-11-21 20:15:54 escuchando 10 traders
 2026-11-21 20:20:59 838d abre BTC +0 -> +0.01308 @ 60335.1 (789 $) realizado +0.00 $ [fill]
 2026-11-21 20:21:24 838d abre ZEC +0 -> +0.3309 @ 794.195 (263 $) realizado +0.00 $ [fill]
+2026-11-21 22:57:14 modo simulado · capital 10000 $ · 10 traders · tamaño x3
+2026-11-21 22:57:14 escuchando 10 traders
+2026-11-21 23:04:13 838d ajusta BTC +0.01308 -> +0.01733 @ 60085 (255 $) realizado +0.00 $ [fill]
