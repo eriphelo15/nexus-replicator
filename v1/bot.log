@@ -390,3 +390,5 @@
 2026-11-21 05:12:23 f838 ajusta ZEC +0.3041 -> +0.4657 @ 704.244 (114 $) realizado +0.00 $ [fill]
 2026-11-21 05:47:37 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-21 05:47:38 escuchando 10 traders
+2026-11-21 05:56:07 modo simulado · capital 10000 $ · 10 traders · tamaño x3
+2026-11-21 05:56:07 escuchando 10 traders
