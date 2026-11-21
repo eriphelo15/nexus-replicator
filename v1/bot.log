@@ -388,3 +388,5 @@
 2026-11-21 05:09:54 8bae ajusta xyz:NVDA +1.183 -> +1.142 @ 127.608 (5 $) realizado -0.03 $ [fill]
 2026-11-21 05:09:54 8bae cierra xyz:NVDA +1.142 -> +0 @ 127.608 (146 $) realizado -0.88 $ [fill]
 2026-11-21 05:12:23 f838 ajusta ZEC +0.3041 -> +0.4657 @ 704.244 (114 $) realizado +0.00 $ [fill]
+2026-11-21 05:47:37 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-21 05:47:38 escuchando 10 traders
