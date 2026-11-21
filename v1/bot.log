@@ -334,3 +334,8 @@
 2026-11-20 21:43:39 92ec cierra BTC +0.01778 -> +0 @ 59329.3 (1,055 $) realizado -0.90 $ [fill]
 2026-11-21 00:15:47 modo simulado · capital 10000 $ · 10 traders · tamaño x3
 2026-11-21 00:15:47 escuchando 10 traders
+2026-11-21 01:16:29 838d cierra BTC +0.01563 -> +0 @ 59140.3 (924 $) realizado -1.90 $ [fill]
+2026-11-21 01:16:32 838d cierra SOL +2.593 -> +0 @ 69.033 (179 $) realizado +0.58 $ [fill]
+2026-11-21 01:20:27 838d cierra ZEC +2.257 -> +0 @ 755.726 (1,706 $) realizado -160.20 $ [fill]
+2026-11-21 01:20:34 838d ajusta HYPE +40.97 -> +16.48 @ 60.6607 (1,485 $) realizado -114.46 $ [fill]
+2026-11-21 01:20:37 838d cierra HYPE +16.48 -> +0 @ 60.5708 (998 $) realizado -78.54 $ [fill]
