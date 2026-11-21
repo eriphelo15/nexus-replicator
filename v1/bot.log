@@ -397,3 +397,7 @@
 2026-11-21 07:11:56 f838 ajusta HYPE -4.511 -> -6.77 @ 58.5742 (132 $) realizado +0.00 $ [fill]
 2026-11-21 08:34:08 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-21 08:34:09 escuchando 10 traders
+2026-11-21 09:17:09 838d abre BTC +0 -> +0.02616 @ 57964.8 (1,516 $) realizado +0.00 $ [fill]
+2026-11-21 09:17:31 838d abre HYPE +0 -> +21.62 @ 58.3069 (1,260 $) realizado +0.00 $ [fill]
+2026-11-21 09:24:05 838d ajusta HYPE +21.62 -> +26.01 @ 58.4857 (257 $) realizado +0.00 $ [fill]
+2026-11-21 09:25:22 838d ajusta BTC +0.02616 -> +0.03492 @ 58010.5 (508 $) realizado +0.00 $ [fill]
