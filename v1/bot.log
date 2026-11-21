@@ -401,3 +401,17 @@
 2026-11-21 09:17:31 838d abre HYPE +0 -> +21.62 @ 58.3069 (1,260 $) realizado +0.00 $ [fill]
 2026-11-21 09:24:05 838d ajusta HYPE +21.62 -> +26.01 @ 58.4857 (257 $) realizado +0.00 $ [fill]
 2026-11-21 09:25:22 838d ajusta BTC +0.02616 -> +0.03492 @ 58010.5 (508 $) realizado +0.00 $ [fill]
+2026-11-21 09:26:31 838d abre ZEC +0 -> +0.681 @ 744.886 (507 $) realizado +0.00 $ [fill]
+2026-11-21 09:29:56 838d abre PUMP +0 -> +1.657e+05 @ 0.00228769 (379 $) realizado +0.00 $ [fill]
+2026-11-21 09:31:42 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-21 09:31:43 conexión perdida (InvalidStatus); reconecto en 2 s
+2026-11-21 09:31:45 conexión perdida (InvalidStatus); reconecto en 4 s
+2026-11-21 09:31:49 conexión perdida (InvalidStatus); reconecto en 8 s
+2026-11-21 09:31:58 conexión perdida (InvalidStatus); reconecto en 16 s
+2026-11-21 09:32:14 conexión perdida (InvalidStatus); reconecto en 30 s
+2026-11-21 09:32:25 d469 cierra HYPE +16.86 -> +0 @ 58.4008 (985 $) realizado -189.79 $ [revisión: él ya no la tiene]
+2026-11-21 09:32:44 conexión perdida (InvalidStatus); reconecto en 30 s
+2026-11-21 09:33:15 escuchando 10 traders
+2026-11-21 09:33:48 f53c cierra xyz:LLY -0.04845 -> +0 @ 1353.18 (66 $) realizado +2.70 $ [revisión: él ya no la tiene]
+2026-11-21 09:33:48 f53c cierra xyz:RKLB +0.9924 -> +0 @ 47.2465 (47 $) realizado -3.12 $ [revisión: él ya no la tiene]
+2026-11-21 09:33:48 f53c cierra xyz:NVDA +2.592 -> +0 @ 128.292 (332 $) realizado -7.17 $ [revisión: él ya no la tiene]
