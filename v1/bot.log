@@ -395,3 +395,5 @@
 2026-11-21 06:16:15 f53c ajusta BTC +0.01213 -> +0.01283 @ 55333.7 (39 $) realizado +0.00 $ [fill]
 2026-11-21 07:09:27 f838 abre HYPE +0 -> -4.511 @ 58.6506 (265 $) realizado +0.00 $ [fill]
 2026-11-21 07:11:56 f838 ajusta HYPE -4.511 -> -6.77 @ 58.5742 (132 $) realizado +0.00 $ [fill]
+2026-11-21 08:34:08 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-21 08:34:09 escuchando 10 traders
