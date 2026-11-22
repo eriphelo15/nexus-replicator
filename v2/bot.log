@@ -1005,3 +1005,10 @@
 2026-11-22 18:02:17 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-22 18:02:19 escuchando 1 cartera(s)
 2026-11-22 18:09:19 sin cotización para 2tHu2hyT
+2026-11-22 18:14:25 compra $1.93 de 2tHu2hyT… (1.6 s tras él; precio +39.7% frente al suyo)
+2026-11-22 18:15:15 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-22 18:15:16 escuchando 1 cartera(s)
+2026-11-22 18:18:51 venta $4.73 de 7R4MP6VX… (3.9 s tras él; precio +4.8% frente al suyo) · resultado +3.48 $
+2026-11-22 18:19:31 compra ignorada por antigua (20 s): 2zopNApBuXwh
+2026-11-22 18:19:54 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-22 18:19:55 escuchando 1 cartera(s)
