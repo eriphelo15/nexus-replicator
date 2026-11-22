@@ -543,3 +543,6 @@
 2026-11-22 12:50:02 838d abre ZEC +0 -> +0.4662 @ 792.369 (369 $) realizado +0.00 $ [fill]
 2026-11-22 13:05:08 escuchando 10 traders
 2026-11-22 13:10:44 838d ajusta ZEC +0.4662 -> +0.4996 @ 793.819 (26 $) realizado +0.00 $ [fill]
+2026-11-22 13:29:10 838d abre BTC +0 -> +0.0109 @ 60680.3 (661 $) realizado +0.00 $ [fill]
+2026-11-22 13:32:38 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-22 13:32:39 escuchando 10 traders
