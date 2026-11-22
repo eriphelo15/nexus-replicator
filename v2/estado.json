@@ -16,13 +16,13 @@
    "decimales": 6
   },
   "baQxEuzMJ69RExbkCGLSrdSueWXCfp4tbi4nKZQpvoy": {
-   "tokens": 301449.136691,
-   "coste": 19.293919714141285,
+   "tokens": 226086.85251825413,
+   "coste": 14.470439785606228,
    "decimales": 6
   }
  },
  "dia": "2026-11-22",
- "realizado_dia": 0.0,
+ "realizado_dia": 7.285179071464943,
  "pausado": false,
  "ventas_pendientes": {}
 }
