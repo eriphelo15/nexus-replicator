@@ -14,15 +14,10 @@
    "tokens": 226086.85251825413,
    "coste": 14.470439785606228,
    "decimales": 6
-  },
-  "2tHu2hyTFRVKTnmLPeadN2xivajbwsYeCWV7rQzKSYNC": {
-   "tokens": 17416.84017300048,
-   "coste": 0.9646959857070908,
-   "decimales": 6
   }
  },
  "dia": "2026-11-22",
- "realizado_dia": 13.449667021513651,
+ "realizado_dia": 12.825244035806561,
  "pausado": false,
  "ventas_pendientes": {}
 }
