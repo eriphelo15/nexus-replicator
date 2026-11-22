@@ -990,3 +990,7 @@
 2026-11-22 15:50:02 escuchando 1 cartera(s)
 2026-11-22 15:57:18 compra $19.29 de baQxEuzM… (0.5 s tras él; precio +133.0% frente al suyo)
 2026-11-22 16:06:50 venta $12.11 de baQxEuzM… (0.7 s tras él; precio -10.5% frente al suyo) · resultado +7.29 $
+2026-11-22 16:50:15 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-22 16:50:17 escuchando 1 cartera(s)
+2026-11-22 16:58:37 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-22 16:58:39 escuchando 1 cartera(s)
