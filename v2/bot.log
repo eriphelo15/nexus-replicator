@@ -1012,3 +1012,6 @@
 2026-11-22 18:19:31 compra ignorada por antigua (20 s): 2zopNApBuXwh
 2026-11-22 18:19:54 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-22 18:19:55 escuchando 1 cartera(s)
+2026-11-22 18:20:24 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-22 18:20:25 escuchando 1 cartera(s)
+2026-11-22 18:27:35 venta $1.31 de 2tHu2hyT… (1.6 s tras él; precio +2.1% frente al suyo) · resultado +0.35 $
