@@ -5,11 +5,6 @@
    "coste": 500.0,
    "decimales": 6
   },
-  "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump": {
-   "tokens": 6479.871047403769,
-   "coste": 1.2450320321221262,
-   "decimales": 6
-  },
   "5JCM2Vyp6xxEYqc6Jeot6KS2PhicsWLkhK9yDCBwhNcS": {
    "tokens": 13789.852981,
    "coste": 7.109911768905148,
@@ -27,7 +22,7 @@
   }
  },
  "dia": "2026-11-22",
- "realizado_dia": 11.114699053635778,
+ "realizado_dia": 13.449667021513651,
  "pausado": false,
  "ventas_pendientes": {}
 }
