@@ -623,3 +623,6 @@
 2026-11-23 07:04:25 838d cierra ZEC +0.6992 -> +0 @ 785.345 (549 $) realizado -4.93 $ [fill]
 2026-11-23 07:31:56 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-23 07:31:57 escuchando 10 traders
+2026-11-23 08:38:07 modo simulado · capital 10000 $ · 10 traders · tamaño x3
+2026-11-23 08:38:07 escuchando 10 traders
+2026-11-23 08:39:04 f53c cierra BTC +0.01283 -> +0 @ 61364.6 (787 $) realizado +47.91 $ [fill]
