@@ -4,15 +4,10 @@
    "tokens": 228495.838421,
    "coste": 500.0,
    "decimales": 6
-  },
-  "8SymmzsWdQBweqCK1p35MGNCwgw8FgPRdL4KPckdata": {
-   "tokens": 150797.2125025,
-   "coste": 14.470439785605965,
-   "decimales": 6
   }
  },
  "dia": "2026-11-23",
- "realizado_dia": -6.879712554511112,
+ "realizado_dia": -15.160648340117078,
  "pausado": false,
  "ventas_pendientes": {}
 }
