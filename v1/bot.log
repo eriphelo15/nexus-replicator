@@ -631,3 +631,4 @@
 2026-11-23 11:34:54 escuchando 10 traders
 2026-11-23 13:18:26 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-23 13:18:28 escuchando 10 traders
+2026-11-23 13:33:31 92ec ajusta xyz:NVDA +5.923 -> +4.691 @ 135.856 (167 $) realizado -2.74 $ [fill]
