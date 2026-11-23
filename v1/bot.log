@@ -629,3 +629,5 @@
 2026-11-23 11:24:41 f838 ajusta HYPE -12.12 -> -24.52 @ 63.8296 (791 $) realizado +0.00 $ [fill]
 2026-11-23 11:28:47 f838 cierra XTEN +146.6 -> +0 @ 0.186157 (27 $) realizado +2.87 $ [fill]
 2026-11-23 11:34:54 escuchando 10 traders
+2026-11-23 13:18:26 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-23 13:18:28 escuchando 10 traders
