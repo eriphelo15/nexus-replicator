@@ -663,3 +663,10 @@
 2026-11-23 14:17:25 f838 ajusta HYPE -49.96 -> -50.79 @ 68.1189 (57 $) realizado +0.00 $ [fill]
 2026-11-23 14:18:34 modo simulado · capital 10000 $ · 10 traders · tamaño x3
 2026-11-23 14:18:34 escuchando 10 traders
+2026-11-23 14:39:12 92ec ajusta xyz:ANT +10.36 -> +7.575 @ 88.9142 (248 $) realizado -4.64 $ [fill]
+2026-11-23 14:39:47 92ec ajusta xyz:ANT +7.575 -> +5.691 @ 89.2967 (168 $) realizado -2.42 $ [fill]
+2026-11-23 14:41:10 92ec ajusta xyz:ANT +5.691 -> +2.764 @ 90.0727 (264 $) realizado -1.49 $ [fill]
+2026-11-23 14:41:14 92ec cierra xyz:ANT +2.764 -> +0 @ 89.9748 (249 $) realizado -1.67 $ [fill]
+2026-11-23 14:42:32 escuchando 10 traders
+2026-11-23 14:44:08 f838 ajusta BTC -0.03101 -> -0.0233 @ 63238.6 (487 $) realizado +0.06 $ [fill]
+2026-11-23 14:44:15 f838 ajusta BTC -0.0233 -> -0.03493 @ 63175.4 (735 $) realizado +0.00 $ [fill]
