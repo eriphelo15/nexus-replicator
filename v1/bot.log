@@ -621,3 +621,5 @@
 2026-11-23 02:57:47 escuchando 10 traders
 2026-11-23 05:46:23 escuchando 10 traders
 2026-11-23 07:04:25 838d cierra ZEC +0.6992 -> +0 @ 785.345 (549 $) realizado -4.93 $ [fill]
+2026-11-23 07:31:56 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-23 07:31:57 escuchando 10 traders
