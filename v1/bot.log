@@ -637,3 +637,16 @@
 2026-11-23 13:56:55 92ec cierra xyz:SOXL +13.67 -> +0 @ 39.1745 (536 $) realizado +117.29 $ [fill]
 2026-11-23 13:56:55 92ec cierra xyz:NVDA +4.691 -> +0 @ 149.006 (699 $) realizado +51.24 $ [fill]
 2026-11-23 13:58:40 92ec abre ZEC +0 -> +0.9463 @ 828.405 (784 $) realizado +0.00 $ [fill]
+2026-11-23 13:58:51 92ec ajusta ZEC +0.9463 -> +1.257 @ 832.014 (258 $) realizado +0.00 $ [fill]
+2026-11-23 13:59:57 92ec ajusta xyz:SKHX +0.2804 -> +1.633 @ 837.808 (1,133 $) realizado +0.00 $ [fill]
+2026-11-23 14:01:25 92ec abre xyz:ANT +0 -> +10.36 @ 90.5807 (938 $) realizado +0.00 $ [fill]
+2026-11-23 14:01:25 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-23 14:01:27 escuchando 10 traders
+2026-11-23 14:01:49 f838 cierra LIT +81.55 -> +0 @ 2.5924 (211 $) realizado +28.61 $ [fill]
+2026-11-23 14:01:49 f838 cierra HYPE -24.52 -> +0 @ 66.9253 (1,641 $) realizado -129.54 $ [fill]
+2026-11-23 14:01:49 f838 cierra XPL -4408 -> +0 @ 0.0476108 (210 $) realizado -7.52 $ [fill]
+2026-11-23 14:01:49 f838 cierra ZEC +0.529 -> +0 @ 841.657 (445 $) realizado +45.97 $ [fill]
+2026-11-23 14:01:49 f838 cierra MON +4883 -> +0 @ 0.0120023 (59 $) realizado -7.90 $ [fill]
+2026-11-23 14:01:49 f838 cierra CASHCAT +2206 -> +0 @ 0.0439661 (97 $) realizado +17.27 $ [fill]
+2026-11-23 14:01:58 f838 abre HYPE +0 -> -49.43 @ 66.7266 (3,299 $) realizado +0.00 $ [fill]
+2026-11-23 14:02:15 f838 abre BTC +0 -> -0.03101 @ 63246.7 (1,961 $) realizado +0.00 $ [fill]
