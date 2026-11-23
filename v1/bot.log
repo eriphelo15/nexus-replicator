@@ -632,3 +632,8 @@
 2026-11-23 13:18:26 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-23 13:18:28 escuchando 10 traders
 2026-11-23 13:33:31 92ec ajusta xyz:NVDA +5.923 -> +4.691 @ 135.856 (167 $) realizado -2.74 $ [fill]
+2026-11-23 13:53:29 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-23 13:53:30 escuchando 10 traders
+2026-11-23 13:56:55 92ec cierra xyz:SOXL +13.67 -> +0 @ 39.1745 (536 $) realizado +117.29 $ [fill]
+2026-11-23 13:56:55 92ec cierra xyz:NVDA +4.691 -> +0 @ 149.006 (699 $) realizado +51.24 $ [fill]
+2026-11-23 13:58:40 92ec abre ZEC +0 -> +0.9463 @ 828.405 (784 $) realizado +0.00 $ [fill]
