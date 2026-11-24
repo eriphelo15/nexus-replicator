@@ -985,3 +985,9 @@
 2026-11-24 15:43:01 92ec ajusta xyz:SNDK +0.8176 -> +7.258 @ 75.6633 (487 $) realizado +0.00 $ [fill]
 2026-11-24 15:59:42 escuchando 10 traders
 2026-11-24 16:06:38 92ec abre xyz:NVDA +0 -> +4.924 @ 151.427 (746 $) realizado +0.00 $ [fill]
+2026-11-24 16:23:26 f838 abre HYPE +0 -> +6.512 @ 60.7186 (395 $) realizado +0.00 $ [fill]
+2026-11-24 16:23:46 f838 cierra HYPE +6.512 -> +0 @ 60.7636 (396 $) realizado +0.29 $ [fill]
+2026-11-24 16:25:24 f838 abre HYPE +0 -> -9.118 @ 61.0218 (556 $) realizado +0.00 $ [fill]
+2026-11-24 16:25:34 f838 ajusta HYPE -9.118 -> -10.42 @ 60.9841 (79 $) realizado +0.00 $ [fill]
+2026-11-24 16:25:46 f838 ajusta ZEC +0.1829 -> +0.2323 @ 718.266 (35 $) realizado +0.00 $ [fill]
+2026-11-24 16:27:27 f838 ajusta MON +1.067e+04 -> +1.579e+04 @ 0.0101471 (52 $) realizado +0.00 $ [fill]
