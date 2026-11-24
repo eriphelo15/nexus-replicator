@@ -934,3 +934,6 @@
 2026-11-24 10:12:26 escuchando 10 traders
 2026-11-24 11:08:19 f838 abre para:ANSEM +0 -> +1091 @ 0.0245566 (27 $) realizado +0.00 $ [fill]
 2026-11-24 11:08:49 f838 cierra para:ANSEM +1091 -> +0 @ 0.0231913 (25 $) realizado -1.49 $ [fill]
+2026-11-24 11:13:58 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-24 11:13:59 escuchando 10 traders
+2026-11-24 11:17:41 838d ajusta HYPE +22.66 -> +23.42 @ 62.2315 (47 $) realizado +0.00 $ [fill]
