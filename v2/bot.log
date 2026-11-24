@@ -1234,3 +1234,5 @@
 2026-11-24 14:56:06 escuchando 1 cartera(s)
 2026-11-24 15:13:35 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-24 15:13:37 escuchando 1 cartera(s)
+2026-11-24 15:30:04 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-24 15:30:06 escuchando 1 cartera(s)
