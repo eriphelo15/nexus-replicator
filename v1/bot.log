@@ -932,3 +932,5 @@
 2026-11-24 09:02:41 f838 ajusta XPL -7128 -> -7995 @ 0.0455192 (39 $) realizado +0.00 $ [fill]
 2026-11-24 09:34:59 f838 ajusta MON +8573 -> +1.067e+04 @ 0.0126635 (27 $) realizado +0.00 $ [fill]
 2026-11-24 10:12:26 escuchando 10 traders
+2026-11-24 11:08:19 f838 abre para:ANSEM +0 -> +1091 @ 0.0245566 (27 $) realizado +0.00 $ [fill]
+2026-11-24 11:08:49 f838 cierra para:ANSEM +1091 -> +0 @ 0.0231913 (25 $) realizado -1.49 $ [fill]
