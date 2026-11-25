@@ -1068,3 +1068,6 @@
 2026-11-25 17:04:04 838d cierra BTC +0.01006 -> +0 @ 58716.1 (591 $) realizado +3.89 $ [fill]
 2026-11-25 17:21:47 modo simulado · capital 10000 $ · 10 traders · tamaño x3
 2026-11-25 17:21:47 escuchando 10 traders
+2026-11-25 17:43:07 f838 abre HYPE +0 -> -12.45 @ 60.1513 (749 $) realizado +0.00 $ [fill]
+2026-11-25 17:44:09 f838 ajusta HYPE -12.45 -> -13.82 @ 60.0939 (82 $) realizado +0.00 $ [fill]
+2026-11-25 17:45:28 f838 ajusta MON +2.121e+04 -> +1.076e+04 @ 0.0118437 (124 $) realizado +7.16 $ [fill]
