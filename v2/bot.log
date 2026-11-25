@@ -1356,3 +1356,5 @@
 2026-11-25 10:01:13 escuchando 1 cartera(s)
 2026-11-25 10:25:52 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-25 10:25:53 escuchando 1 cartera(s)
+2026-11-25 11:20:20 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-25 11:20:21 escuchando 1 cartera(s)
