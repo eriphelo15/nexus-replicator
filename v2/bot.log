@@ -1588,3 +1588,7 @@
 2026-11-26 18:31:42 conexión perdida (TimeoutError); reconecto en 2 s
 2026-11-26 18:31:54 conexión perdida (TimeoutError); reconecto en 4 s
 2026-11-26 18:32:05 escuchando 1 cartera(s)
+2026-11-26 18:39:50 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-26 18:39:51 escuchando 1 cartera(s)
+2026-11-26 18:41:52 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-26 18:41:54 escuchando 1 cartera(s)
