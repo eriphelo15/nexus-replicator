@@ -1646,3 +1646,6 @@
 2026-11-26 23:00:14 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-26 23:00:15 escuchando 1 cartera(s)
 2026-11-26 23:00:21 venta $105.71 de 9hjBLBrc… (14.5 s tras él; precio -2.0% frente al suyo) · resultado -150.23 $
+2026-11-26 23:27:23 compra ignorada por antigua (26 s): 3wDqTwGh8vtR
+2026-11-26 23:27:26 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-26 23:27:32 escuchando 1 cartera(s)
