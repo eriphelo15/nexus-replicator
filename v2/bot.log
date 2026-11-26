@@ -1649,3 +1649,10 @@
 2026-11-26 23:27:23 compra ignorada por antigua (26 s): 3wDqTwGh8vtR
 2026-11-26 23:27:26 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-26 23:27:32 escuchando 1 cartera(s)
+2026-11-26 23:35:26 compra $57.88 de 81TW4gTE… (3.2 s tras él; precio +17.2% frente al suyo)
+2026-11-26 23:36:26 venta $28.36 de 81TW4gTE… (8.5 s tras él; precio -20.8% frente al suyo) · resultado -0.58 $
+2026-11-26 23:37:28 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-26 23:37:29 escuchando 1 cartera(s)
+2026-11-26 23:39:27 venta $10.23 de 81TW4gTE… (8.3 s tras él; precio +27.1% frente al suyo) · resultado -18.71 $
+2026-11-26 23:39:42 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-26 23:39:43 escuchando 1 cartera(s)
