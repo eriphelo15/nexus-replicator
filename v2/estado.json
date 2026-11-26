@@ -1,13 +1,13 @@
 {
  "posiciones": {
   "9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump": {
-   "tokens": 228495.838421,
-   "coste": 500.0,
+   "tokens": 116959.41990368001,
+   "coste": 255.93336997276975,
    "decimales": 6
   }
  },
- "dia": "2026-11-24",
- "realizado_dia": -44.859589284847715,
+ "dia": "2026-11-26",
+ "realizado_dia": -135.09623002723026,
  "pausado": false,
  "ventas_pendientes": {}
 }
