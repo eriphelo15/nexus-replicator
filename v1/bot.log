@@ -1224,3 +1224,7 @@
 2026-11-27 09:04:13 modo simulado · capital 10000 $ · 10 traders · tamaño x3
 2026-11-27 09:04:14 escuchando 10 traders
 2026-11-27 09:04:58 92ec cierra xyz:SKHX +0.5725 -> +0 @ 833.98 (477 $) realizado -4.06 $ [fill]
+2026-11-27 10:46:01 69b0 ajusta BTC -0.04918 -> -0.04997 @ 61559.2 (48 $) realizado +0.00 $ [fill]
+2026-11-27 10:46:02 69b0 ajusta BTC -0.04997 -> -0.04971 @ 61620.8 (16 $) realizado -0.42 $ [fill]
+2026-11-27 10:46:03 69b0 ajusta BTC -0.04971 -> -0.04554 @ 61620.8 (257 $) realizado -6.76 $ [fill]
+2026-11-27 10:46:04 69b0 ajusta BTC -0.04554 -> -0.0357 @ 61620.8 (607 $) realizado -15.98 $ [fill]
