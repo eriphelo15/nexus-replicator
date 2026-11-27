@@ -1232,3 +1232,5 @@
 2026-11-27 11:17:48 f53c ajusta xyz:SPCX +2.235 -> +2.359 @ 132.248 (16 $) realizado +0.00 $ [fill]
 2026-11-27 11:53:20 838d abre HYPE +0 -> +6.534 @ 65.8292 (430 $) realizado +0.00 $ [fill]
 2026-11-27 12:05:52 escuchando 10 traders
+2026-11-27 13:40:15 838d cierra HYPE +6.534 -> +0 @ 66.0899 (432 $) realizado +1.70 $ [fill]
+2026-11-27 13:40:29 838d abre BTC +0 -> +0.01396 @ 61451.7 (858 $) realizado +0.00 $ [fill]
