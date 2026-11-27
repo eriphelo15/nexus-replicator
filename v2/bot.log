@@ -1704,3 +1704,5 @@
 2026-11-27 20:08:53 compra $192.94 de 65iH8k73… (5.5 s tras él; precio +7.0% frente al suyo)
 2026-11-27 20:15:58 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-27 20:15:59 escuchando 1 cartera(s)
+2026-11-27 20:24:25 modo simulado · cartera del bot simulado · capital $5000
+2026-11-27 20:24:33 escuchando 1 cartera(s)
