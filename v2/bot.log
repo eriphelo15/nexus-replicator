@@ -1656,3 +1656,5 @@
 2026-11-26 23:39:27 venta $10.23 de 81TW4gTE… (8.3 s tras él; precio +27.1% frente al suyo) · resultado -18.71 $
 2026-11-26 23:39:42 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-26 23:39:43 escuchando 1 cartera(s)
+2026-11-27 01:59:35 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-27 01:59:36 escuchando 1 cartera(s)
