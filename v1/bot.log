@@ -1269,3 +1269,14 @@
 2026-11-28 04:59:05 escuchando 10 traders
 2026-11-28 07:45:43 modo simulado · capital 10000 $ · 10 traders · tamaño x3
 2026-11-28 07:45:43 escuchando 10 traders
+2026-11-28 08:10:08 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 08:10:09 conexión perdida (InvalidStatus); reconecto en 2 s
+2026-11-28 08:10:11 conexión perdida (InvalidStatus); reconecto en 4 s
+2026-11-28 08:10:15 conexión perdida (InvalidStatus); reconecto en 8 s
+2026-11-28 08:10:24 conexión perdida (InvalidStatus); reconecto en 16 s
+2026-11-28 08:10:40 conexión perdida (InvalidStatus); reconecto en 30 s
+2026-11-28 08:11:04 ca7c cierra xyz:BRENTOIL -10.32 -> +0 @ 90.9011 (938 $) realizado -2.94 $ [revisión: él ya no la tiene]
+2026-11-28 08:11:04 ca7c cierra xyz:SILVER -27.55 -> +0 @ 43.8977 (1,209 $) realizado -69.88 $ [revisión: él ya no la tiene]
+2026-11-28 08:11:10 conexión perdida (InvalidStatus); reconecto en 30 s
+2026-11-28 08:11:30 69b0 cierra BTC -0.0357 -> +0 @ 59748.4 (2,133 $) realizado +8.91 $ [revisión: él ya no la tiene]
+2026-11-28 08:11:40 escuchando 10 traders
