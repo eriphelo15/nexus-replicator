@@ -2351,3 +2351,65 @@
 2026-11-28 06:42:21 escuchando 1 cartera(s)
 2026-11-28 06:43:22 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-28 06:43:32 escuchando 1 cartera(s)
+2026-11-28 06:45:22 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:45:30 escuchando 1 cartera(s)
+2026-11-28 06:45:32 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:45:38 escuchando 1 cartera(s)
+2026-11-28 06:45:39 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:45:43 escuchando 1 cartera(s)
+2026-11-28 06:45:45 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:45:48 conexión perdida (InvalidMessage); reconecto en 2 s
+2026-11-28 06:45:53 escuchando 1 cartera(s)
+2026-11-28 06:45:55 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:46:00 escuchando 1 cartera(s)
+2026-11-28 06:46:11 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:46:13 conexión perdida (InvalidMessage); reconecto en 2 s
+2026-11-28 06:46:20 escuchando 1 cartera(s)
+2026-11-28 06:46:34 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:46:37 escuchando 1 cartera(s)
+2026-11-28 06:46:40 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:46:44 escuchando 1 cartera(s)
+2026-11-28 06:46:47 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:46:52 escuchando 1 cartera(s)
+2026-11-28 06:47:04 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:47:07 conexión perdida (InvalidMessage); reconecto en 2 s
+2026-11-28 06:47:12 conexión perdida (InvalidMessage); reconecto en 4 s
+2026-11-28 06:47:18 escuchando 1 cartera(s)
+2026-11-28 06:47:22 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:47:27 escuchando 1 cartera(s)
+2026-11-28 06:52:22 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:52:27 escuchando 1 cartera(s)
+2026-11-28 06:52:30 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:52:33 escuchando 1 cartera(s)
+2026-11-28 06:52:34 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:52:36 escuchando 1 cartera(s)
+2026-11-28 06:52:36 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:52:38 escuchando 1 cartera(s)
+2026-11-28 06:52:40 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:52:41 escuchando 1 cartera(s)
+2026-11-28 06:52:45 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:52:49 escuchando 1 cartera(s)
+2026-11-28 06:53:01 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:53:04 escuchando 1 cartera(s)
+2026-11-28 06:53:06 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:53:08 escuchando 1 cartera(s)
+2026-11-28 06:53:08 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:53:10 escuchando 1 cartera(s)
+2026-11-28 06:53:18 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:53:20 escuchando 1 cartera(s)
+2026-11-28 06:53:21 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:53:23 escuchando 1 cartera(s)
+2026-11-28 06:53:25 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:53:27 escuchando 1 cartera(s)
+2026-11-28 06:53:28 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:53:29 escuchando 1 cartera(s)
+2026-11-28 06:53:43 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:53:44 escuchando 1 cartera(s)
+2026-11-28 06:53:46 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:53:48 escuchando 1 cartera(s)
+2026-11-28 06:54:00 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:54:02 escuchando 1 cartera(s)
+2026-11-28 06:54:04 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:54:05 escuchando 1 cartera(s)
+2026-11-28 06:54:21 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 06:54:23 escuchando 1 cartera(s)
