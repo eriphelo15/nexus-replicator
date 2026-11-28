@@ -1990,3 +1990,69 @@
 2026-11-28 05:42:23 escuchando 1 cartera(s)
 2026-11-28 05:43:19 conexión perdida (ConnectionClosedError); reconecto en 1 s
 2026-11-28 05:43:29 escuchando 1 cartera(s)
+2026-11-28 05:45:19 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:45:26 conexión perdida (InvalidMessage); reconecto en 2 s
+2026-11-28 05:45:32 escuchando 1 cartera(s)
+2026-11-28 05:45:33 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:45:37 conexión perdida (ConnectionClosedError); reconecto en 2 s
+2026-11-28 05:45:43 escuchando 1 cartera(s)
+2026-11-28 05:45:46 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:45:50 escuchando 1 cartera(s)
+2026-11-28 05:45:51 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:45:54 conexión perdida (InvalidMessage); reconecto en 2 s
+2026-11-28 05:45:57 escuchando 1 cartera(s)
+2026-11-28 05:45:58 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:46:01 escuchando 1 cartera(s)
+2026-11-28 05:46:01 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:46:05 escuchando 1 cartera(s)
+2026-11-28 05:46:08 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:46:12 conexión perdida (ConnectionClosedError); reconecto en 2 s
+2026-11-28 05:46:16 escuchando 1 cartera(s)
+2026-11-28 05:46:24 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:46:28 escuchando 1 cartera(s)
+2026-11-28 05:46:41 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:46:46 escuchando 1 cartera(s)
+2026-11-28 05:47:06 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:47:09 escuchando 1 cartera(s)
+2026-11-28 05:47:10 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:47:13 conexión perdida (ConnectionClosedError); reconecto en 2 s
+2026-11-28 05:47:18 escuchando 1 cartera(s)
+2026-11-28 05:48:20 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:48:31 escuchando 1 cartera(s)
+2026-11-28 05:50:20 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:50:28 escuchando 1 cartera(s)
+2026-11-28 05:50:34 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:50:38 escuchando 1 cartera(s)
+2026-11-28 05:50:40 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:50:43 escuchando 1 cartera(s)
+2026-11-28 05:50:49 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:50:53 escuchando 1 cartera(s)
+2026-11-28 05:50:54 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:50:57 conexión perdida (ConnectionClosedError); reconecto en 2 s
+2026-11-28 05:51:00 escuchando 1 cartera(s)
+2026-11-28 05:51:07 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:51:11 escuchando 1 cartera(s)
+2026-11-28 05:51:11 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:51:15 escuchando 1 cartera(s)
+2026-11-28 05:51:18 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:51:20 conexión perdida (InvalidMessage); reconecto en 2 s
+2026-11-28 05:51:23 conexión perdida (InvalidMessage); reconecto en 4 s
+2026-11-28 05:51:30 escuchando 1 cartera(s)
+2026-11-28 05:51:31 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:51:34 escuchando 1 cartera(s)
+2026-11-28 05:51:39 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:51:42 escuchando 1 cartera(s)
+2026-11-28 05:51:42 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:51:46 escuchando 1 cartera(s)
+2026-11-28 05:51:55 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:51:57 escuchando 1 cartera(s)
+2026-11-28 05:51:57 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:52:00 escuchando 1 cartera(s)
+2026-11-28 05:52:02 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:52:04 escuchando 1 cartera(s)
+2026-11-28 05:52:09 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:52:12 escuchando 1 cartera(s)
+2026-11-28 05:52:20 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:52:22 escuchando 1 cartera(s)
+2026-11-28 05:53:20 conexión perdida (ConnectionClosedError); reconecto en 1 s
+2026-11-28 05:53:30 escuchando 1 cartera(s)
